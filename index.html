@@ -103,7 +103,7 @@
   .stat-card .sub { font-size: 10px; color: var(--text-tertiary); margin: 4px 0 0; }
   .stat-card.accent .label, .stat-card.accent .value { color: var(--accent); }
   .progress-bar { background: var(--border); height: 4px; border-radius: 2px; margin: 6px 0 0; overflow: hidden; }
-  .progress-fill { background: var(--accent); height: 100%; }
+  .progress-fill { background: var(--accent); height: 100%; transition: width 0.3s; }
   .chart-card {
     background: var(--surface);
     border: 1px solid var(--border);
@@ -119,6 +119,11 @@
     margin-bottom: 10px;
   }
   .chart-card-title { font-size: 12px; color: var(--text-secondary); margin: 0; font-weight: 500; }
+  .chart-canvas-wrapper {
+    position: relative;
+    height: 140px;
+    width: 100%;
+  }
   .holdings-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -158,7 +163,7 @@
   .holding-name { font-size: 14px; font-weight: 500; margin: 0; }
   .holding-meta { font-size: 10px; color: var(--text-tertiary); }
   .holding-info { font-size: 10px; color: var(--text-tertiary); margin: 3px 0 0; }
-  .mini-chart { width: 100%; height: 24px; margin: 6px 0; }
+  .mini-chart { width: 100%; height: 24px; margin: 6px 0; display: block; }
   .holding-footer {
     display: flex;
     justify-content: space-between;
@@ -211,7 +216,7 @@
     border-bottom: 1px solid var(--border);
   }
   .list-item:last-child { border-bottom: none; }
-  .list-item .item-main { font-size: 12px; color: var(--text-primary); }
+  .list-item .item-main { font-size: 12px; color: var(--text-primary); margin: 0; }
   .list-item .item-sub { font-size: 10px; color: var(--text-tertiary); margin: 2px 0 0; }
   .dday {
     font-size: 10px;
@@ -231,6 +236,7 @@
     padding: 4px 10px;
     border-radius: 4px;
     cursor: pointer;
+    user-select: none;
   }
   .filter-chip.active { background: var(--accent); color: var(--bg); border-color: var(--accent); }
   .modal-overlay {
@@ -252,13 +258,22 @@
     max-width: 500px;
     max-height: 80vh;
     overflow-y: auto;
+    color: var(--text-primary);
   }
   .modal-close { float: right; cursor: pointer; color: var(--text-tertiary); border: none; background: transparent; font-size: 20px; }
   .modal h3 { margin: 0 0 16px; font-size: 18px; font-weight: 500; }
   .modal-row { display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
   .modal-row .key { color: var(--text-secondary); }
   .modal-row .val { font-weight: 500; }
-  .loading { color: var(--text-tertiary); font-style: italic; }
+  .loading { color: var(--text-tertiary); font-style: italic; padding: 12px 0; margin: 0; }
+  .status-bar {
+    font-size: 10px;
+    color: var(--text-tertiary);
+    text-align: right;
+    margin-bottom: 8px;
+  }
+  .status-bar .status-ok { color: var(--tag-long-text); }
+  .status-bar .status-err { color: var(--loss); }
   @media (max-width: 768px) {
     body { padding: 12px; }
     .stat-grid, .index-grid { grid-template-columns: repeat(2, 1fr); }
@@ -294,6 +309,8 @@
     </div>
   </div>
 
+  <p class="status-bar" id="status-bar">초기화 중...</p>
+
   <div class="stat-grid">
     <div class="stat-card">
       <p class="label">매입원가</p>
@@ -319,14 +336,16 @@
 
   <div class="chart-card">
     <div class="chart-card-header">
-      <p class="chart-card-title">시드머니 대비 평가금액 추이</p>
-      <div style="display: flex; gap: 6px;">
+      <p class="chart-card-title">시드머니 대비 평가금액 추이 (시뮬레이션)</p>
+      <div class="news-filters">
         <span class="filter-chip" data-period="7">7D</span>
         <span class="filter-chip active" data-period="30">30D</span>
         <span class="filter-chip" data-period="all">All</span>
       </div>
     </div>
-    <canvas id="trend-chart" style="height: 120px;"></canvas>
+    <div class="chart-canvas-wrapper">
+      <canvas id="trend-chart"></canvas>
+    </div>
   </div>
 
   <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 10px;">
@@ -370,7 +389,7 @@
   <div class="two-col">
     <div>
       <p class="section-label">ECONOMIC CALENDAR</p>
-      <div class="list-card" id="calendar-list">
+      <div class="list-card">
         <div class="list-item">
           <div>
             <p class="item-main">FOMC 회의</p>
@@ -397,7 +416,7 @@
     <div>
       <p class="section-label">CONSENSUS TARGETS</p>
       <div class="list-card" id="consensus-list">
-        <p class="loading" style="padding: 12px 0;">로딩 중...</p>
+        <p class="loading">로딩 중...</p>
       </div>
     </div>
   </div>
@@ -412,7 +431,7 @@
     </div>
   </div>
 
-  <div class="list-card" id="news-list">
+  <div class="list-card">
     <div class="list-item">
       <div>
         <p class="item-main">뉴스 데이터는 별도 채팅에서 News DB 업데이트 후 수동 반영합니다</p>
@@ -424,20 +443,38 @@
 
 </div>
 
-<div class="modal-overlay" id="modal-overlay" onclick="if(event.target===this)closeModal()">
-  <div class="modal" id="modal-content">
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal">
     <button class="modal-close" onclick="closeModal()">×</button>
     <div id="modal-body"></div>
   </div>
 </div>
 
 <script>
+// ===== 전역 상태 =====
 let portfolio = null;
 let fxRate = 1497.76;
 let currentPrices = {};
+let trendChartInstance = null;
+let chartDrawn = false;
 let selectedStrategy = 'all';
 
-// 테마 토글
+// CORS 프록시 (Yahoo Finance 직접 호출 차단 우회)
+const PROXY = 'https://corsproxy.io/?url=';
+
+// ===== 유틸 =====
+function formatKRW(n) { return '₩' + Math.round(n).toLocaleString('ko-KR'); }
+function formatUSD(n) { return '$' + n.toFixed(2); }
+function formatPct(n) { return (n >= 0 ? '+' : '') + n.toFixed(2) + '%'; }
+function daysSince(s) { return Math.floor((Date.now() - new Date(s)) / 86400000); }
+
+function setStatus(text, level) {
+  const el = document.getElementById('status-bar');
+  const cls = level === 'ok' ? 'status-ok' : level === 'err' ? 'status-err' : '';
+  el.innerHTML = `<span class="${cls}">${text}</span>`;
+}
+
+// ===== 테마 =====
 const themeToggle = document.getElementById('theme-toggle');
 const savedTheme = localStorage.getItem('theme') || 'light';
 document.documentElement.setAttribute('data-theme', savedTheme);
@@ -448,23 +485,25 @@ themeToggle.addEventListener('click', () => {
   document.documentElement.setAttribute('data-theme', next);
   themeToggle.textContent = next === 'dark' ? '☀ Light' : '🌙 Dark';
   localStorage.setItem('theme', next);
-  if (window.trendChartInstance) drawTrendChart();
+  // 테마 변경 시에만 차트 재생성
+  if (chartDrawn) {
+    if (trendChartInstance) { trendChartInstance.destroy(); trendChartInstance = null; }
+    drawTrendChart();
+  }
 });
 
-// 시장 개장 여부
+// ===== 시장 개장 =====
 function updateMarketStatus() {
   const now = new Date();
   const kst = new Date(now.toLocaleString('en-US', {timeZone: 'Asia/Seoul'}));
   const hour = kst.getHours();
   const minute = kst.getMinutes();
   const day = kst.getDay();
-  const timeMin = hour * 60 + minute;
+  const t = hour * 60 + minute;
   
-  // KRX: 평일 09:00 - 15:30 KST
-  const krOpen = day >= 1 && day <= 5 && timeMin >= 540 && timeMin <= 930;
-  // NYSE: 평일 23:30 - 06:00 KST (서머타임 22:30 - 05:00, 단순화)
-  const usOpen = (day >= 1 && day <= 5 && (timeMin >= 1410 || timeMin <= 360)) ||
-                 (day === 6 && timeMin <= 360);
+  const krOpen = day >= 1 && day <= 5 && t >= 540 && t <= 930;
+  const usOpen = (day >= 1 && day <= 5 && (t >= 1410 || t <= 360)) ||
+                 (day === 6 && t <= 360);
   
   document.getElementById('kr-led').className = 'led ' + (krOpen ? 'led-on' : 'led-off');
   document.getElementById('kr-status').textContent = 'KRX ' + (krOpen ? '개장' : '휴장');
@@ -472,32 +511,18 @@ function updateMarketStatus() {
   document.getElementById('us-status').textContent = 'NYSE ' + (usOpen ? '개장' : '휴장');
 }
 
-// 숫자 포맷
-function formatKRW(n) { return '₩' + Math.round(n).toLocaleString('ko-KR'); }
-function formatUSD(n) { return '$' + n.toFixed(2); }
-function formatPct(n) { return (n >= 0 ? '+' : '') + n.toFixed(2) + '%'; }
-
-// 보유일 D+N 계산
-function daysSince(dateStr) {
-  const d1 = new Date(dateStr);
-  const d2 = new Date();
-  return Math.floor((d2 - d1) / (1000 * 60 * 60 * 24));
-}
-
-// portfolio.json 로드
+// ===== 데이터 로드 =====
 async function loadPortfolio() {
   try {
     const res = await fetch('portfolio.json?t=' + Date.now());
     portfolio = await res.json();
     return true;
   } catch (e) {
-    console.error('Portfolio 로드 실패:', e);
-    document.getElementById('holdings-grid').innerHTML = '<p style="color: var(--loss);">portfolio.json 로드 실패. GitHub Pages에 파일이 있는지 확인하세요.</p>';
+    setStatus('portfolio.json 로드 실패', 'err');
     return false;
   }
 }
 
-// 환율 로드 (Frankfurter API - 무료, CORS 허용)
 async function loadFxRate() {
   try {
     const res = await fetch('https://api.frankfurter.app/latest?from=USD&to=KRW');
@@ -507,23 +532,22 @@ async function loadFxRate() {
       document.getElementById('fx-rate').textContent = fxRate.toFixed(2);
     }
   } catch (e) {
-    console.warn('환율 로드 실패, 기본값 사용:', e);
     document.getElementById('fx-rate').textContent = fxRate.toFixed(2);
   }
 }
 
-// 한국 종목 시세 (Yahoo Finance 비공식 - .KS / .KQ 접미사)
-// 직접 API 호출 시 CORS 차단되므로 프록시 또는 Yahoo Finance 쿼리 활용
-async function loadKrPrice(ticker) {
+// Yahoo Finance 시세 (CORS 프록시 경유)
+async function loadYahooPrice(symbol) {
   try {
-    const yahooTicker = ticker + '.KS';
-    const res = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${yahooTicker}?interval=1d&range=1mo`);
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/${symbol}?interval=1d&range=1mo`;
+    const res = await fetch(PROXY + encodeURIComponent(url));
+    if (!res.ok) throw new Error('HTTP ' + res.status);
     const data = await res.json();
     if (data.chart && data.chart.result && data.chart.result[0]) {
       const result = data.chart.result[0];
-      const closes = result.indicators.quote[0].close.filter(v => v !== null);
+      const closes = (result.indicators.quote[0].close || []).filter(v => v !== null);
       const current = result.meta.regularMarketPrice || closes[closes.length - 1];
-      const prevClose = result.meta.previousClose;
+      const prevClose = result.meta.previousClose || current;
       return {
         current: current,
         prevClose: prevClose,
@@ -531,58 +555,25 @@ async function loadKrPrice(ticker) {
         changePct: ((current - prevClose) / prevClose) * 100
       };
     }
+    return null;
   } catch (e) {
-    console.warn(`${ticker} 시세 로드 실패:`, e);
+    console.warn(`${symbol} 시세 실패:`, e.message);
+    return null;
   }
-  return null;
 }
 
-// 미국 종목 시세
-async function loadUsPrice(ticker) {
-  try {
-    const res = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${ticker}?interval=1d&range=1mo`);
-    const data = await res.json();
-    if (data.chart && data.chart.result && data.chart.result[0]) {
-      const result = data.chart.result[0];
-      const closes = result.indicators.quote[0].close.filter(v => v !== null);
-      const current = result.meta.regularMarketPrice || closes[closes.length - 1];
-      const prevClose = result.meta.previousClose;
-      return {
-        current: current,
-        prevClose: prevClose,
-        history: closes.slice(-30),
-        changePct: ((current - prevClose) / prevClose) * 100
-      };
-    }
-  } catch (e) {
-    console.warn(`${ticker} 시세 로드 실패:`, e);
-  }
-  return null;
-}
-
-// 지수 로드
 async function loadIndex(symbol, elemPrefix) {
-  try {
-    const res = await fetch(`https://query1.finance.yahoo.com/v8/finance/chart/${symbol}`);
-    const data = await res.json();
-    if (data.chart && data.chart.result && data.chart.result[0]) {
-      const meta = data.chart.result[0].meta;
-      const cur = meta.regularMarketPrice;
-      const prev = meta.previousClose;
-      const chgPct = ((cur - prev) / prev) * 100;
-      document.getElementById(elemPrefix).textContent = cur.toLocaleString('ko-KR', {maximumFractionDigits: 2});
-      const chgEl = document.getElementById(elemPrefix + '-chg');
-      chgEl.textContent = formatPct(chgPct);
-      chgEl.className = 'change ' + (chgPct >= 0 ? 'profit' : 'loss');
-    }
-  } catch (e) {
-    console.warn(`Index ${symbol} 로드 실패:`, e);
-  }
+  const data = await loadYahooPrice(symbol);
+  if (!data) return;
+  document.getElementById(elemPrefix).textContent = data.current.toLocaleString('ko-KR', {maximumFractionDigits: 2});
+  const chgEl = document.getElementById(elemPrefix + '-chg');
+  chgEl.textContent = formatPct(data.changePct);
+  chgEl.className = 'change ' + (data.changePct >= 0 ? 'profit' : 'loss');
 }
 
-// 미니 차트 SVG 생성
+// ===== 렌더링 =====
 function miniChartSvg(history, isProfit) {
-  if (!history || history.length < 2) return '';
+  if (!history || history.length < 2) return '<svg class="mini-chart" viewBox="0 0 200 30"></svg>';
   const min = Math.min(...history);
   const max = Math.max(...history);
   const range = max - min || 1;
@@ -591,11 +582,10 @@ function miniChartSvg(history, isProfit) {
     const y = 28 - ((v - min) / range) * 24;
     return `${x},${y}`;
   }).join(' ');
-  const color = isProfit ? 'var(--profit)' : 'var(--loss)';
-  return `<svg viewBox="0 0 200 30" class="mini-chart"><polyline points="${points}" stroke="${color}" stroke-width="1.5" fill="none"/></svg>`;
+  const color = isProfit ? '#DC2626' : '#2563EB';
+  return `<svg class="mini-chart" viewBox="0 0 200 30"><polyline points="${points}" stroke="${color}" stroke-width="1.5" fill="none"/></svg>`;
 }
 
-// 종목 카드 렌더링
 function renderHoldingCard(h, priceData, isUS) {
   const current = priceData ? priceData.current : h.avgPrice;
   const cost = h.avgPrice * h.quantity;
@@ -603,23 +593,27 @@ function renderHoldingCard(h, priceData, isUS) {
   const pnl = eval_ - cost;
   const pnlRate = (current - h.avgPrice) / h.avgPrice * 100;
   const isProfit = pnlRate >= 0;
-  const isAlert = Math.abs(pnlRate) >= 5;
+  const isAlert = priceData && Math.abs(pnlRate) >= 5;
   const days = daysSince(h.purchaseDate);
+  const noPrice = !priceData;
   
   const tagClass = h.strategy === '장기보유' ? 'tag-long' : 
                    h.strategy === '단기익절' ? 'tag-short' : 'tag-recovery';
   
   const alertClass = isAlert ? (isProfit ? 'alert' : 'alert-loss') : '';
   const alertBadge = isAlert ? 
-    `<span class="alert-badge ${isProfit ? '' : 'loss'}">${formatPct(pnlRate)} 알림</span>` : '';
+    `<span class="alert-badge ${isProfit ? '' : 'loss'}">${formatPct(pnlRate)} 알림</span>` : 
+    (noPrice ? `<span class="alert-badge loss" style="background:#94A3B8;">시세 미수신</span>` : '');
   
   const fmt = isUS ? formatUSD : formatKRW;
-  const krwCost = isUS ? cost * fxRate : cost;
   const krwEval = isUS ? eval_ * fxRate : eval_;
+  const krwCost = isUS ? cost * fxRate : cost;
   const krwPnl = krwEval - krwCost;
   
+  const cardData = JSON.stringify({h, current, isUS}).replace(/'/g, '&apos;').replace(/"/g, '&quot;');
+  
   return `
-    <div class="holding-card ${alertClass}" data-strategy="${h.strategy}" onclick='openModal(${JSON.stringify(h).replace(/'/g, "&apos;")}, ${current}, ${isUS})'>
+    <div class="holding-card ${alertClass}" data-strategy="${h.strategy}" data-card='${cardData}'>
       <div class="holding-header">
         <span class="tag ${tagClass}">${h.strategy}</span>
         ${alertBadge}
@@ -644,14 +638,19 @@ function renderHoldingCard(h, priceData, isUS) {
   `;
 }
 
-// 모달
 function openModal(h, current, isUS) {
   const fmt = isUS ? formatUSD : formatKRW;
   const cost = h.avgPrice * h.quantity;
   const eval_ = current * h.quantity;
   const pnlRate = (current - h.avgPrice) / h.avgPrice * 100;
-  const targetRate = (current - h.avgPrice) / (h.targetPrice - h.avgPrice) * 100;
-  const stopRate = (h.avgPrice - current) / (h.avgPrice - h.stopLossPrice) * 100;
+  const targetRate = h.targetPrice !== h.avgPrice ? 
+    (current - h.avgPrice) / (h.targetPrice - h.avgPrice) * 100 : 0;
+  const stopRate = h.avgPrice !== h.stopLossPrice ? 
+    (h.avgPrice - current) / (h.avgPrice - h.stopLossPrice) * 100 : 0;
+  
+  const naverUrl = isUS ? 
+    `https://m.stock.naver.com/worldstock/stock/${h.ticker}.O/total` :
+    `https://m.stock.naver.com/domestic/stock/${h.ticker}/total`;
   
   document.getElementById('modal-body').innerHTML = `
     <h3>${h.name} <span style="font-size: 12px; color: var(--text-tertiary);">${h.ticker}</span></h3>
@@ -665,10 +664,9 @@ function openModal(h, current, isUS) {
     <div class="modal-row"><span class="key">손익률</span><span class="val ${pnlRate >= 0 ? 'profit' : 'loss'}">${formatPct(pnlRate)}</span></div>
     <div class="modal-row"><span class="key">목표가</span><span class="val">${fmt(h.targetPrice)} (도달률 ${targetRate.toFixed(1)}%)</span></div>
     <div class="modal-row"><span class="key">손절가</span><span class="val">${fmt(h.stopLossPrice)} (임박도 ${stopRate.toFixed(1)}%)</span></div>
-    <div style="margin-top: 16px; display: flex; gap: 8px;">
-      <a href="https://m.stock.naver.com/${isUS ? 'worldstock/stock/' + h.ticker + '.O' : 'domestic/stock/' + h.ticker}/total" 
-         target="_blank"
-         style="flex: 1; text-align: center; padding: 10px; background: var(--accent); color: var(--bg); text-decoration: none; border-radius: 6px; font-size: 13px;">
+    <div style="margin-top: 16px;">
+      <a href="${naverUrl}" target="_blank"
+         style="display: block; text-align: center; padding: 10px; background: var(--accent); color: white; text-decoration: none; border-radius: 6px; font-size: 13px;">
         네이버 금융에서 보기
       </a>
     </div>
@@ -680,44 +678,25 @@ function closeModal() {
   document.getElementById('modal-overlay').classList.remove('show');
 }
 
-// 메인 렌더링
-async function renderAll() {
-  if (!portfolio) return;
-  
-  // 한국 종목 시세 병렬 로드
-  const krPromises = portfolio.holdings_kr.map(h => loadKrPrice(h.ticker));
-  const krResults = await Promise.all(krPromises);
-  
-  // 미국 종목 시세 병렬 로드
-  const usPromises = portfolio.holdings_us.map(h => loadUsPrice(h.ticker));
-  const usResults = await Promise.all(usPromises);
-  
-  // 카드 렌더링
-  let cardsHtml = '';
-  portfolio.holdings_kr.forEach((h, i) => {
-    cardsHtml += renderHoldingCard(h, krResults[i], false);
-    if (krResults[i]) currentPrices[h.ticker] = krResults[i].current;
-  });
-  portfolio.holdings_us.forEach((h, i) => {
-    cardsHtml += renderHoldingCard(h, usResults[i], true);
-    if (usResults[i]) currentPrices[h.ticker] = usResults[i].current;
-  });
-  document.getElementById('holdings-grid').innerHTML = cardsHtml;
-  
-  // 통계 계산
+document.getElementById('modal-overlay').addEventListener('click', (e) => {
+  if (e.target.id === 'modal-overlay') closeModal();
+});
+
+// ===== 통계 갱신 =====
+function updateStats() {
   let totalCost = 0, totalEval = 0;
-  portfolio.holdings_kr.forEach((h, i) => {
-    const cur = krResults[i] ? krResults[i].current : h.avgPrice;
+  portfolio.holdings_kr.forEach(h => {
+    const cur = currentPrices[h.ticker] || h.avgPrice;
     totalCost += h.avgPrice * h.quantity;
     totalEval += cur * h.quantity;
   });
-  portfolio.holdings_us.forEach((h, i) => {
-    const cur = usResults[i] ? usResults[i].current : h.avgPrice;
+  portfolio.holdings_us.forEach(h => {
+    const cur = currentPrices[h.ticker] || h.avgPrice;
     totalCost += h.avgPrice * h.quantity * fxRate;
     totalEval += cur * h.quantity * fxRate;
   });
   const totalPnl = totalEval - totalCost;
-  const totalPnlPct = (totalPnl / totalCost) * 100;
+  const totalPnlPct = totalCost > 0 ? (totalPnl / totalCost) * 100 : 0;
   
   document.getElementById('stat-cost').textContent = formatKRW(totalCost);
   document.getElementById('stat-eval').textContent = formatKRW(totalEval);
@@ -728,57 +707,93 @@ async function renderAll() {
   const progress = (totalEval / (portfolio.seedMoney * 2)) * 100;
   document.getElementById('stat-progress').textContent = progress.toFixed(1) + '%';
   document.getElementById('progress-bar').style.width = Math.min(progress, 100) + '%';
+}
+
+// ===== 카드 전체 렌더 =====
+async function renderHoldings() {
+  // 한국 종목 시세
+  const krSymbols = portfolio.holdings_kr.map(h => h.ticker + '.KS');
+  const krPromises = portfolio.holdings_kr.map(h => loadYahooPrice(h.ticker + '.KS'));
+  const krResults = await Promise.all(krPromises);
   
-  // 컨센서스 (정적 데이터, 추후 동적 연동 가능)
-  renderConsensus();
+  // 미국 종목 시세
+  const usPromises = portfolio.holdings_us.map(h => loadYahooPrice(h.ticker));
+  const usResults = await Promise.all(usPromises);
   
-  // 추이 차트
-  drawTrendChart();
+  // currentPrices 업데이트
+  portfolio.holdings_kr.forEach((h, i) => {
+    if (krResults[i]) currentPrices[h.ticker] = krResults[i].current;
+  });
+  portfolio.holdings_us.forEach((h, i) => {
+    if (usResults[i]) currentPrices[h.ticker] = usResults[i].current;
+  });
   
-  // 필터 이벤트
-  document.querySelectorAll('#strategy-filters .filter-chip').forEach(chip => {
-    chip.addEventListener('click', () => {
-      document.querySelectorAll('#strategy-filters .filter-chip').forEach(c => c.classList.remove('active'));
-      chip.classList.add('active');
-      selectedStrategy = chip.dataset.strategy;
-      document.querySelectorAll('.holding-card').forEach(card => {
-        card.style.display = (selectedStrategy === 'all' || card.dataset.strategy === selectedStrategy) ? '' : 'none';
-      });
+  // 시세 수신 상태 카운트
+  const okCount = krResults.filter(r => r).length + usResults.filter(r => r).length;
+  const total = portfolio.holdings_kr.length + portfolio.holdings_us.length;
+  setStatus(`시세 ${okCount}/${total} 수신 · 마지막 갱신 ${new Date().toLocaleTimeString('ko-KR')}`, 
+            okCount === total ? 'ok' : okCount > 0 ? '' : 'err');
+  
+  // 카드 렌더
+  let html = '';
+  portfolio.holdings_kr.forEach((h, i) => html += renderHoldingCard(h, krResults[i], false));
+  portfolio.holdings_us.forEach((h, i) => html += renderHoldingCard(h, usResults[i], true));
+  document.getElementById('holdings-grid').innerHTML = html;
+  
+  // 카드 클릭 이벤트
+  document.querySelectorAll('.holding-card').forEach(card => {
+    card.addEventListener('click', () => {
+      const data = JSON.parse(card.dataset.card.replace(/&apos;/g, "'").replace(/&quot;/g, '"'));
+      openModal(data.h, data.current, data.isUS);
     });
   });
+  
+  // 통계 갱신
+  updateStats();
+  
+  // 컨센서스 갱신
+  renderConsensus();
 }
 
 function renderConsensus() {
   const data = [
-    { name: '삼성전자', target: 323520, ticker: '005930' },
-    { name: 'NAVER', target: 326893, ticker: '035420' },
-    { name: '엔씨소프트', target: 308636, ticker: '036570' },
-    { name: '애플', target: 480 * fxRate, ticker: 'AAPL' }
+    { name: '삼성전자', target: 323520, ticker: '005930', isUS: false },
+    { name: 'NAVER', target: 326893, ticker: '035420', isUS: false },
+    { name: '엔씨소프트', target: 308636, ticker: '036570', isUS: false },
+    { name: '애플', target: 480, ticker: 'AAPL', isUS: true }
   ];
   let html = '';
   data.forEach(d => {
     const cur = currentPrices[d.ticker];
-    if (!cur) return;
-    const usCur = d.ticker === 'AAPL' ? cur * fxRate : cur;
-    const upside = ((d.target - usCur) / usCur) * 100;
+    if (cur === undefined) return;
+    const upside = ((d.target - cur) / cur) * 100;
+    const targetDisplay = d.isUS ? formatUSD(d.target) : formatKRW(d.target);
     html += `
       <div class="list-item">
-        <span class="item-main">${d.name}</span>
+        <div>
+          <p class="item-main">${d.name}</p>
+          <p class="item-sub">목표 ${targetDisplay}</p>
+        </div>
         <span class="${upside >= 0 ? 'profit' : 'loss'}" style="font-size: 11px;">${formatPct(upside)}</span>
       </div>
     `;
   });
-  document.getElementById('consensus-list').innerHTML = html;
+  document.getElementById('consensus-list').innerHTML = html || '<p class="loading">시세 수신 후 표시됩니다</p>';
 }
 
-// 추이 차트 (시뮬레이션 - 실제로는 누적 데이터 필요)
+// ===== 추이 차트 (1회만 그림) =====
 function drawTrendChart() {
-  const ctx = document.getElementById('trend-chart');
-  if (window.trendChartInstance) window.trendChartInstance.destroy();
+  const canvas = document.getElementById('trend-chart');
+  if (!canvas) return;
+  
+  // 이미 그려진 인스턴스가 있으면 파괴
+  if (trendChartInstance) {
+    trendChartInstance.destroy();
+    trendChartInstance = null;
+  }
   
   const days = 30;
   const labels = Array.from({length: days}, (_, i) => `D-${days - i - 1}`);
-  // 임시 데이터 (실제 운영 시 일일 평가금액 누적 저장 필요)
   const data = Array.from({length: days}, (_, i) => {
     return 9500000 + (i * 35000) + Math.sin(i * 0.5) * 200000;
   });
@@ -787,7 +802,7 @@ function drawTrendChart() {
   const gridColor = isDark ? '#1F2937' : '#E2E8F0';
   const textColor = isDark ? '#94A3B8' : '#64748B';
   
-  window.trendChartInstance = new Chart(ctx, {
+  trendChartInstance = new Chart(canvas, {
     type: 'line',
     data: {
       labels: labels,
@@ -795,7 +810,7 @@ function drawTrendChart() {
         label: '평가금액',
         data: data,
         borderColor: '#DC2626',
-        backgroundColor: 'rgba(220, 38, 38, 0.1)',
+        backgroundColor: 'rgba(220, 38, 38, 0.08)',
         borderWidth: 1.5,
         fill: true,
         tension: 0.3,
@@ -813,6 +828,7 @@ function drawTrendChart() {
     options: {
       responsive: true,
       maintainAspectRatio: false,
+      animation: false,
       plugins: { legend: { display: false } },
       scales: {
         x: { grid: { display: false }, ticks: { color: textColor, font: { size: 9 }, maxTicksLimit: 6 } },
@@ -820,32 +836,53 @@ function drawTrendChart() {
       }
     }
   });
+  chartDrawn = true;
 }
 
-// 초기화
+// ===== 필터 =====
+function setupFilters() {
+  document.querySelectorAll('#strategy-filters .filter-chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('#strategy-filters .filter-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      selectedStrategy = chip.dataset.strategy;
+      document.querySelectorAll('.holding-card').forEach(card => {
+        card.style.display = (selectedStrategy === 'all' || card.dataset.strategy === selectedStrategy) ? '' : 'none';
+      });
+    });
+  });
+}
+
+// ===== 초기화 =====
 async function init() {
   updateMarketStatus();
   setInterval(updateMarketStatus, 60000);
   
   await loadFxRate();
-  setInterval(loadFxRate, 5 * 60 * 1000); // 환율 5분마다
+  setInterval(loadFxRate, 5 * 60 * 1000);
   
   const loaded = await loadPortfolio();
   if (!loaded) return;
   
-  await renderAll();
-  setInterval(renderAll, 60 * 1000); // 시세 1분마다
+  // 추이 차트는 1회만 그림 (테마 변경 시 외에는 재호출 안 함)
+  drawTrendChart();
   
-  // 지수
-  loadIndex('^KS11', 'idx-kospi');
-  loadIndex('^KQ11', 'idx-kosdaq');
-  loadIndex('^GSPC', 'idx-spx');
-  loadIndex('^IXIC', 'idx-nasdaq');
-  setInterval(() => {
-    loadIndex('^KS11', 'idx-kospi');
-    loadIndex('^KQ11', 'idx-kosdaq');
-    loadIndex('^GSPC', 'idx-spx');
-    loadIndex('^IXIC', 'idx-nasdaq');
+  await renderHoldings();
+  setupFilters();
+  
+  // 지수 1회 로드
+  loadIndex('%5EKS11', 'idx-kospi');
+  loadIndex('%5EKQ11', 'idx-kosdaq');
+  loadIndex('%5EGSPC', 'idx-spx');
+  loadIndex('%5EIXIC', 'idx-nasdaq');
+  
+  // 시세 1분마다 갱신 (차트는 재호출 안 함)
+  setInterval(async () => {
+    await renderHoldings();
+    loadIndex('%5EKS11', 'idx-kospi');
+    loadIndex('%5EKQ11', 'idx-kosdaq');
+    loadIndex('%5EGSPC', 'idx-spx');
+    loadIndex('%5EIXIC', 'idx-nasdaq');
   }, 60 * 1000);
 }
 
