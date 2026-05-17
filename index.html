@@ -154,12 +154,25 @@
   .tag-recovery { background: var(--tag-recovery); color: var(--tag-recovery-text); }
   .alert-badge {
     background: var(--profit);
-    color: #FEF2F2;
+    color: #FFFFFF;
     font-size: 9px;
     padding: 2px 6px;
     border-radius: 3px;
+    white-space: nowrap;
   }
-  .alert-badge.loss { background: var(--loss); }
+  .alert-badge.loss { background: var(--loss); color: #FFFFFF; }
+  .alert-badge.neutral { background: #94A3B8; color: #FFFFFF; }
+  .holding-card { user-select: none; }
+  .holding-card.dragging { opacity: 0.4; }
+  .holding-card.drag-over { border: 2px dashed var(--accent) !important; }
+  .drag-handle {
+    cursor: grab;
+    color: var(--text-tertiary);
+    font-size: 14px;
+    user-select: none;
+    padding: 0 4px;
+  }
+  .drag-handle:active { cursor: grabbing; }
   .holding-name { font-size: 14px; font-weight: 500; margin: 0; }
   .holding-meta { font-size: 10px; color: var(--text-tertiary); }
   .holding-info { font-size: 10px; color: var(--text-tertiary); margin: 3px 0 0; }
@@ -603,7 +616,7 @@ function renderHoldingCard(h, priceData, isUS) {
   const alertClass = isAlert ? (isProfit ? 'alert' : 'alert-loss') : '';
   const alertBadge = isAlert ? 
     `<span class="alert-badge ${isProfit ? '' : 'loss'}">${formatPct(pnlRate)} 알림</span>` : 
-    (noPrice ? `<span class="alert-badge loss" style="background:#94A3B8;">시세 미수신</span>` : '');
+    (noPrice ? `<span class="alert-badge neutral">시세 미수신</span>` : '');
   
   const fmt = isUS ? formatUSD : formatKRW;
   const krwEval = isUS ? eval_ * fxRate : eval_;
@@ -613,9 +626,12 @@ function renderHoldingCard(h, priceData, isUS) {
   const cardData = JSON.stringify({h, current, isUS}).replace(/'/g, '&apos;').replace(/"/g, '&quot;');
   
   return `
-    <div class="holding-card ${alertClass}" data-strategy="${h.strategy}" data-card='${cardData}'>
+    <div class="holding-card ${alertClass}" data-strategy="${h.strategy}" data-ticker="${h.ticker}" data-card='${cardData}' draggable="true">
       <div class="holding-header">
-        <span class="tag ${tagClass}">${h.strategy}</span>
+        <div style="display: flex; align-items: center;">
+          <span class="drag-handle" title="드래그하여 순서 변경">⋮⋮</span>
+          <span class="tag ${tagClass}">${h.strategy}</span>
+        </div>
         ${alertBadge}
       </div>
       <div>
@@ -740,13 +756,11 @@ async function renderHoldings() {
   portfolio.holdings_us.forEach((h, i) => html += renderHoldingCard(h, usResults[i], true));
   document.getElementById('holdings-grid').innerHTML = html;
   
-  // 카드 클릭 이벤트
-  document.querySelectorAll('.holding-card').forEach(card => {
-    card.addEventListener('click', () => {
-      const data = JSON.parse(card.dataset.card.replace(/&apos;/g, "'").replace(/&quot;/g, '"'));
-      openModal(data.h, data.current, data.isUS);
-    });
-  });
+  // 저장된 순서 적용
+  applyCardOrder();
+  
+  // 드래그 정렬 + 클릭 모달 통합 핸들러
+  setupDragSort();
   
   // 통계 갱신
   updateStats();
@@ -792,10 +806,10 @@ function drawTrendChart() {
     trendChartInstance = null;
   }
   
-  const days = 30;
+  const days = currentPeriod;
   const labels = Array.from({length: days}, (_, i) => `D-${days - i - 1}`);
   const data = Array.from({length: days}, (_, i) => {
-    return 9500000 + (i * 35000) + Math.sin(i * 0.5) * 200000;
+    return 9500000 + (i * (days === 90 ? 12000 : 35000)) + Math.sin(i * 0.5) * 200000;
   });
   
   const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
@@ -839,7 +853,9 @@ function drawTrendChart() {
   chartDrawn = true;
 }
 
-// ===== 필터 =====
+// ===== 필터 + 기간 + 드래그 정렬 =====
+let currentPeriod = 30;
+
 function setupFilters() {
   document.querySelectorAll('#strategy-filters .filter-chip').forEach(chip => {
     chip.addEventListener('click', () => {
@@ -851,6 +867,103 @@ function setupFilters() {
       });
     });
   });
+  
+  // 추이 차트 기간 버튼
+  document.querySelectorAll('[data-period]').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('[data-period]').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      currentPeriod = chip.dataset.period === 'all' ? 90 : parseInt(chip.dataset.period);
+      drawTrendChart();
+    });
+  });
+}
+
+// ===== 드래그 정렬 =====
+let dragSrc = null;
+
+function setupDragSort() {
+  const cards = document.querySelectorAll('.holding-card');
+  cards.forEach(card => {
+    card.addEventListener('dragstart', (e) => {
+      dragSrc = card;
+      card.classList.add('dragging');
+      e.dataTransfer.effectAllowed = 'move';
+    });
+    
+    card.addEventListener('dragend', () => {
+      card.classList.remove('dragging');
+      document.querySelectorAll('.holding-card').forEach(c => c.classList.remove('drag-over'));
+      saveCardOrder();
+    });
+    
+    card.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      e.dataTransfer.dropEffect = 'move';
+      if (card !== dragSrc) card.classList.add('drag-over');
+    });
+    
+    card.addEventListener('dragleave', () => {
+      card.classList.remove('drag-over');
+    });
+    
+    card.addEventListener('drop', (e) => {
+      e.preventDefault();
+      if (dragSrc && card !== dragSrc) {
+        const grid = document.getElementById('holdings-grid');
+        const allCards = Array.from(grid.children);
+        const srcIdx = allCards.indexOf(dragSrc);
+        const tgtIdx = allCards.indexOf(card);
+        if (srcIdx < tgtIdx) {
+          grid.insertBefore(dragSrc, card.nextSibling);
+        } else {
+          grid.insertBefore(dragSrc, card);
+        }
+      }
+      card.classList.remove('drag-over');
+    });
+    
+    // 클릭 시 모달 (드래그와 구분)
+    let mouseDownX, mouseDownY;
+    card.addEventListener('mousedown', (e) => {
+      mouseDownX = e.clientX;
+      mouseDownY = e.clientY;
+    });
+    card.addEventListener('click', (e) => {
+      // 드래그 핸들 클릭은 모달 안 띄움
+      if (e.target.classList.contains('drag-handle')) return;
+      // 드래그였으면 모달 안 띄움 (5px 이상 이동 시 드래그로 간주)
+      const dx = Math.abs(e.clientX - mouseDownX);
+      const dy = Math.abs(e.clientY - mouseDownY);
+      if (dx > 5 || dy > 5) return;
+      
+      try {
+        const data = JSON.parse(card.dataset.card.replace(/&apos;/g, "'").replace(/&quot;/g, '"'));
+        openModal(data.h, data.current, data.isUS);
+      } catch (err) {
+        console.error('Modal open failed:', err);
+      }
+    });
+  });
+}
+
+function saveCardOrder() {
+  const order = Array.from(document.querySelectorAll('.holding-card'))
+    .map(c => c.dataset.ticker);
+  localStorage.setItem('cardOrder', JSON.stringify(order));
+}
+
+function applyCardOrder() {
+  const saved = localStorage.getItem('cardOrder');
+  if (!saved) return;
+  try {
+    const order = JSON.parse(saved);
+    const grid = document.getElementById('holdings-grid');
+    order.forEach(ticker => {
+      const card = grid.querySelector(`[data-ticker="${ticker}"]`);
+      if (card) grid.appendChild(card);
+    });
+  } catch (e) { /* 무시 */ }
 }
 
 // ===== 초기화 =====
