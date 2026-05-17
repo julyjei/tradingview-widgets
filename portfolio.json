@@ -1,0 +1,86 @@
+{
+  "seedMoney": 10000000,
+  "lastUpdated": "2026-05-17",
+  "holdings_kr": [
+    {
+      "name": "삼성전자",
+      "ticker": "005930",
+      "market": "국내",
+      "assetType": "개별주식",
+      "account": "일반",
+      "avgPrice": 280681,
+      "quantity": 11,
+      "targetPrice": 323520,
+      "stopLossPrice": 252613,
+      "strategy": "단기익절",
+      "purchaseDate": "2026-05-12"
+    },
+    {
+      "name": "NAVER",
+      "ticker": "035420",
+      "market": "국내",
+      "assetType": "개별주식",
+      "account": "일반",
+      "avgPrice": 300000,
+      "quantity": 1,
+      "targetPrice": 300000,
+      "stopLossPrice": 183150,
+      "strategy": "원금회복",
+      "purchaseDate": "2022-04-22"
+    },
+    {
+      "name": "카카오",
+      "ticker": "035720",
+      "market": "국내",
+      "assetType": "개별주식",
+      "account": "일반",
+      "avgPrice": 138000,
+      "quantity": 1,
+      "targetPrice": 138000,
+      "stopLossPrice": 39600,
+      "strategy": "원금회복",
+      "purchaseDate": "2022-04-22"
+    },
+    {
+      "name": "엔씨소프트",
+      "ticker": "036570",
+      "market": "국내",
+      "assetType": "개별주식",
+      "account": "일반",
+      "avgPrice": 560000,
+      "quantity": 1,
+      "targetPrice": 560000,
+      "stopLossPrice": 244350,
+      "strategy": "원금회복",
+      "purchaseDate": "2022-04-22"
+    }
+  ],
+  "holdings_us": [
+    {
+      "name": "애플",
+      "ticker": "AAPL",
+      "market": "미국",
+      "assetType": "개별주식",
+      "account": "일반",
+      "avgPrice": 151.56,
+      "quantity": 6.0773,
+      "targetPrice": 480.00,
+      "stopLossPrice": 161.89,
+      "strategy": "장기보유",
+      "purchaseDate": "2022-03-14"
+    },
+    {
+      "name": "엔비디아",
+      "ticker": "NVDA",
+      "market": "미국",
+      "assetType": "개별주식",
+      "account": "일반",
+      "avgPrice": 182.92,
+      "quantity": 0.069,
+      "targetPrice": 400.00,
+      "stopLossPrice": 228.80,
+      "strategy": "장기보유",
+      "purchaseDate": "2026-02-23"
+    }
+  ]
+}
