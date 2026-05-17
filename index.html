@@ -770,28 +770,54 @@ async function renderHoldings() {
 }
 
 function renderConsensus() {
-  const data = [
-    { name: '삼성전자', target: 323520, ticker: '005930', isUS: false },
-    { name: 'NAVER', target: 326893, ticker: '035420', isUS: false },
-    { name: '엔씨소프트', target: 308636, ticker: '036570', isUS: false },
-    { name: '애플', target: 480, ticker: 'AAPL', isUS: true }
-  ];
+  // 컨센서스 데이터 (12개월 평균 목표주가)
+  // 출처: Investing.com, FnGuide (2026-05 기준)
+  const consensusMap = {
+    '005930': { target: 323520, currency: 'KRW' },   // 삼성전자
+    '035420': { target: 326893, currency: 'KRW' },   // NAVER
+    '035720': { target: 76593, currency: 'KRW' },    // 카카오
+    '036570': { target: 308636, currency: 'KRW' },   // 엔씨소프트
+    'AAPL':   { target: 480.00, currency: 'USD' },   // 애플
+    'NVDA':   { target: 269.17, currency: 'USD' }    // 엔비디아
+  };
+  
+  // HOLDINGS 카드의 현재 순서를 그대로 따라감
+  const cardOrder = Array.from(document.querySelectorAll('.holding-card'))
+    .map(c => c.dataset.ticker);
+  
+  // 카드 순서에 따라 보유 종목 매핑 (KR + US 통합)
+  const allHoldings = [...portfolio.holdings_kr, ...portfolio.holdings_us];
+  const holdingsByTicker = {};
+  allHoldings.forEach(h => { holdingsByTicker[h.ticker] = h; });
+  
   let html = '';
-  data.forEach(d => {
-    const cur = currentPrices[d.ticker];
-    if (cur === undefined) return;
-    const upside = ((d.target - cur) / cur) * 100;
-    const targetDisplay = d.isUS ? formatUSD(d.target) : formatKRW(d.target);
+  cardOrder.forEach(ticker => {
+    const h = holdingsByTicker[ticker];
+    const con = consensusMap[ticker];
+    const cur = currentPrices[ticker];
+    if (!h || !con) return;
+    
+    const isUS = con.currency === 'USD';
+    const fmt = isUS ? formatUSD : formatKRW;
+    const targetDisplay = fmt(con.target);
+    
+    // 상승여력 계산 (현재가 없으면 평단 기준)
+    const basePrice = cur !== undefined ? cur : h.avgPrice;
+    const upside = ((con.target - basePrice) / basePrice) * 100;
+    
+    const noPrice = cur === undefined;
+    
     html += `
       <div class="list-item">
         <div>
-          <p class="item-main">${d.name}</p>
-          <p class="item-sub">목표 ${targetDisplay}</p>
+          <p class="item-main">${h.name}</p>
+          <p class="item-sub">목표 ${targetDisplay}${noPrice ? ' · 평단 기준' : ''}</p>
         </div>
-        <span class="${upside >= 0 ? 'profit' : 'loss'}" style="font-size: 11px;">${formatPct(upside)}</span>
+        <span class="${upside >= 0 ? 'profit' : 'loss'}" style="font-size: 11px; font-weight: 500;">${formatPct(upside)}</span>
       </div>
     `;
   });
+  
   document.getElementById('consensus-list').innerHTML = html || '<p class="loading">시세 수신 후 표시됩니다</p>';
 }
 
@@ -951,6 +977,8 @@ function saveCardOrder() {
   const order = Array.from(document.querySelectorAll('.holding-card'))
     .map(c => c.dataset.ticker);
   localStorage.setItem('cardOrder', JSON.stringify(order));
+  // 카드 순서 변경 시 컨센서스도 동일 순서로 재렌더
+  renderConsensus();
 }
 
 function applyCardOrder() {
