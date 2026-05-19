@@ -78,9 +78,11 @@
       "avgPrice": 182.92,
       "quantity": 0.069,
       "targetPrice": 400.00,
-      "stopLossPrice": 228.80,
-      "strategy": "장기보유",
-      "purchaseDate": "2026-02-23"
+      "stopLossPrice": 128.04,
+      "strategy": "장기적립",
+      "purchaseDate": "2026-02-23",
+      "monthlyContribution": 100000,
+      "lastUpdated": "2026-05-19"
     }
   ]
 }
