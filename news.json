@@ -1,0 +1,424 @@
+{
+  "lastUpdated": "2026-05-24T21:22:24+09:00",
+  "session": "morning",
+  "feedsOk": 5,
+  "feedsTotal": 5,
+  "count": 40,
+  "items": [
+    {
+      "title": "\"마트보다 낫다\"…고물가에 '1인 가구' 몰려든 뜻밖의 장소 [트렌드+]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605223509g",
+      "pubDate": "2026-05-24T20:43:35+09:00",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "스타벅스 '카톡 선물 1위' 내줬다…불매 여파에 6위로 급락",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052465017",
+      "pubDate": "2026-05-24T20:11:07+09:00",
+      "category": "시장흐름",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "스타벅스 불매 여파에…카톡 선물하기 순위 급락",
+      "summary": "(서울=연합뉴스) 김주환 기자 = 카카오톡 선물하기에서 인기 선물로 꼽히던 스타벅스 기프티콘이 &apos;5·18 탱크데이&apos; 논란에 불매운동 대상이 되며...",
+      "link": "https://www.yna.co.kr/view/AKR20260524045700017",
+      "pubDate": "2026-05-24T19:56:01+09:00",
+      "category": "개별기업",
+      "market": "국내",
+      "relatedStocks": [
+        "카카오"
+      ],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "중기부, 스타벅스 총리표창 취소 검토…\"취소요건 미부합 결론\"(종합2보)",
+      "summary": "(서울=연합뉴스) 이상서 기자 = 정부가 최근 5·18 민주화운동 폄훼 논란에 휩싸인 스타벅스에 수여했던 정부 표창의 취소를 검토했으나, 취소...",
+      "link": "https://www.yna.co.kr/view/AKR20260522155752030",
+      "pubDate": "2026-05-24T18:23:59+09:00",
+      "category": "신규발굴",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "기업의 '사회적 감수성'…스타벅스 사태가 던진 메시지",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052464191",
+      "pubDate": "2026-05-24T18:07:00+09:00",
+      "category": "신규발굴",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "\"종전해도 연내 70달러대 유가 힘들 것\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052464151",
+      "pubDate": "2026-05-24T18:05:38+09:00",
+      "category": "신규발굴",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "K뷰티 성공공식 따르는 헤어케어…매출 1년새 33% 뛰었다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463551",
+      "pubDate": "2026-05-24T18:03:31+09:00",
+      "category": "실적·공시",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "F-35 대안 찾는 캐나다…韓 'KF-21' 관심 급증",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463531",
+      "pubDate": "2026-05-24T18:01:15+09:00",
+      "category": "신규발굴",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "中 내수부양 승부수…농민공 가족, 도시 이주 돕는다",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463651",
+      "pubDate": "2026-05-24T17:58:37+09:00",
+      "category": "신규발굴",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "\"배우자가 월 400만원 쓴 곳이…\" 뜻밖의 '이혼 사유' 정체",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463971",
+      "pubDate": "2026-05-24T17:56:48+09:00",
+      "category": "신규발굴",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "[포토] 美 CJ컵 현장에 간 이재현 회장",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463611",
+      "pubDate": "2026-05-24T17:55:33+09:00",
+      "category": "신규발굴",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "e커머스 매출 비중 60% 첫 돌파",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463571",
+      "pubDate": "2026-05-24T17:54:51+09:00",
+      "category": "실적·공시",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "안창호함, 태평양 건너 캐나다 입항…60조원 잠수함 수주 '막판 총력전'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463581",
+      "pubDate": "2026-05-24T17:54:18+09:00",
+      "category": "신규발굴",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "삼성전자 잠정 합의안 투표율 80% 넘겨",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463601",
+      "pubDate": "2026-05-24T17:53:50+09:00",
+      "category": "실적·공시",
+      "market": "국내",
+      "relatedStocks": [
+        "삼성전자"
+      ],
+      "source": "한국경제"
+    },
+    {
+      "title": "포스코·현대제철, 해외투자 '옥석가리기'",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463641",
+      "pubDate": "2026-05-24T17:53:45+09:00",
+      "category": "개별기업",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "[단독] 반덤핑 관세 앞두고…빈틈 파고드는 中 저가 강판",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463631",
+      "pubDate": "2026-05-24T17:46:31+09:00",
+      "category": "정세·지정학",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "반도체·로봇 주식 잭팟…中企도 샐러리맨 신화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052464131",
+      "pubDate": "2026-05-24T17:43:41+09:00",
+      "category": "산업·섹터",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "AI 돈 쏟는 네이버, 외부 수혈하는 카카오…엇갈리는 AI 전략",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463081",
+      "pubDate": "2026-05-24T17:37:47+09:00",
+      "category": "개별기업",
+      "market": "국내",
+      "relatedStocks": [
+        "NAVER",
+        "카카오"
+      ],
+      "source": "한국경제"
+    },
+    {
+      "title": "코스닥 선진화 역행하는 휴온스·휴온스랩 합병",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463091",
+      "pubDate": "2026-05-24T17:37:10+09:00",
+      "category": "개별기업",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "LG '사랑의 다문화 학교' 중등 몰입캠프",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052463001",
+      "pubDate": "2026-05-24T17:22:40+09:00",
+      "category": "개별기업",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "\"美·이란 전쟁 종전 눈앞\"…지금 국장에서 사야 할 것은?",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605246148i",
+      "pubDate": "2026-05-24T16:41:44+09:00",
+      "category": "정세·지정학",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "투자전문 AI가 꼽은 '스타 실적주' 톱5…개미들 몰린 이유 보니",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605245986i",
+      "pubDate": "2026-05-24T13:50:47+09:00",
+      "category": "실적·공시",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "삼성전자 노조 잠정합의안 투표율 83% 육박…4만7000여명 참여",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052461057",
+      "pubDate": "2026-05-24T13:44:45+09:00",
+      "category": "실적·공시",
+      "market": "국내",
+      "relatedStocks": [
+        "삼성전자"
+      ],
+      "source": "한국경제"
+    },
+    {
+      "title": "'미토스' AI로 방어…금융사 보안목적시 망분리 규제 1년간 푼다",
+      "summary": "(서울=연합뉴스) 김지연 기자 = 미국 앤트로픽의 자율형 인공지능(AI) 모델 &apos;미토스&apos; 같은 고성능 AI로 인한 보안 위험에 대응하고자 정부...",
+      "link": "https://www.yna.co.kr/view/AKR20260523046100002",
+      "pubDate": "2026-05-24T12:00:02+09:00",
+      "category": "산업·섹터",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "\"삼전·닉스 100조 판 외국인 빌런\"…환율 1520원 눈앞 [김익환의 부처 핸즈업]",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605245982i",
+      "pubDate": "2026-05-24T11:40:36+09:00",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "relatedStocks": [
+        "삼성전자"
+      ],
+      "source": "한국경제"
+    },
+    {
+      "title": "서울시, 산업용 AI 기업 '코그나이트' 유치…제조 AI 전환 협력",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울시가 글로벌 산업용 인공지능(AI) 플랫폼 기업 코그나이트(Cognite)를 유치해 제조업 AI 전환(AX...",
+      "link": "https://www.yna.co.kr/view/AKR20260524014100004",
+      "pubDate": "2026-05-24T11:15:02+09:00",
+      "category": "산업·섹터",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "현대硏 \"K-뷰티·K-푸드 키워야 수출 연 1조달러 달성\"",
+      "summary": "(서울=연합뉴스) 이도흔 기자 = 연간 수출액 1조달러를 달성하기 위해서는 반도체 중심 구조를 넘어 K-뷰티와 K-푸드 등 한국 소비재 산업의 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260523044300002",
+      "pubDate": "2026-05-24T11:00:01+09:00",
+      "category": "개별기업",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "최승호 삼성 노조위원장 \"정계 진출 계획 없다…내달 재신임 투표\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052459907",
+      "pubDate": "2026-05-24T10:49:08+09:00",
+      "category": "개별기업",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "[KIW2026 다시보기 영상] 신성환 \"연말에 국채 거래 절벽 온다\"",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605225039i",
+      "pubDate": "2026-05-24T09:46:01+09:00",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "불장 속 예금 사수 나선 저축은행…최대 연 8% 고금리 노려볼까",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605212575i",
+      "pubDate": "2026-05-24T09:00:25+09:00",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "다카이치가 밀어주는 '이 회사'…방산·전력 인프라 동시 수혜",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/202605210557i",
+      "pubDate": "2026-05-24T09:00:16+09:00",
+      "category": "산업·섹터",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "한국경제"
+    },
+    {
+      "title": "온라인 유통 매출 비중 첫 60% 돌파…쿠팡·네이버발 판도 변화",
+      "summary": "",
+      "link": "https://www.hankyung.com/article/2026052458927",
+      "pubDate": "2026-05-24T08:37:43+09:00",
+      "category": "실적·공시",
+      "market": "국내",
+      "relatedStocks": [
+        "NAVER"
+      ],
+      "source": "한국경제"
+    },
+    {
+      "title": "\"같지만 다르다\"…'삼전닉스 레버리지' 숨겨진 0.2% 수수료",
+      "summary": "(서울=연합뉴스) 김태종 고은지 기자 = 삼성전자[005930]와 SK하이닉스[000660]를 단일종목으로 하는 레버리지 ETF(상장지수펀드)가...",
+      "link": "https://www.yna.co.kr/view/AKR20260522150000008",
+      "pubDate": "2026-05-24T07:10:00+09:00",
+      "category": "개별기업",
+      "market": "국내",
+      "relatedStocks": [
+        "삼성전자"
+      ],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "도로 위 10대 중 1대는 하이브리드차…고유가에 인기↑",
+      "summary": "(서울=연합뉴스) 김윤구 기자 = 중동 전쟁 여파로 고유가 상황이 이어지는 가운데 전체 자동차 등록 대수 가운데 하이브리드차 비중이 10%를 처...",
+      "link": "https://www.yna.co.kr/view/AKR20260521143100003",
+      "pubDate": "2026-05-24T07:05:00+09:00",
+      "category": "정세·지정학",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[마켓인사이트] 급반등 성공한 코스피, '8천피' 재도전 나서나",
+      "summary": "(서울=연합뉴스) 황철환 기자 = 지난주 국내 증시는 미국 국채금리 급등이 촉발한 급격한 변동성에 천국과 지옥을 오갔다.",
+      "link": "https://www.yna.co.kr/view/AKR20260523021600008",
+      "pubDate": "2026-05-24T07:00:17+09:00",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "반도체 성장에 물 수요↑…\"AI 30분에 생수병 1병 이상 물 사용\"",
+      "summary": "(대전=연합뉴스) 김소연 기자 = 글로벌 빅테크의 인공지능(AI) 투자 확대로 반도체 슈퍼사이클(초호황기)에 진입하면서 &apos;물&apos;이 주요 자원으로 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260522107600063",
+      "pubDate": "2026-05-24T07:00:08+09:00",
+      "category": "산업·섹터",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[뉴욕증시-주간전망] 美·이란 드디어 종전 합의하나…인플레 지표 주목",
+      "summary": "(뉴욕=연합뉴스) 최진우 연합인포맥스 특파원 = 이번 주(5월 25일~5월 29일, 이하 미 동부시간) 뉴욕증시는 미국과 이란의 종전 합의 추이...",
+      "link": "https://www.yna.co.kr/view/AKR20260524006200009",
+      "pubDate": "2026-05-24T07:00:01+09:00",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[공약비교:제주] 미래 성장전략 \"인공지능 대전환\" vs \"제주투자청 설치\"",
+      "summary": "(제주=연합뉴스) 전지혜 기자 = 제9회 전국동시지방선거 제주지사 후보들은 제주 경제가 위기 상황이고 구조적 개선이 필요하다는 데는 인식을 같이...",
+      "link": "https://www.yna.co.kr/view/AKR20260522082000056",
+      "pubDate": "2026-05-24T06:11:15+09:00",
+      "category": "정세·지정학",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "반도체 호황에…한은 올해 성장 전망 2.0%→2.5∼2.6%로 높일 듯",
+      "summary": "(서울=연합뉴스) 한지훈 임지우 이도흔 기자 = 한국은행이 오는 28일 수정 경제전망을 발표하며 올해 실질 국내총생산(GDP) 성장률 전망치를 ...",
+      "link": "https://www.yna.co.kr/view/AKR20260523017700002",
+      "pubDate": "2026-05-24T06:01:07+09:00",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    },
+    {
+      "title": "[미국발 고금리] 유가·환율까지 3高에 기업들 비명…양극화 심화 우려도",
+      "summary": "(서울=연합뉴스) 조성흠 임기창 김보경 기자 = 고유가에 따른 인플레이션 압박으로 미국과 더불어 한국도 금리 인상 압박에 직면하면서 국내 기업들...",
+      "link": "https://www.yna.co.kr/view/AKR20260523045100003",
+      "pubDate": "2026-05-24T06:01:05+09:00",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "relatedStocks": [],
+      "source": "연합뉴스"
+    }
+  ]
+}
