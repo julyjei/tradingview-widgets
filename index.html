@@ -349,7 +349,7 @@
 
   <div class="chart-card">
     <div class="chart-card-header">
-      <p class="chart-card-title">시드머니 대비 평가금액 추이 (시뮬레이션)</p>
+      <p class="chart-card-title">평가금액 추이 — 로딩 중...</p>
       <div class="news-filters">
         <span class="filter-chip" data-period="7">7D</span>
         <span class="filter-chip active" data-period="30">30D</span>
@@ -464,6 +464,7 @@ let fxRate = 1497.76;
 let currentPrices = {};
 let trendChartInstance = null;
 let chartDrawn = false;
+let historyCache = null;   // 재fetch 방지
 let selectedStrategy = 'all';
 
 // CORS 프록시 (Yahoo Finance 직접 호출 차단 우회)
@@ -815,6 +816,24 @@ function renderConsensus() {
   document.getElementById('consensus-list').innerHTML = html || '<p class="loading">시세 수신 후 표시됩니다</p>';
 }
 
+async function loadHistory() {
+  if (historyCache !== null) return historyCache;
+  try {
+    const res = await fetch('./history.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    if (!Array.isArray(data) || data.length === 0) { historyCache = []; return []; }
+    data.sort((a, b) => a.date.localeCompare(b.date));
+    historyCache = data;
+    return data;
+  } catch (e) { console.warn('history.json 로드 실패:', e.message); historyCache = []; return []; }
+}
+
+function filterHistory(history, days) {
+  if (days === 'all' || history.length === 0) return history;
+  return history.slice(-days);
+}
+  
 // ===== 추이 차트 (1회만 그림) =====
 function drawTrendChart() {
   const canvas = document.getElementById('trend-chart');
