@@ -834,43 +834,71 @@ function filterHistory(history, days) {
   return history.slice(-days);
 }
   
-// ===== 추이 차트 (1회만 그림) =====
-function drawTrendChart() {
+// ===== 추이 차트 (history.json 실데이터) =====
+async function drawTrendChart() {
   const canvas = document.getElementById('trend-chart');
   if (!canvas) return;
-  
-  // 이미 그려진 인스턴스가 있으면 파괴
+
   if (trendChartInstance) {
     trendChartInstance.destroy();
     trendChartInstance = null;
   }
-  
-  const days = currentPeriod;
-  const labels = Array.from({length: days}, (_, i) => `D-${days - i - 1}`);
-  const data = Array.from({length: days}, (_, i) => {
-    return 9500000 + (i * (days === 90 ? 12000 : 35000)) + Math.sin(i * 0.5) * 200000;
-  });
-  
+
   const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
   const gridColor = isDark ? '#1F2937' : '#E2E8F0';
   const textColor = isDark ? '#94A3B8' : '#64748B';
-  
+
+  // history.json 로드 (캐시 있으면 재사용)
+  const history = await loadHistory();
+
+  // 기간 필터: currentPeriod = 7 | 30 | 90(All)
+  const periodDays = currentPeriod === 90 ? 'all' : currentPeriod;
+  const filtered = filterHistory(history, periodDays);
+
+  // 데이터 없음 처리
+  if (filtered.length === 0) {
+    const ctx = canvas.getContext('2d');
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.fillStyle = textColor;
+    ctx.font = '12px sans-serif';
+    ctx.textAlign = 'center';
+    ctx.fillText('데이터 없음 — 첫 스냅샷 수집 후 표시됩니다', canvas.width / 2, 70);
+    const titleEl = document.querySelector('.chart-card-title');
+    if (titleEl) titleEl.textContent = '시드머니 대비 평가금액 추이 (데이터 없음)';
+    return;
+  }
+
+  const labels   = filtered.map(d => d.date.slice(5));  // "MM-DD"
+  const evalData = filtered.map(d => d.evalAmount);
+  const seedMoney = portfolio ? portfolio.seedMoney : 10000000;
+
+  // 차트 헤더 타이틀 — 기간·최신 손익률 표시
+  const titleEl = document.querySelector('.chart-card-title');
+  if (titleEl) {
+    const first = filtered[0].date;
+    const last  = filtered[filtered.length - 1].date;
+    const latestPnl = filtered[filtered.length - 1].pnlRate;
+    const pnlStr = (latestPnl >= 0 ? '+' : '') + latestPnl.toFixed(2) + '%';
+    titleEl.textContent = `평가금액 추이 ${first} ~ ${last} · 최신 ${pnlStr}`;
+  }
+
   trendChartInstance = new Chart(canvas, {
     type: 'line',
     data: {
       labels: labels,
       datasets: [{
         label: '평가금액',
-        data: data,
+        data: evalData,
         borderColor: '#DC2626',
         backgroundColor: 'rgba(220, 38, 38, 0.08)',
         borderWidth: 1.5,
         fill: true,
         tension: 0.3,
-        pointRadius: 0
+        pointRadius: filtered.length <= 30 ? 2 : 0,
+        pointHoverRadius: 4,
       }, {
         label: '시드머니',
-        data: Array(days).fill(10000000),
+        data: Array(filtered.length).fill(seedMoney),
         borderColor: textColor,
         borderWidth: 1,
         borderDash: [4, 4],
@@ -882,13 +910,38 @@ function drawTrendChart() {
       responsive: true,
       maintainAspectRatio: false,
       animation: false,
-      plugins: { legend: { display: false } },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          callbacks: {
+            title: (items) => filtered[items[0].dataIndex]?.date || '',
+            label: (item) => {
+              if (item.datasetIndex === 0) {
+                const row = filtered[item.dataIndex];
+                return [
+                  `평가금액: ₩${Math.round(item.raw).toLocaleString('ko-KR')}`,
+                  `손익률: ${(row.pnlRate >= 0 ? '+' : '') + row.pnlRate.toFixed(2)}%`,
+                  `환율: ${row.fxRate} KRW/$`
+                ];
+              }
+              return `시드머니: ₩${Math.round(item.raw).toLocaleString('ko-KR')}`;
+            }
+          }
+        }
+      },
       scales: {
-        x: { grid: { display: false }, ticks: { color: textColor, font: { size: 9 }, maxTicksLimit: 6 } },
-        y: { grid: { color: gridColor }, ticks: { color: textColor, font: { size: 9 }, callback: v => (v / 10000).toFixed(0) + '만' } }
+        x: {
+          grid: { display: false },
+          ticks: { color: textColor, font: { size: 9 }, maxTicksLimit: 8, maxRotation: 0 }
+        },
+        y: {
+          grid: { color: gridColor },
+          ticks: { color: textColor, font: { size: 9 }, callback: v => (v / 10000).toFixed(0) + '만' }
+        }
       }
     }
   });
+
   chartDrawn = true;
 }
 
