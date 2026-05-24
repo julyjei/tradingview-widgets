@@ -42,11 +42,12 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # 변경이 있을 때만 커밋 (빈 커밋 방지)
-          if git diff --quiet -- news.json; then
+          # 신규 파일(untracked)도 잡히도록 먼저 스테이징한 뒤 판정한다.
+          # (git diff 는 tracked 파일만 보므로 최초 생성되는 news.json을 놓침)
+          git add news.json
+          if git diff --cached --quiet; then
             echo "news.json 변경 없음 — 커밋 생략"
           else
-            git add news.json
             git commit -m "chore(news): 아침 뉴스 자동 갱신 $(date -u +'%Y-%m-%d %H:%MZ')"
             git push
             echo "news.json 커밋·푸시 완료"
