@@ -1,0 +1,53 @@
+name: 뉴스 수집 (아침)
+
+# 아침 한국 우선 뉴스 수집 — 1단계
+# KST 07:00 = UTC 22:00 (전일). cron은 UTC 기준이며 수 분 지연이 있을 수 있음.
+# 첫 테스트는 cron을 기다리지 말고 Actions 탭에서 "Run workflow"(수동)로 실행하세요.
+
+on:
+  schedule:
+    - cron: '0 22 * * *'      # 매일 KST 07:00
+  workflow_dispatch:            # 수동 실행 버튼 (즉시 테스트용)
+
+# news.json 커밋을 위한 쓰기 권한
+permissions:
+  contents: write
+
+# 동시 실행 방지 (겹치면 나중 것만 유지)
+concurrency:
+  group: news-morning
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v6
+
+      - name: 파이썬 설정
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+          cache-dependency-path: scripts/requirements.txt
+
+      - name: 의존성 설치
+        run: pip install -r scripts/requirements.txt
+
+      - name: 뉴스 수집 실행
+        run: python scripts/collect_news.py
+
+      - name: 변경분 커밋 (news.json)
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 변경이 있을 때만 커밋 (빈 커밋 방지)
+          if git diff --quiet -- news.json; then
+            echo "news.json 변경 없음 — 커밋 생략"
+          else
+            git add news.json
+            git commit -m "chore(news): 아침 뉴스 자동 갱신 $(date -u +'%Y-%m-%d %H:%MZ')"
+            git push
+            echo "news.json 커밋·푸시 완료"
+          fi
