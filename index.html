@@ -434,25 +434,19 @@
     </div>
   </div>
 
-  <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 10px;">
-    <p class="section-label" style="margin: 0;">TODAY'S NEWS</p>
-    <div class="news-filters">
-      <span class="filter-chip active">전체</span>
-      <span class="filter-chip">보유</span>
-      <span class="filter-chip">거시</span>
-      <span class="filter-chip">시장</span>
-    </div>
-  </div>
-
-  <div class="list-card">
-    <div class="list-item">
-      <div>
-        <p class="item-main">뉴스 데이터는 별도 채팅에서 News DB 업데이트 후 수동 반영합니다</p>
-        <p class="item-sub">샘플 구조 표시</p>
-      </div>
-      <span class="tag" style="background: var(--border); color: var(--text-secondary);">샘플</span>
-    </div>
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 10px;">
+          <p class="section-label" style="margin: 0;">TODAY'S NEWS</p>
+          <div class="news-filters" id="news-filters">
+            <span class="filter-chip active" data-news="전체">전체</span>
+            <span class="filter-chip" data-news="보유">보유</span>
+            <span class="filter-chip" data-news="거시">거시</span>
+            <span class="filter-chip" data-news="시장">시장</span>
+          </div>
+        </div>
+        <div class="list-card" id="news-list">
+          <p class="loading">뉴스를 불러오는 중입니다...</p>
+        </div>
+        <p class="status-bar" id="news-updated" style="margin-top: 6px;"></p>
 
 </div>
 
@@ -981,6 +975,104 @@ function saveCardOrder() {
   renderConsensus();
 }
 
+// ===== 뉴스 (작업12: RSS news.json 연동) =====
+let newsItems = [];
+let newsFilter = '전체';
+
+// 8종 카테고리 → 색상 (기존 태그 팔레트 재활용)
+const NEWS_CATEGORY_STYLE = {
+  '거시·통화정책': { bg: 'var(--tag-long)',     fg: 'var(--tag-long-text)' },
+  '산업·섹터':     { bg: 'var(--tag-recovery)', fg: 'var(--tag-recovery-text)' },
+  '개별기업':      { bg: 'var(--tag-short)',    fg: 'var(--tag-short-text)' },
+  '실적·공시':     { bg: 'var(--tag-short)',    fg: 'var(--tag-short-text)' },
+  '정세·지정학':   { bg: 'var(--tag-recovery)', fg: 'var(--tag-recovery-text)' },
+  '시장흐름':      { bg: 'var(--tag-long)',     fg: 'var(--tag-long-text)' },
+  '신규발굴':      { bg: 'var(--border)',       fg: 'var(--text-secondary)' }
+};
+function newsCatStyle(c) {
+  return NEWS_CATEGORY_STYLE[c] || { bg: 'var(--border)', fg: 'var(--text-secondary)' };
+}
+
+function newsTimeAgo(iso) {
+  if (!iso) return '';
+  const diff = (Date.now() - new Date(iso)) / 60000;
+  if (isNaN(diff)) return '';
+  if (diff < 60)   return Math.floor(diff) + '분 전';
+  if (diff < 1440) return Math.floor(diff / 60) + '시간 전';
+  return Math.floor(diff / 1440) + '일 전';
+}
+
+function newsPassFilter(item, filter) {
+  if (filter === '전체') return true;
+  if (filter === '보유') return (item.relatedStocks || []).length > 0;
+  if (filter === '거시') return item.category === '거시·통화정책';
+  if (filter === '시장') return item.category === '시장흐름';
+  return true;
+}
+
+function escapeHtml(s) {
+  return String(s || '').replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+async function loadNews() {
+  try {
+    const res = await fetch('news.json?t=' + Date.now());
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    const data = await res.json();
+    newsItems = data.items || [];
+    const upd = document.getElementById('news-updated');
+    if (upd && data.lastUpdated) {
+      const d = new Date(data.lastUpdated);
+      upd.textContent = `뉴스 ${newsItems.length}건 · 갱신 ${d.toLocaleString('ko-KR')}`;
+    }
+    renderNews();
+  } catch (e) {
+    const el = document.getElementById('news-list');
+    if (el) el.innerHTML = '<p class="loading">news.json을 불러오지 못했습니다 (아직 생성 전이거나 경로 확인 필요)</p>';
+  }
+}
+
+function renderNews() {
+  const el = document.getElementById('news-list');
+  if (!el) return;
+  const filtered = newsItems.filter(it => newsPassFilter(it, newsFilter)).slice(0, 10);
+  if (!filtered.length) {
+    el.innerHTML = '<p class="loading">해당 필터에 표시할 뉴스가 없습니다</p>';
+    return;
+  }
+  el.innerHTML = filtered.map(it => {
+    const st = newsCatStyle(it.category);
+    const stocks = (it.relatedStocks || []).length
+      ? `<span style="font-size:10px;color:var(--accent);margin-left:6px;">${it.relatedStocks.map(escapeHtml).join(' · ')}</span>`
+      : '';
+    const meta = [newsTimeAgo(it.pubDate), escapeHtml(it.source)].filter(Boolean).join(' · ');
+    return `
+      <div class="list-item">
+        <div style="flex:1;min-width:0;">
+          <p class="item-main">
+            <a href="${escapeHtml(it.link)}" target="_blank" rel="noopener"
+               style="color:var(--text-primary);text-decoration:none;">${escapeHtml(it.title)}</a>${stocks}
+          </p>
+          <p class="item-sub">${meta}</p>
+        </div>
+        <span class="tag" style="background:${st.bg};color:${st.fg};white-space:nowrap;">${escapeHtml(it.category || '기타')}</span>
+      </div>`;
+  }).join('');
+}
+
+function setupNewsFilters() {
+  document.querySelectorAll('#news-filters .filter-chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      document.querySelectorAll('#news-filters .filter-chip').forEach(c => c.classList.remove('active'));
+      chip.classList.add('active');
+      newsFilter = chip.dataset.news || '전체';
+      renderNews();
+    });
+  });
+}
+
+  
 function applyCardOrder() {
   const saved = localStorage.getItem('cardOrder');
   if (!saved) return;
@@ -1025,6 +1117,9 @@ async function init() {
     loadIndex('%5EGSPC', 'idx-spx');
     loadIndex('%5EIXIC', 'idx-nasdaq');
   }, 60 * 1000);
+
+  setupNewsFilters();
+  loadNews();
 }
 
 init();
