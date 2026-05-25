@@ -1,424 +1,278 @@
 {
-  "lastUpdated": "2026-05-24T21:22:24+09:00",
-  "session": "morning",
-  "feedsOk": 5,
-  "feedsTotal": 5,
-  "count": 40,
+  "lastUpdated": "2026-05-25 21:02 KST",
+  "itemCount": 30,
+  "feedOk": 13,
+  "feedFail": 0,
   "items": [
     {
-      "title": "\"마트보다 낫다\"…고물가에 '1인 가구' 몰려든 뜻밖의 장소 [트렌드+]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605223509g",
-      "pubDate": "2026-05-24T20:43:35+09:00",
+      "title": "[금통위 인터뷰] ANZ \"5월 25bp 인상…수입물가↑·경기 호조\" |",
+      "summary": "[금통위 인터뷰] ANZ \"5월 25bp 인상…수입물가↑·경기 호조\" | 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zQW5jT2Y4eWtTRV9POWlERUN1OVgxR3pKZ0RFa2NJWnkyMjNFVDhYcHJjM3dPOER0ajVWVElIaWZEN2ZlWjM4RUh6MXBlX3paN1FIdk0yczVNNU1IZS1pai1hM2ZOSFY4eS1NNWtRQlVWRFZj?oc=5",
+      "source": "연합인포맥스",
       "category": "거시·통화정책",
       "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "스타벅스 '카톡 선물 1위' 내줬다…불매 여파에 6위로 급락",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052465017",
-      "pubDate": "2026-05-24T20:11:07+09:00",
+      "title": "\"한은, 이르면 7월 기준금리 올린다\"",
+      "summary": "\"한은, 이르면 7월 기준금리 올린다\" 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hc1hFdjBDY01uRW80bDdESUluNmJPMXlPdi1pWEl5NlBlLXZ0SzVCSUM1NWlRalB1QkkwNWtyQkh6aFlGeldXWFFRWW1ES05qanNGdNIBVEFVX3lxTE1hc1hFdjBDY01uRW80bDdESUluNmJPMXlPdi1pWEl5NlBlLXZ0SzVCSUM1NWlRalB1QkkwNWtyQkh6aFlGeldXWFFRWW1ES05qanNGdA?oc=5",
+      "source": "한국경제",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "신현송 금통위 첫 등판…유가·환율에 글리 ‘인상 신호’ 주나",
+      "summary": "신현송 금통위 첫 등판…유가·환율에 글리 ‘인상 신호’ 주나 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1UVo1WF9VTEpKdXBXczdFRHd3MnowQjJ0TkJMSHVUam8xUWw3STBqSlNyZVRBWmFUSk1ETW11S25uTVpNbG9odjE4WkN0Um5WMmRiWA?oc=5",
+      "source": "v.daum.net",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "물가·환율·집값 3중고… 한은 기준금리 인상 깜박이 켜나",
+      "summary": "물가·환율·집값 3중고… 한은 기준금리 인상 깜박이 켜나 IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1raG1pbGNVdF92UkptSDVyOGRGNGZYdndKbHhsZDBRVzY4Wi13MWs5cTdnWkdtRXduV3pHbTJwdXZqeklRQlQ4bjQwN0dzNGxzckdaQ3lUcUpBRTYtOENxRDAtSGFuZk9PaVhZRThZUXjSAXRBVV95cUxPaThMekpOVEJOb2g3WkNtQTJpckpLaERITHQ4MDVfSzJBek9aZmJvQ1FyUkFMTV9RWHFIYi1MY1lCX0N3QThnMHNDR3Q1bHFqNGdZX0YxMmhsODBsQjBweGxBbmxqSEpwbjF6MVowZWRJWU1FWg?oc=5",
+      "source": "IT조선",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "[이번주 경제]한은 기준금리 매파적 '동결' 유력…성장률·물가 전망도",
+      "summary": "[이번주 경제]한은 기준금리 매파적 '동결' 유력…성장률·물가 전망도 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PMzVHc1c2ZUJJTVo4SE1jemxGRWhwVXRpX3BiUVpGQ2hkSXBpWnhENUk4dWtwY25NWlJiTzRvQ3BveDBjR2ZGblhhLUtPZDl4X1ZIMg?oc=5",
+      "source": "뉴스1",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "[금통위 인터뷰] 바클레이즈 \"5월 동결에도 메시지는 매파 예상\"",
+      "summary": "[금통위 인터뷰] 바클레이즈 \"5월 동결에도 메시지는 매파 예상\" KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14NXpXMmk5SjVaeW1jbXMyeDFOVXhiTFUwN2otVGZhbzVMSWtJa2NUamlLUGM5V0hjNVE5Wl9UdGxoR3JlbHFJQ080YWdKdFZGd0NZMTl5djA0VXg0ZzZVTkJhZEtqSDJZQkdteW04Nm1EUQ?oc=5",
+      "source": "KB Think",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "“지표 엇갈려도 1순위는 물가…내년 3월까지 금리 3회 올릴 수도”",
+      "summary": "“지표 엇갈려도 1순위는 물가…내년 3월까지 금리 3회 올릴 수도” 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1peWFoSGU5N01RdkVYcmdPb3VVckY1RVdwbE1Gems4SmtPM1BZUzM0LXVHc3ZFWmViMlVLV3NiWjVWakNob3NsSG80RTdvc0tYdWfSAVNBVV95cUxPNFVTSFBKR3RtQU1QelpCenhVby04YVlabXRuM0xUSENhT3JjTTBLQzJUUEpCcHFEVmF4aTRVaXB0a2JZN1ZnVWFvc1JPenFieG5TUQ?oc=5",
+      "source": "서울경제",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "30년 미국채 금리 5.2% 터치…9년 만에 처음",
+      "summary": "30년 미국채 금리 5.2% 터치…9년 만에 처음 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZQWNuZGNTQXZ5SUZ2amhKM2gzNy02SGhNZVhJc0lUbUI2MGpqV0tLNlUzalRMdmtwRUJpZ2RNZ3lILWEwNjhxT1pLSVRtczNQUkpOM1lkYnZZV2dYU1ZNRlVsTzZXRTQ?oc=5",
+      "source": "한겨레",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "백악관 해싯 \"이란 협상 타결 시 연준 금리인하 길 열려\"",
+      "summary": "백악관 해싯 \"이란 협상 타결 시 연준 금리인하 길 열려\" KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlUVBVNEN5Z2ktV2NBblkxTVZXNFZKMmNueW1aSU15ZXhSQ0doSi1lRUtpTDN6UEJmWElZSkRHeEdkZlpXaWZPZHNucUJCbkduN3F4MWtmNUJraTJNOVNCLVp2MW1LM1dvaGliU0RsRTBUUQ?oc=5",
+      "source": "KB Think",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "\"이란 전쟁 끝나도 고금리는 안 끝날 것\"…채권시장의 경고",
+      "summary": "\"이란 전쟁 끝나도 고금리는 안 끝날 것\"…채권시장의 경고 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtcG8zV2o4aFhKZFVSMmpubEpfcW8zUG51dkduYW40ejMyU3hEeEJPWFhaWEF3M0syZWRsNExVcjVTRm14VklHeEtOazlkVnR5Ynk0dHRJWUNXQlp6MjFXbURuYXUyU3RRV2xqUVNHV3p4VFU?oc=5",
+      "source": "마켓인",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "백악관 경제자문위 \"이란 합의 시 유가 급락 가능…연준 금리인하 여력 커질 것\"",
+      "summary": "백악관 경제자문위 \"이란 합의 시 유가 급락 가능…연준 금리인하 여력 커질 것\" 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPUHVXclZTemJyX2FMZFItZEJEdE5qeTFsaS1lN0FrVXV0QVZpZ3R3SWVXRjNMUHhBenlCSnN4MXFuZE1jdHFJTTVDLURncEFU?oc=5",
+      "source": "블루밍비트",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "케빈 워시 신임 연준 의장이 인플레이션 압력과 트럼프 대통령의 금리 인하 기대 속에 취임했습니다.",
+      "summary": "케빈 워시 신임 연준 의장이 인플레이션 압력과 트럼프 대통령의 금리 인하 기대 속에 취임했습니다. Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdzB0TUQ0eXdJbkJNaklTTG55ZkQwMmVjREl6S1ljamNqbXpCMWxPako5aFhtRzdITUNGYnZ1cmFZeWFZbEtLbkR4NWJuQUtOdm9iTEdOM25pSzduUTR2cnhYMmxHbkxkS2VVRmd1ZU9WRGNwbFF0aTIwUXBJT3ktV1ZGTVJleFJkczFuVFpnbVpNZ2hKb1Z0dGYtTDI0cUhPODJVZWVUbEcxMTRIYWJxSC1VelQ4UExfUTJ2M1F0SQ?oc=5",
+      "source": "Vietnam.vn",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "[사설] ‘놀이’가 된 혐오, 플랫폼 규제·차별금지법으로 대응해야",
+      "summary": "[사설] ‘놀이’가 된 혐오, 플랫폼 규제·차별금지법으로 대응해야 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUNUpSem9Nd0dId3g1T3hiLUk3cGw2eUlmMlJORGlySmg4UnpueGxPZjBWNHVkLWpuYjVpNUhUZXpHZUozZXhVZ2VNLWx4LTBHcXA5Y1p6eDBKRHlsQ2lZZEdtNmVLUW1nZ3c?oc=5",
+      "source": "한겨레",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야",
+      "summary": "[이슈 플러스] 연령 제한·금지 범위 제각각…사회적 공감대·실효성 높여야 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9KNUw5V2xWT00ybDhSZUx5VkFxS2dqWmpVZE01ejhkcjRNOHBVbEc1Z3IzbkZVTWNCNjEyeFZwTUNtU29EMnBxUlE1N250Zw?oc=5",
+      "source": "전자신문",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "이재명 대통령 “일베 폐쇄 검토”…혐오 규제 입법 전면전",
+      "summary": "이재명 대통령 “일베 폐쇄 검토”…혐오 규제 입법 전면전 톱스타뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53a0RTcVRDZDBxRjdiYzlmaXNZTUFFUFRQQVVuOWdVeTczWEZZbFF3MDBQQjc0OHd1eklRU0tNb2VsRTlqcmp2cmZGMzVvbThfRU1mU19GRXFvSnpsVnBqczM4Q1VuUmhlMF9DbEJpMGlUQQ?oc=5",
+      "source": "톱스타뉴스",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "[사설] '놀이'가 된 혐오, 플랫폼 규제·차별금지법으로 대응해야",
+      "summary": "[사설] '놀이'가 된 혐오, 플랫폼 규제·차별금지법으로 대응해야 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTNFpDM2lsMkpyaFlxOTFTOVlFcUtLbzVEQWUzdy15N3Awa3JKZmE5YjRhQWh4Y3ZNMTEtTVozckdyYVU1ejlmeExSdmdmMHBBaWVHTGRYeTRzSW91VklEVQ?oc=5",
+      "source": "네이트",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "李 대통령 '혐오 사이트 폐쇄 검토' 지시…'일베' 이번엔 문 닫을까",
+      "summary": "李 대통령 '혐오 사이트 폐쇄 검토' 지시…'일베' 이번엔 문 닫을까 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44TjVfZTNYYjN4SkVKSWQ4ZDBhZkJkU1ViY0JOdkNucnY0SEVzdzJNd1JjaXVBcWhMVDAxejEzRElrNnJyTGM4MlRkUkpGZU5FVXVZLUZiOUJmNzZYRmVMb1l2Q3JWOHVkRC14bkV1dmRmM3hQY2hzbtIBeEFVX3lxTE44TjVfZTNYYjN4SkVKSWQ4ZDBhZkJkU1ViY0JOdkNucnY0SEVzdzJNd1JjaXVBcWhMVDAxejEzRElrNnJyTGM4MlRkUkpGZU5FVXVZLUZiOUJmNzZYRmVMb1l2Q3JWOHVkRC14bkV1dmRmM3hQY2hzbg?oc=5",
+      "source": "뉴시스",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "중국 온라인 금융상품 판매 규제 강화… “플랫폼 개입 차단”",
+      "summary": "중국 온라인 금융상품 판매 규제 강화… “플랫폼 개입 차단” 한국보험신문",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHVUZFSFRvTXVsVmRHdFVYUE9lOTh6Mk1MX0hTYi1SMEZveDZsUUFRaG16QTM1OUlYYnVhM1RtWGNjd2V5NHVaSE9uaGUzNk5jMWF2YUFIVTQ0LVVlV0Y2T1ZJTER4bnFUakxCQ24wONIBb0FVX3lxTFBHVUZFSFRvTXVsVmRHdFVYUE9lOTh6Mk1MX0hTYi1SMEZveDZsUUFRaG16QTM1OUlYYnVhM1RtWGNjd2V5NHVaSE9uaGUzNk5jMWF2YUFIVTQ0LVVlV0Y2T1ZJTER4bnFUakxCQ24wOA?oc=5",
+      "source": "한국보험신문",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "한국은 지금 세계 외교전의 한가운데에 서 있다.",
+      "summary": "한국은 지금 세계 외교전의 한가운데에 서 있다. incheonin.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vZEI5UkRVT0EtNlZIWVRwa3NWdUR6M1RzaFFSYXB1SnRsbHFocDI5Zmszb3BNUzNndWZaanlQVFB4emN3WTRhNC0zM2JqbmhybW42Q3J6Nmp1d1ltakJrazlOMkl3cnpfN2FiWg?oc=5",
+      "source": "incheonin.com",
+      "category": "정세·지정학",
+      "market": "글로벌",
+      "pubDate": "2026-05-25"
+    },
+    {
+      "title": "국민성장펀드·삼전닉스 레버리지, 증시 불붙일까[수급 대전환③]",
+      "summary": "국민성장펀드·삼전닉스 레버리지, 증시 불붙일까[수급 대전환③] 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JUVM0dkZvandObkYzZkdhNXA1WDdPeXJyOXk1ZlJmUG15NDJ2MVpCQlZsOFV5X2Znc1N3UndIV25DaVJRMzB1WUlQWTM4QkpWZEFvLUxPQUlJQ2tab1N5cy02S0pKSVZLY3lDRWRTbzQ0M3JYRHBCZ9IBeEFVX3lxTE1JUVM0dkZvandObkYzZkdhNXA1WDdPeXJyOXk1ZlJmUG15NDJ2MVpCQlZsOFV5X2Znc1N3UndIV25DaVJRMzB1WUlQWTM4QkpWZEFvLUxPQUlJQ2tab1N5cy02S0pKSVZLY3lDRWRTbzQ0M3JYRHBCZw?oc=5",
+      "source": "뉴시스",
       "category": "시장흐름",
       "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "스타벅스 불매 여파에…카톡 선물하기 순위 급락",
-      "summary": "(서울=연합뉴스) 김주환 기자 = 카카오톡 선물하기에서 인기 선물로 꼽히던 스타벅스 기프티콘이 &apos;5·18 탱크데이&apos; 논란에 불매운동 대상이 되며...",
-      "link": "https://www.yna.co.kr/view/AKR20260524045700017",
-      "pubDate": "2026-05-24T19:56:01+09:00",
-      "category": "개별기업",
+      "title": "종전협상 극적 타결 보나…금통위·외국인 수급 여부도 주시[주간외환전망]",
+      "summary": "종전협상 극적 타결 보나…금통위·외국인 수급 여부도 주시[주간외환전망] 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR0lIRFF3VWI1MDJjR1laUGNRSFUyeEduT05TQWZFNWlIek9pUnZDRlIxYVhZeEppbFRMZ2lUTmJaS3dfcFo1UTRXQ1Y0RU02OVJJRWx1UjJZQk93ZUN6Zm9DMERMYW9rNmx4eGZScGpJNGxTejJEQXhhS3NHSEVndA?oc=5",
+      "source": "이데일리",
+      "category": "시장흐름",
       "market": "국내",
-      "relatedStocks": [
-        "카카오"
-      ],
-      "source": "연합뉴스"
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "중기부, 스타벅스 총리표창 취소 검토…\"취소요건 미부합 결론\"(종합2보)",
-      "summary": "(서울=연합뉴스) 이상서 기자 = 정부가 최근 5·18 민주화운동 폄훼 논란에 휩싸인 스타벅스에 수여했던 정부 표창의 취소를 검토했으나, 취소...",
-      "link": "https://www.yna.co.kr/view/AKR20260522155752030",
-      "pubDate": "2026-05-24T18:23:59+09:00",
-      "category": "신규발굴",
+      "title": "짐 싸는 외국인에 ‘삼전닉스’ 지분율 뚝… 해외선 K-ETF 라인업 넓어진다",
+      "summary": "짐 싸는 외국인에 ‘삼전닉스’ 지분율 뚝… 해외선 K-ETF 라인업 넓어진다 세계일보",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5KRmI2SUpVeEF0WnFIdXk4eU1iZTU1aTd0RUJ6OUtmNnBXWHllVG04U3FabG1XUXhOY1ZreEtFLVdRZjBDU3ZJQm5TYnBsbHFobnUwTGFUenR0Z0JYLWdGam1DTXZxUGIzVGl30gFUQVVfeXFMTnBjSWdYTWdHdklPUGpRYk5LUVNpbU9WY1RybEpFSGpqNGN0XzYxMHprN3FTVFBmQlpOd0ExdzNfbTJkVGFmWkhtcUFZN241UndEWERI?oc=5",
+      "source": "세계일보",
+      "category": "시장흐름",
       "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "기업의 '사회적 감수성'…스타벅스 사태가 던진 메시지",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052464191",
-      "pubDate": "2026-05-24T18:07:00+09:00",
-      "category": "신규발굴",
+      "title": "[특징주] 외국인, 일반지주사 '역방향 순매수'…SK·HD현대 등 주목",
+      "summary": "[특징주] 외국인, 일반지주사 '역방향 순매수'…SK·HD현대 등 주목 뉴스티앤티",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vX0JwV3BBenE4NzlUaHVPNmVoU055RWpPeVZUdm9GclZuNU53VDhvYzZERnI3cVpPUmVrRThJaUVxcUkwWDVOTVo5RXg3REViZnVUeEMyQTBLRW9LVEhQeVJaQW1ib2JZanc?oc=5",
+      "source": "뉴스티앤티",
+      "category": "시장흐름",
       "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "\"종전해도 연내 70달러대 유가 힘들 것\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052464151",
-      "pubDate": "2026-05-24T18:05:38+09:00",
-      "category": "신규발굴",
+      "title": "[다음주 환율전망] 중동 리스크 진정에도 환율 '1500원대' 경계…강달러·외국인 수급 변수 지속",
+      "summary": "[다음주 환율전망] 중동 리스크 진정에도 환율 '1500원대' 경계…강달러·외국인 수급 변수 지속 굿모닝경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fUWhHZjhsa0FQUWpXaG5ZU0U2bHJCbXdHZ0luZFRNTHJFbmNfT1RMdjdSOEpLS1FKUmtZZ0tJMnViRzcwbTNWX1lRSVdVcGNZbGpuN1dkVW1GbnNJUVRPVjVEQ0dsaW9hb2tqbQ?oc=5",
+      "source": "굿모닝경제",
+      "category": "시장흐름",
       "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "K뷰티 성공공식 따르는 헤어케어…매출 1년새 33% 뛰었다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463551",
-      "pubDate": "2026-05-24T18:03:31+09:00",
-      "category": "실적·공시",
+      "title": "짐 싸는 외국인에 '삼전닉스' 지분율 뚝…해외선 K-ETF 라인업 넓어진다",
+      "summary": "짐 싸는 외국인에 '삼전닉스' 지분율 뚝…해외선 K-ETF 라인업 넓어진다 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BZEsxNEZwNVk5cUlpSHZZdHZXY2pZdWdKNldxMW1HemFoLUMtWWZfUFVwRGl1RWp2NXJNQjd4VEdoUjZCZm51cW12RDZkQ3ZwYWRN?oc=5",
+      "source": "네이트",
+      "category": "시장흐름",
       "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "F-35 대안 찾는 캐나다…韓 'KF-21' 관심 급증",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463531",
-      "pubDate": "2026-05-24T18:01:15+09:00",
-      "category": "신규발굴",
+      "title": "외국인, 지난주 코스피 14조4953억 순매도",
+      "summary": "외국인, 지난주 코스피 14조4953억 순매도 비욘드포스트",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBYYUpObzExc1VDb3pHNDg0OWxsbXhZdGJrbERUZWsySU9TYkdfZ21yVmE4ZVcwa05jN3VGZlRoUGU1Y0Vwd2Jra0hxMF9XdGYyVmlpVU5hdjNXenUtYS13bXM5NmpzMklZLVhOM3BXTHVxaTNNWVVaU1NCbUQ?oc=5",
+      "source": "비욘드포스트",
+      "category": "시장흐름",
       "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "中 내수부양 승부수…농민공 가족, 도시 이주 돕는다",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463651",
-      "pubDate": "2026-05-24T17:58:37+09:00",
-      "category": "신규발굴",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "title": "미국증시 오늘 휴장, 뉴욕증시 26일 밤 거래 재개",
+      "summary": "미국증시 오늘 휴장, 뉴욕증시 26일 밤 거래 재개 비건뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtZ3p0bHljV3UxUmlpMGNZSlhybEpKaDlLd2oteUNyblpmd0tXMkg5OHF0Mm9pTGd6dE91Rk9yNURvRFUzSXdfekp5ckJIUlZrdDlYYUViMEtLR00xMVJjdHQtUG1rZw?oc=5",
+      "source": "비건뉴스",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "\"배우자가 월 400만원 쓴 곳이…\" 뜻밖의 '이혼 사유' 정체",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463971",
-      "pubDate": "2026-05-24T17:56:48+09:00",
-      "category": "신규발굴",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "title": "[뉴욕증시 주간전망] 고점 부담감에 숨고르기 속 'PCE·이란' 눈치보기",
+      "summary": "[뉴욕증시 주간전망] 고점 부담감에 숨고르기 속 'PCE·이란' 눈치보기 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWk5hVkYzWnd6eTFINTctTXpHd201c0FIZHQ5ZFRpZlZvWllQYlpCY083TW0xYmNyU2xHV0tJaGdGbUZPV2JxRTVYZkZpMEVic0pUVTZxSTNtdXVRQ1d1MkQyMUxPVnAtbHJxOWdHZE10Rkk4eVZ6LXNVYUt0Z0cxdGNTN0NKeEZw?oc=5",
+      "source": "글로벌이코노믹",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "[포토] 美 CJ컵 현장에 간 이재현 회장",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463611",
-      "pubDate": "2026-05-24T17:55:33+09:00",
-      "category": "신규발굴",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
+      "title": "코스피·코스닥·나스닥 동반 상승…미국·이란 휴전 진전 땐 화요일 증시 ‘시너지’ 가능성",
+      "summary": "코스피·코스닥·나스닥 동반 상승…미국·이란 휴전 진전 땐 화요일 증시 ‘시너지’ 가능성 CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wN0szSjZLSjZCalByMTVYLWd0V01UUkJhYkxiMWVLUjJvN2hmaWlRWE1SVS0yUklybVdjV3pFYmsxUmF0anU2QklVVjBoeFlsa0JHRUpSSGJPdTRNX2h1UVVGVU12eWgw?oc=5",
+      "source": "CBC뉴스",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-05-25"
     },
     {
-      "title": "e커머스 매출 비중 60% 첫 돌파",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463571",
-      "pubDate": "2026-05-24T17:54:51+09:00",
-      "category": "실적·공시",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "안창호함, 태평양 건너 캐나다 입항…60조원 잠수함 수주 '막판 총력전'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463581",
-      "pubDate": "2026-05-24T17:54:18+09:00",
-      "category": "신규발굴",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "삼성전자 잠정 합의안 투표율 80% 넘겨",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463601",
-      "pubDate": "2026-05-24T17:53:50+09:00",
-      "category": "실적·공시",
-      "market": "국내",
-      "relatedStocks": [
-        "삼성전자"
-      ],
-      "source": "한국경제"
-    },
-    {
-      "title": "포스코·현대제철, 해외투자 '옥석가리기'",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463641",
-      "pubDate": "2026-05-24T17:53:45+09:00",
-      "category": "개별기업",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "[단독] 반덤핑 관세 앞두고…빈틈 파고드는 中 저가 강판",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463631",
-      "pubDate": "2026-05-24T17:46:31+09:00",
-      "category": "정세·지정학",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "반도체·로봇 주식 잭팟…中企도 샐러리맨 신화",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052464131",
-      "pubDate": "2026-05-24T17:43:41+09:00",
-      "category": "산업·섹터",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "AI 돈 쏟는 네이버, 외부 수혈하는 카카오…엇갈리는 AI 전략",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463081",
-      "pubDate": "2026-05-24T17:37:47+09:00",
-      "category": "개별기업",
-      "market": "국내",
-      "relatedStocks": [
-        "NAVER",
-        "카카오"
-      ],
-      "source": "한국경제"
-    },
-    {
-      "title": "코스닥 선진화 역행하는 휴온스·휴온스랩 합병",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463091",
-      "pubDate": "2026-05-24T17:37:10+09:00",
-      "category": "개별기업",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "LG '사랑의 다문화 학교' 중등 몰입캠프",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052463001",
-      "pubDate": "2026-05-24T17:22:40+09:00",
-      "category": "개별기업",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "\"美·이란 전쟁 종전 눈앞\"…지금 국장에서 사야 할 것은?",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605246148i",
-      "pubDate": "2026-05-24T16:41:44+09:00",
-      "category": "정세·지정학",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "투자전문 AI가 꼽은 '스타 실적주' 톱5…개미들 몰린 이유 보니",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605245986i",
-      "pubDate": "2026-05-24T13:50:47+09:00",
-      "category": "실적·공시",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "삼성전자 노조 잠정합의안 투표율 83% 육박…4만7000여명 참여",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052461057",
-      "pubDate": "2026-05-24T13:44:45+09:00",
-      "category": "실적·공시",
-      "market": "국내",
-      "relatedStocks": [
-        "삼성전자"
-      ],
-      "source": "한국경제"
-    },
-    {
-      "title": "'미토스' AI로 방어…금융사 보안목적시 망분리 규제 1년간 푼다",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 미국 앤트로픽의 자율형 인공지능(AI) 모델 &apos;미토스&apos; 같은 고성능 AI로 인한 보안 위험에 대응하고자 정부...",
-      "link": "https://www.yna.co.kr/view/AKR20260523046100002",
-      "pubDate": "2026-05-24T12:00:02+09:00",
-      "category": "산업·섹터",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "\"삼전·닉스 100조 판 외국인 빌런\"…환율 1520원 눈앞 [김익환의 부처 핸즈업]",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605245982i",
-      "pubDate": "2026-05-24T11:40:36+09:00",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "relatedStocks": [
-        "삼성전자"
-      ],
-      "source": "한국경제"
-    },
-    {
-      "title": "서울시, 산업용 AI 기업 '코그나이트' 유치…제조 AI 전환 협력",
-      "summary": "(서울=연합뉴스) 김동규 기자 = 서울시가 글로벌 산업용 인공지능(AI) 플랫폼 기업 코그나이트(Cognite)를 유치해 제조업 AI 전환(AX...",
-      "link": "https://www.yna.co.kr/view/AKR20260524014100004",
-      "pubDate": "2026-05-24T11:15:02+09:00",
-      "category": "산업·섹터",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "현대硏 \"K-뷰티·K-푸드 키워야 수출 연 1조달러 달성\"",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 연간 수출액 1조달러를 달성하기 위해서는 반도체 중심 구조를 넘어 K-뷰티와 K-푸드 등 한국 소비재 산업의 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260523044300002",
-      "pubDate": "2026-05-24T11:00:01+09:00",
-      "category": "개별기업",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "최승호 삼성 노조위원장 \"정계 진출 계획 없다…내달 재신임 투표\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052459907",
-      "pubDate": "2026-05-24T10:49:08+09:00",
-      "category": "개별기업",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "[KIW2026 다시보기 영상] 신성환 \"연말에 국채 거래 절벽 온다\"",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605225039i",
-      "pubDate": "2026-05-24T09:46:01+09:00",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "불장 속 예금 사수 나선 저축은행…최대 연 8% 고금리 노려볼까",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605212575i",
-      "pubDate": "2026-05-24T09:00:25+09:00",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "다카이치가 밀어주는 '이 회사'…방산·전력 인프라 동시 수혜",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/202605210557i",
-      "pubDate": "2026-05-24T09:00:16+09:00",
-      "category": "산업·섹터",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "한국경제"
-    },
-    {
-      "title": "온라인 유통 매출 비중 첫 60% 돌파…쿠팡·네이버발 판도 변화",
-      "summary": "",
-      "link": "https://www.hankyung.com/article/2026052458927",
-      "pubDate": "2026-05-24T08:37:43+09:00",
-      "category": "실적·공시",
-      "market": "국내",
-      "relatedStocks": [
-        "NAVER"
-      ],
-      "source": "한국경제"
-    },
-    {
-      "title": "\"같지만 다르다\"…'삼전닉스 레버리지' 숨겨진 0.2% 수수료",
-      "summary": "(서울=연합뉴스) 김태종 고은지 기자 = 삼성전자[005930]와 SK하이닉스[000660]를 단일종목으로 하는 레버리지 ETF(상장지수펀드)가...",
-      "link": "https://www.yna.co.kr/view/AKR20260522150000008",
-      "pubDate": "2026-05-24T07:10:00+09:00",
-      "category": "개별기업",
-      "market": "국내",
-      "relatedStocks": [
-        "삼성전자"
-      ],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "도로 위 10대 중 1대는 하이브리드차…고유가에 인기↑",
-      "summary": "(서울=연합뉴스) 김윤구 기자 = 중동 전쟁 여파로 고유가 상황이 이어지는 가운데 전체 자동차 등록 대수 가운데 하이브리드차 비중이 10%를 처...",
-      "link": "https://www.yna.co.kr/view/AKR20260521143100003",
-      "pubDate": "2026-05-24T07:05:00+09:00",
-      "category": "정세·지정학",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "[마켓인사이트] 급반등 성공한 코스피, '8천피' 재도전 나서나",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 지난주 국내 증시는 미국 국채금리 급등이 촉발한 급격한 변동성에 천국과 지옥을 오갔다.",
-      "link": "https://www.yna.co.kr/view/AKR20260523021600008",
-      "pubDate": "2026-05-24T07:00:17+09:00",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "반도체 성장에 물 수요↑…\"AI 30분에 생수병 1병 이상 물 사용\"",
-      "summary": "(대전=연합뉴스) 김소연 기자 = 글로벌 빅테크의 인공지능(AI) 투자 확대로 반도체 슈퍼사이클(초호황기)에 진입하면서 &apos;물&apos;이 주요 자원으로 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260522107600063",
-      "pubDate": "2026-05-24T07:00:08+09:00",
-      "category": "산업·섹터",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "[뉴욕증시-주간전망] 美·이란 드디어 종전 합의하나…인플레 지표 주목",
-      "summary": "(뉴욕=연합뉴스) 최진우 연합인포맥스 특파원 = 이번 주(5월 25일~5월 29일, 이하 미 동부시간) 뉴욕증시는 미국과 이란의 종전 합의 추이...",
-      "link": "https://www.yna.co.kr/view/AKR20260524006200009",
-      "pubDate": "2026-05-24T07:00:01+09:00",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "[공약비교:제주] 미래 성장전략 \"인공지능 대전환\" vs \"제주투자청 설치\"",
-      "summary": "(제주=연합뉴스) 전지혜 기자 = 제9회 전국동시지방선거 제주지사 후보들은 제주 경제가 위기 상황이고 구조적 개선이 필요하다는 데는 인식을 같이...",
-      "link": "https://www.yna.co.kr/view/AKR20260522082000056",
-      "pubDate": "2026-05-24T06:11:15+09:00",
-      "category": "정세·지정학",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "반도체 호황에…한은 올해 성장 전망 2.0%→2.5∼2.6%로 높일 듯",
-      "summary": "(서울=연합뉴스) 한지훈 임지우 이도흔 기자 = 한국은행이 오는 28일 수정 경제전망을 발표하며 올해 실질 국내총생산(GDP) 성장률 전망치를 ...",
-      "link": "https://www.yna.co.kr/view/AKR20260523017700002",
-      "pubDate": "2026-05-24T06:01:07+09:00",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
-    },
-    {
-      "title": "[미국발 고금리] 유가·환율까지 3高에 기업들 비명…양극화 심화 우려도",
-      "summary": "(서울=연합뉴스) 조성흠 임기창 김보경 기자 = 고유가에 따른 인플레이션 압박으로 미국과 더불어 한국도 금리 인상 압박에 직면하면서 국내 기업들...",
-      "link": "https://www.yna.co.kr/view/AKR20260523045100003",
-      "pubDate": "2026-05-24T06:01:05+09:00",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "relatedStocks": [],
-      "source": "연합뉴스"
+      "title": "비트코인, 이란 협상 기대감과 나스닥 옵션 계획에 $77,000 위로 반등",
+      "summary": "비트코인, 이란 협상 기대감과 나스닥 옵션 계획에 $77,000 위로 반등 Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZUkZyLXBCZjV4aHNDSmd1U2dhNUYwenVuUUU5WXFWSndfRlpramw0am5iYUVFTldIc3VBeU9vSUdLZXVHS08wX3RXZVl4bE5rZUJ0UWFJSnJxLWhIT01rSVB0dHpJS3YzZjBsRENmZmdFOGM?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-05-25"
     }
   ]
 }
