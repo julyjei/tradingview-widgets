@@ -17,12 +17,23 @@
     --profit: #DC2626;
     --loss: #2563EB;
     --accent: #06B6D4;
-    --tag-long: #DBEAFE;
-    --tag-long-text: #1D4ED8;
-    --tag-short: #FEE2E2;
-    --tag-short-text: #991B1B;
-    --tag-recovery: #FED7AA;
-    --tag-recovery-text: #9A3412;
+    
+    /* 장기보유 */
+    --tag-long: #D9E3F2;
+    --tag-long-text: #2B5AA5;
+
+    /* 장기적립 */
+    --tag-accumulate: #DCE4DE;
+    --tag-accumulate-text: #2F6B3E;
+    
+    /* 단기익절 */
+    --tag-short: #EFD3D3;
+    --tag-short-text: #7A3434;
+    
+    /* 원금회복 */
+    --tag-recovery: #E9D9B7;
+    --tag-recovery-text: #7A6430;
+
     --shadow: 0 1px 3px rgba(0,0,0,0.04);
   }
   [data-theme="dark"] {
@@ -144,12 +155,13 @@
   .holding-card.alert-loss { border: 1.5px solid var(--loss); }
   .holding-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
   .tag {
-    font-size: 10px;
-    padding: 3px 8px;
-    border-radius: 4px;
-    font-weight: 500;
-  }
+  font-size: 11px;
+  padding: 4px 10px;
+  border-radius: 6px;
+  font-weight: 600;
+ }
   .tag-long { background: var(--tag-long); color: var(--tag-long-text); }
+  .tag-accumulate { background: var(--tag-accumulate); color: var(--tag-accumulate-text); }
   .tag-short { background: var(--tag-short); color: var(--tag-short-text); }
   .tag-recovery { background: var(--tag-recovery); color: var(--tag-recovery-text); }
   .alert-badge {
@@ -366,6 +378,7 @@
     <div class="news-filters" id="strategy-filters">
       <span class="filter-chip active" data-strategy="all">전체</span>
       <span class="filter-chip" data-strategy="장기보유">장기보유</span>
+      <span class="filter-chip" data-strategy="장기적립">장기적립</span>
       <span class="filter-chip" data-strategy="단기익절">단기익절</span>
       <span class="filter-chip" data-strategy="원금회복">원금회복</span>
     </div>
@@ -607,8 +620,25 @@ function renderHoldingCard(h, priceData, isUS) {
   const days = daysSince(h.purchaseDate);
   const noPrice = !priceData;
   
-  const tagClass = h.strategy === '장기보유' ? 'tag-long' : 
-                   h.strategy === '단기익절' ? 'tag-short' : 'tag-recovery';
+  let tagClass = 'tag-long';
+
+switch (h.strategy) {
+  case '장기보유':
+    tagClass = 'tag-long';
+    break;
+
+  case '장기적립':
+    tagClass = 'tag-accumulate';
+    break;
+
+  case '단기익절':
+    tagClass = 'tag-short';
+    break;
+
+  case '원금회복':
+    tagClass = 'tag-recovery';
+    break;
+}
   
   const alertClass = isAlert ? (isProfit ? 'alert' : 'alert-loss') : '';
   const alertBadge = isAlert ? 
