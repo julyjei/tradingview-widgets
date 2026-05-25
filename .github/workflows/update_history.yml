@@ -1,0 +1,47 @@
+name: Update History
+
+# 평가금액 추이 누적 자동화 (작업11 2단계)
+# cron 타이밍 (UTC 기준 / KST = UTC+9):
+#   - UTC 07:00 = KST 16:00  (한국 장 마감 15:30 직후)
+# 종가 기준 1회 기록. 미국 종목은 직전 종가 carry-forward.
+# public 저장소이므로 GitHub-hosted 러너 무료
+
+on:
+  schedule:
+    - cron: '0 7 * * 1-5'   # KST 16:00, 평일만 (주말 휴장)
+  workflow_dispatch:         # 수동 트리거
+
+permissions:
+  contents: write            # history.json 커밋·푸시 권한
+
+concurrency:
+  group: update-history
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 평가금액 종가 기록 실행
+        run: python scripts/update_history.py
+
+      - name: 변경 시에만 커밋·푸시
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain history.json)" ]; then
+            git add history.json
+            git commit -m "chore: update history.json [skip ci]"
+            git push
+            echo "history.json 갱신·푸시 완료"
+          else
+            echo "변경 없음 — 커밋 건너뜀"
+          fi
