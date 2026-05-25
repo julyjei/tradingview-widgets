@@ -1,12 +1,17 @@
-name: 뉴스 수집 (아침)
+name: 뉴스 수집 (아침·밤)
 
-# 아침 한국 우선 뉴스 수집 — 1단계
-# KST 07:00 = UTC 22:00 (전일). cron은 UTC 기준이며 수 분 지연이 있을 수 있음.
+# 한국·미국 뉴스 수집 — 1단계 (작업11)
+# cron 타이밍 (UTC 기준 / KST = UTC+9):
+#   - UTC 22:00 = KST 익일 07:00  (아침 브리핑 시점 / 한국 시장 개장 전)
+#   - UTC 13:00 = KST 당일 22:00  (밤 브리핑 시점 / 미국 시장 개장 전)
+# S_news_briefing 하루 2회 체제(아침 한국 / 밤 미국)와 정합.
+# cron은 UTC 기준이며 수 분 지연이 있을 수 있음.
 # 첫 테스트는 cron을 기다리지 말고 Actions 탭에서 "Run workflow"(수동)로 실행하세요.
 
 on:
   schedule:
-    - cron: '0 22 * * *'      # 매일 KST 07:00
+    - cron: '0 22 * * *'      # 매일 KST 07:00 (아침)
+    - cron: '0 13 * * *'      # 매일 KST 22:00 (밤)
   workflow_dispatch:            # 수동 실행 버튼 (즉시 테스트용)
 
 # news.json 커밋을 위한 쓰기 권한
@@ -48,7 +53,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "news.json 변경 없음 — 커밋 생략"
           else
-            git commit -m "chore(news): 아침 뉴스 자동 갱신 $(date -u +'%Y-%m-%d %H:%MZ')"
+            git commit -m "chore(news): 뉴스 자동 갱신 $(date -u +'%Y-%m-%d %H:%MZ')"
             git push
             echo "news.json 커밋·푸시 완료"
           fi
