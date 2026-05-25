@@ -440,7 +440,9 @@
             <span class="filter-chip active" data-news="전체">전체</span>
             <span class="filter-chip" data-news="보유">보유</span>
             <span class="filter-chip" data-news="거시">거시</span>
+            <span class="filter-chip" data-news="산업">산업</span>
             <span class="filter-chip" data-news="시장">시장</span>
+            <span class="filter-chip" data-news="정세">정세</span>
           </div>
         </div>
         <div class="list-card" id="news-list">
@@ -1070,9 +1072,11 @@ function newsTimeAgo(iso) {
 
 function newsPassFilter(item, filter) {
   if (filter === '전체') return true;
-  if (filter === '보유') return (item.relatedStocks || []).length > 0;
+  if (filter === '보유') return item.category === '개별기업' || item.category === '실적·공시';
   if (filter === '거시') return item.category === '거시·통화정책';
+  if (filter === '산업') return item.category === '산업·섹터';
   if (filter === '시장') return item.category === '시장흐름';
+  if (filter === '정세') return item.category === '정세·지정학';
   return true;
 }
 
@@ -1089,8 +1093,7 @@ async function loadNews() {
     newsItems = data.items || [];
     const upd = document.getElementById('news-updated');
     if (upd && data.lastUpdated) {
-      const d = new Date(data.lastUpdated);
-      upd.textContent = `뉴스 ${newsItems.length}건 · 갱신 ${d.toLocaleString('ko-KR')}`;
+      upd.textContent = `뉴스 ${newsItems.length}건 · 갱신 ${data.lastUpdated}`;
     }
     renderNews();
   } catch (e) {
@@ -1109,16 +1112,16 @@ function renderNews() {
   }
   el.innerHTML = filtered.map(it => {
     const st = newsCatStyle(it.category);
-    const stocks = (it.relatedStocks || []).length
-      ? `<span style="font-size:10px;color:var(--accent);margin-left:6px;">${it.relatedStocks.map(escapeHtml).join(' · ')}</span>`
+    const market = it.market
+      ? `<span style="font-size:10px;color:var(--accent);margin-left:6px;">${escapeHtml(it.market)}</span>`
       : '';
-    const meta = [newsTimeAgo(it.pubDate), escapeHtml(it.source)].filter(Boolean).join(' · ');
+    const meta = [it.pubDate, escapeHtml(it.source)].filter(Boolean).join(' · ');
     return `
       <div class="list-item">
         <div style="flex:1;min-width:0;">
           <p class="item-main">
             <a href="${escapeHtml(it.link)}" target="_blank" rel="noopener"
-               style="color:var(--text-primary);text-decoration:none;">${escapeHtml(it.title)}</a>${stocks}
+               style="color:var(--text-primary);text-decoration:none;">${escapeHtml(it.title)}</a>${market}
           </p>
           <p class="item-sub">${meta}</p>
         </div>
