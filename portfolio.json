@@ -11,6 +11,7 @@
       "avgPrice": 280681,
       "quantity": 11,
       "targetPrice": 323520,
+      "consensusTarget": 323520,
       "stopLossPrice": 252613,
       "strategy": "단기익절",
       "purchaseDate": "2026-05-12"
@@ -24,6 +25,7 @@
       "avgPrice": 300000,
       "quantity": 1,
       "targetPrice": 300000,
+      "consensusTarget": 326893,
       "stopLossPrice": 183150,
       "strategy": "원금회복",
       "purchaseDate": "2022-04-22"
@@ -37,6 +39,7 @@
       "avgPrice": 138000,
       "quantity": 1,
       "targetPrice": 138000,
+      "consensusTarget": 76593,
       "stopLossPrice": 39600,
       "strategy": "원금회복",
       "purchaseDate": "2022-04-22"
@@ -50,6 +53,7 @@
       "avgPrice": 560000,
       "quantity": 1,
       "targetPrice": 560000,
+      "consensusTarget": 308636,
       "stopLossPrice": 244350,
       "strategy": "원금회복",
       "purchaseDate": "2022-04-22"
@@ -64,7 +68,8 @@
       "account": "일반",
       "avgPrice": 151.56,
       "quantity": 6.0773,
-      "targetPrice": 480.00,
+      "targetPrice": 480.0,
+      "consensusTarget": 480.0,
       "stopLossPrice": 161.89,
       "strategy": "장기보유",
       "purchaseDate": "2022-03-14"
@@ -77,12 +82,11 @@
       "account": "일반",
       "avgPrice": 182.92,
       "quantity": 0.069,
-      "targetPrice": 400.00,
-      "stopLossPrice": 128.04,
-      "strategy": "장기적립",
-      "purchaseDate": "2026-02-23",
-      "monthlyContribution": 100000,
-      "lastUpdated": "2026-05-19"
+      "targetPrice": 400.0,
+      "consensusTarget": 269.17,
+      "stopLossPrice": 228.8,
+      "strategy": "장기보유",
+      "purchaseDate": "2026-02-23"
     }
   ]
 }
