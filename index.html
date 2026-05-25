@@ -765,17 +765,10 @@ async function renderHoldings() {
 }
 
 function renderConsensus() {
-  // 컨센서스 데이터 (12개월 평균 목표주가)
-  // 출처: Investing.com, FnGuide (2026-05 기준)
-  const consensusMap = {
-    '005930': { target: 323520, currency: 'KRW' },   // 삼성전자
-    '035420': { target: 326893, currency: 'KRW' },   // NAVER
-    '035720': { target: 76593, currency: 'KRW' },    // 카카오
-    '036570': { target: 308636, currency: 'KRW' },   // 엔씨소프트
-    'AAPL':   { target: 480.00, currency: 'USD' },   // 애플
-    'NVDA':   { target: 269.17, currency: 'USD' }    // 엔비디아
-  };
-  
+  // 컨센서스 목표주가는 portfolio.json의 종목별 consensusTarget 키에서 읽는다.
+  // (출처·갱신은 Notion Portfolio → S_portfolio_sync → portfolio.json 경로)
+  // 통화는 종목의 market 속성(국내=KRW / 미국=USD)으로 판별한다.
+
   // HOLDINGS 카드의 현재 순서를 그대로 따라감
   const cardOrder = Array.from(document.querySelectorAll('.holding-card'))
     .map(c => c.dataset.ticker);
@@ -788,18 +781,19 @@ function renderConsensus() {
   let html = '';
   cardOrder.forEach(ticker => {
     const h = holdingsByTicker[ticker];
-    const con = consensusMap[ticker];
     const cur = currentPrices[ticker];
-    if (!h || !con) return;
-    
-    const isUS = con.currency === 'USD';
+    // 컨센서스 목표가가 없는 종목은 컨센서스 목록에서 제외
+    if (!h || h.consensusTarget == null) return;
+
+    const target = h.consensusTarget;
+    const isUS = h.market === '미국';
     const fmt = isUS ? formatUSD : formatKRW;
-    const targetDisplay = fmt(con.target);
-    
+    const targetDisplay = fmt(target);
+
     // 상승여력 계산 (현재가 없으면 평단 기준)
     const basePrice = cur !== undefined ? cur : h.avgPrice;
-    const upside = ((con.target - basePrice) / basePrice) * 100;
-    
+    const upside = ((target - basePrice) / basePrice) * 100;
+
     const noPrice = cur === undefined;
     
     html += `
