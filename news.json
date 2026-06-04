@@ -1,14 +1,185 @@
 {
-  "lastUpdated": "2026-06-04 19:47 KST",
+  "lastUpdated": "2026-06-05 05:35 KST",
   "itemCount": 30,
   "feedOk": 13,
   "feedFail": 0,
   "items": [
     {
+      "title": "모건스탠리 \"연준, 금리인상해도 전쟁발 물가상승 개의치 않을 것\"",
+      "summary": "모건스탠리 \"연준, 금리인상해도 전쟁발 물가상승 개의치 않을 것\" 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3pxYkNVeHdSSExfUlBxQ1BhQThPcUV1SzZNNUN6R3JuSDF1b1dvdnBVOVJoZjFjUmp2SVcycmZoS0VjdEprTThRS3Frck1iSDJfMmpGcGgzaVBqb3RsV05fQlRocE5Vdi1Ud1AzeG5ycV9PV3pzOFNNb3lNdTRmYQ?oc=5",
+      "source": "이데일리",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "모건스탠리 \"연준, 금리인상해도 전쟁발 물가상승 개의치 않을 것\"",
+      "summary": "모건스탠리 \"연준, 금리인상해도 전쟁발 물가상승 개의치 않을 것\" 네이트",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16dkVURTR1YjNPWWR3MHY5LXA1UjVNemZmbVZld0l1am0tazFMZUNYM0JUdkgtYWE0dm1YUDRPbW5nMHlzd3pseFRnUFBvTHNlRkNTVWpxdENLZkFLOFpTUTMyRDhMM0hVcFZKRDhn?oc=5",
+      "source": "네이트",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "IMF \"미 인플레이션 상방 위험 확대…연준 신중해야\"",
+      "summary": "IMF \"미 인플레이션 상방 위험 확대…연준 신중해야\" 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuZm03SlJGRW5ab2hGc1ljUDVRMDVXMklzM1Z6am1ZbndTaTFMcGxVYkdRbnJkRExzOWh6ZmlpRWdoR2pkektsdkZIdUdjQ1Y1?oc=5",
+      "source": "블루밍비트",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "[뉴욕증시-1보] 브로드컴 실망감에 반도체주 투매…혼조 마감",
+      "summary": "[뉴욕증시-1보] 브로드컴 실망감에 반도체주 투매…혼조 마감 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfXzFud1czZ1BuLUxyMUllYWFDZ3kzUTBFOXlpSDB6TGlDM2xYZXFuWXUzbTVDQjlYMjV5d1A5ZVJPelVkTDhqMGtmaHJwMVFXMjNnUkhPXy1EQmtqNUtvWHZSMGlyckdsRFZEZy10ZlLSAXRBVV95cUxOMnlXVm9RRmpSWkNCd3JVX1hUV1RhenNaSm5ILVZjY1QzZjd4N09td2FON2FfdHFDRGM1dUVjTDlLOC1meXUwZmQ5Q3B5bmRNZjRYRUsyWHFvaEtmbEpzVTlBa3V0UjEtSEh2Y05ocXNLa2JJaQ?oc=5",
+      "source": "연합인포맥스",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "KODEX 미국S&P500액티브(0041E0)",
+      "summary": "KODEX 미국S&P500액티브(0041E0) 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdGVIWTAzUmMzTEdibWlIblVEMEE3enFCM3o1RWk5ZUZfaEhMbGtTbHE0aVNGM1F1VFFMZ04xUENvNm5FQjNwWWYyZnJ4RmZlcVlSbEZXaHdzQVIzMGpmcUJ5WFduVlJ4S1NyZGRLY09FeklFM09ZdHNKOHhaNlp0X0NBemdDOElxeXYweWdDY1pmMkV2dm11Tw?oc=5",
+      "source": "매일경제 마켓",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "Quantinuum, 나스닥 데뷔와 함께 주가 급등…기업가치 176억 달러 돌파 By Investing.com",
+      "summary": "Quantinuum, 나스닥 데뷔와 함께 주가 급등…기업가치 176억 달러 돌파 By Investing.com Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYc1VTRy1STkNaV0lDWVhjck4xY2RVNEVBejgzZVJrLWoxd21WSm9EZW5JcnRkQkhDUXFmdDdZYW8yOTlYMU04OExOQ1dlbXc1Yk5CM0lrNHdYMl9WaHhqa204X1RVMFFDLWFoeHl6dUY?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "뉴욕증시, 혼조세로 전환…나스닥 0.15%↓",
+      "summary": "뉴욕증시, 혼조세로 전환…나스닥 0.15%↓ 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3c01WQzNCODYtRTNKNVNUdWs4RkFmMWFXTGFjZ3dOMkR2US0wOUVTQmhfUW5pSXQ2eWZPTUw2cjNYZENpZUk1UDc0Q1pQa2F0?oc=5",
+      "source": "블루밍비트",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "[속보] 뉴욕증시, 3대 지수 혼조 마감…다우 '사상 최고치'",
+      "summary": "[속보] 뉴욕증시, 3대 지수 혼조 마감…다우 '사상 최고치' 서울파이낸스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nbzktb29HZHVpQU5ENWFaczF5UzVweEtxX1hoY0Nhb3ByT0l5aXd6bThOR2M5VDZTSFFKbUdMVGROeVdfLVE2UF9CUE4zTTVwQ2NQd01GRFdZaXU3dUVpbUJhVGxpeld3OEE?oc=5",
+      "source": "서울파이낸스",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "토로, 엇갈린 2분기 실적 속 연간 가이던스 상향 By Investing.com",
+      "summary": "토로, 엇갈린 2분기 실적 속 연간 가이던스 상향 By Investing.com Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MQ2k1OGp5UnlfajdFanJRS3VpMXg5UGl3VUFFZkNjckVqRk5PU2VRX1VtYnRyTGxEei1rU0RhN0ZLSHJCT2MwQnMxYlVCa2lQUHpPcUhsWGZhei1NLW9FQlpRY3I0NjRQaFBV?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "브로드컴 급락, 실적 선방에도 AI 마진 부담[천조국 리포트]",
+      "summary": "브로드컴 급락, 실적 선방에도 AI 마진 부담[천조국 리포트] v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1haE12MWpyUHZ1MjJZdzFTR1RULVlPZVNCbjdjS1lVRm5FN2Y2Sldld2RpcWdsZVBIOWREVDAyUnFfN1pXeUJPNjdDOGdHUjQ?oc=5",
+      "source": "v.daum.net",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "윌리엄스 컴퍼니즈(WMB)의 1분기 실적 및 배당금 인상이 주주에게 주는 의미",
+      "summary": "윌리엄스 컴퍼니즈(WMB)의 1분기 실적 및 배당금 인상이 주주에게 주는 의미 simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUw0VDduT1ZYb3VpckFPN3ZtMHUwbnd5cnB5clJzMURYMWYwam1KSlZfc2ZJeVFkbVRrY25NRjJuSzNTWWJ2MzNqc0x3cGhIN2FtbTU2X2ZfMkowQkxqUmZ1NGY4U096OFVTMGpKYWVMVHd1ZWJlMGEtVWpwelRlLWJ6ZUpXS0tDMTJ6RG1IZGp5RFd3T3JuNXM1ONIBmwFBVV95cUxPNUw0VDduT1ZYb3VpckFPN3ZtMHUwbnd5cnB5clJzMURYMWYwam1KSlZfc2ZJeVFkbVRrY25NRjJuSzNTWWJ2MzNqc0x3cGhIN2FtbTU2X2ZfMkowQkxqUmZ1NGY4U096OFVTMGpKYWVMVHd1ZWJlMGEtVWpwelRlLWJ6ZUpXS0tDMTJ6RG1IZGp5RFd3T3JuNXM1OA?oc=5",
+      "source": "simplywall.st",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "주미즈, 예상치 하회 1분기 실적 및 가이던스 발표에 주가 12% 이상 급락 By Investing.com",
+      "summary": "주미즈, 예상치 하회 1분기 실적 및 가이던스 발표에 주가 12% 이상 급락 By Investing.com Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pODhFb3d3bkJBeUpYNGpHTE9nN045LWtOcWRudFgybDl0dEdPQjd3QlVzNlBuZlBKNkQ0SUtfSUtGMDVRQ1BmQjVDQVJ3RWhlcUV0cGxCRGJLajlOb0ZmOUwtSkRNb0tRQzBr?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "삼성전자-넷리스트, 美특허분쟁 확전...HBM도 쟁점",
+      "summary": "삼성전자-넷리스트, 美특허분쟁 확전...HBM도 쟁점 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xLVNUeWZob1ZncmZxT3ZMaHBMSU14WFJOZXJyRld1Q0JtZWZSaVRUV3FvZTh5SmlGTTBOVjZNTmEzdzRfbGtOYXhRblZmUk0?oc=5",
+      "source": "v.daum.net",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "네이버NAVER, 26만원대로 후퇴…젠슨황 AI 기대감 속 숨 고르기 나타나",
+      "summary": "네이버NAVER, 26만원대로 후퇴…젠슨황 AI 기대감 속 숨 고르기 나타나 CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhbUFYVS01Q05HeDZMWlY2OGR6Q1EyaUItam5wSE90V3lraW9EWTJNYVZDeHF6SHVCbFpDRHNVNkVPSkZVTzFNa0JNeHdIcWVKTkcwQXZkM1c3OWk4N2psZk12dlowVnE4?oc=5",
+      "source": "CBC뉴스",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "[IT는 지금]네이버, 창작자-AI 펠로우십 '네이버 메이트' 시작 外 : 네이버 블로그",
+      "summary": "[IT는 지금]네이버, 창작자-AI 펠로우십 '네이버 메이트' 시작 外 : 네이버 블로그 Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMExpOHloZXNwNHl4X0Q0eDE5THNlUWloM0I5UWNJb2daUnFocTlwTUtMbktVT2wwRFhkTlpEdWZVTjBpSGthSnV5aEtHMjVGZGRhb3dtc1I2ZXh6d0t5Ri15RFJUNUlXU2RVQzVXM25OSEtLZ3hpZEo4aVFmbzZDSzQwcld0b2I2YmJncldRUQ?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "9년째 발 묶인 TPG…카카오 결단이 관건 : 네이버 블로그",
+      "summary": "9년째 발 묶인 TPG…카카오 결단이 관건 : 네이버 블로그 Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUG1aY3IwXzh4RW84d3Z0Q2ZBNGVwZlc4YjBBaGZoVUQwS3JVWDMweUJoYW02amFuTm9YWFl6Rm90QnZybWEwY0lxZWlpZ0I0Njg4UHlfMTlZR1Mxbk1FMTZ2bEtmNWd3VjFzbVFzQTh3OHdRQlRrQjl1aU1uUTQyUk1GSFhoWnRVem4zTm5Vdw?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "앱스토어 성장 둔화, 애플 서비스 부문 상승 제한할 수 있어 - UBS",
+      "summary": "앱스토어 성장 둔화, 애플 서비스 부문 상승 제한할 수 있어 - UBS Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50TU5seDMtbTRsU29qbVYtYWVnVmlOak8tZDRyTktleDZaMU5LSU1iQUtldGFRcGRsRG5HOWpaZ0o5bkpBMUtMcWNjcHQ1ZG1EY29VSEk0aHdsOHZDbXNYUmw2SXVEdzJrTm5lWlhKSno?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
+      "title": "[TODAY애플]앱스토어 매출 둔화 우려 딛고 'AI 신기능' 기대감에 상승 전환",
+      "summary": "[TODAY애플]앱스토어 매출 둔화 우려 딛고 'AI 신기능' 기대감에 상승 전환 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRWxFMFdTT2hNeGZZSDFiV2tiNjhNUUdxcDdISTV4Tlc1V1o2Q1hVSEY0dlpPc0p0Qmk3RV94NzVhcGhoZHo0cXpDeDJicXBiZXlqNnBodFhIOGdYU1J4b1F3ekRnb2tibGFCbm1ycVg0a2FFWW9pRnVMYnE1bG1oLQ?oc=5",
+      "source": "이데일리",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-06-05"
+    },
+    {
       "title": "1500원 환율에 멈춘 금리인하 시계…한은 다음 카드는 '인상'?",
       "summary": "1500원 환율에 멈춘 금리인하 시계…한은 다음 카드는 '인상'? 더팩트",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2bGd5Zmh2WU1JSTBuN1VUQVJFZFg5TzN2RUdDTVd2bVRXRV9HZkZBV2JqQTFLeXJucXBmVmZwMjBkbFdTcVNLUFlaR1NiQmpIS0VLRNIBVEFVX3lxTFB2bGd5Zmh2WU1JSTBuN1VUQVJFZFg5TzN2RUdDTVd2bVRXRV9HZkZBV2JqQTFLeXJucXBmVmZwMjBkbFdTcVNLUFlaR1NiQmpIS0VLRA?oc=5",
       "source": "더팩트",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-06-04"
+    },
+    {
+      "title": "1,530원 뚫고 출발한 환율...야간거래 1,540원 돌파",
+      "summary": "1,530원 뚫고 출발한 환율...야간거래 1,540원 돌파 YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE95MGtSQndITy1GV0U2bVBOZHNKTUN1dldVWkhtNEtBeVQzdWd4NnJYLW9iZ0xQZnpTYW40QVZpNnFkSG1ZNW44dTdmRXd0a0NFbDFXSmdsUkJva2hGNWc?oc=5",
+      "source": "YTN",
       "category": "거시·통화정책",
       "market": "국내",
       "pubDate": "2026-06-04"
@@ -23,15 +194,6 @@
       "pubDate": "2026-06-04"
     },
     {
-      "title": "정부 \"올해 물가상승률 한은 전망 2.7%서 크게 안 벗어날 듯\"",
-      "summary": "정부 \"올해 물가상승률 한은 전망 2.7%서 크게 안 벗어날 듯\" 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vUmRrNVB0VnRNZFlLZDFHWjFfX0RjeUp6UGNMeHhlaHg2ckktb3ZhcjhIRWU0WS0tVmhxM2QwSlByNkFvN3VTc1Uyd2ZVS1lZUWxlZFV1bEJTcU50NnRDSNIBYEFVX3lxTE5vUmRrNVB0VnRNZFlLZDFHWjFfX0RjeUp6UGNMeHhlaHg2ckktb3ZhcjhIRWU0WS0tVmhxM2QwSlByNkFvN3VTc1Uyd2ZVS1lZUWxlZFV1bEJTcU50NnRDSA?oc=5",
-      "source": "연합뉴스",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
       "title": "정부 ″올해 물가상승률, 한은 전망치 2.7%서 크게 안 벗어날 듯″",
       "summary": "정부 ″올해 물가상승률, 한은 전망치 2.7%서 크게 안 벗어날 듯″ 연합뉴스TV",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yTEN1TVdwNVQ5WkNkU1d4akZNdmFLalcydHJtZHVOaGRtNURJWDk2cG5UUE9QOTR1YzA3Y1Z1SU1wcXAzZ3VZVWNQTkJpdHkyMmNSVVNJLWFhazNfQmJHODh6SzJkMEE?oc=5",
@@ -41,19 +203,19 @@
       "pubDate": "2026-06-04"
     },
     {
-      "title": "[한국경제 ‘기대와 우려’] 물가 파고 엄습…금리인상 신호 확대",
-      "summary": "[한국경제 ‘기대와 우려’] 물가 파고 엄습…금리인상 신호 확대 yonhapmidas.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53cXlpMEtRUlVKMXFyNUNYWUwzMG1uUFBMUmZkRjdyR0tOaldna1NqYmExZDFXWE03a1JQdDFlcnAxVDloVDBTb1FCMmF0VlhmajVBcWRJc1pOX09Ia2ZwdVdLTEJ1SXVWVlFBLUhB?oc=5",
-      "source": "yonhapmidas.com",
+      "title": "정부 \"올해 물가상승률 한은 전망 2.7%서 크게 안 벗어날 듯\"",
+      "summary": "정부 \"올해 물가상승률 한은 전망 2.7%서 크게 안 벗어날 듯\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vUmRrNVB0VnRNZFlLZDFHWjFfX0RjeUp6UGNMeHhlaHg2ckktb3ZhcjhIRWU0WS0tVmhxM2QwSlByNkFvN3VTc1Uyd2ZVS1lZUWxlZFV1bEJTcU50NnRDSNIBYEFVX3lxTE5vUmRrNVB0VnRNZFlLZDFHWjFfX0RjeUp6UGNMeHhlaHg2ckktb3ZhcjhIRWU0WS0tVmhxM2QwSlByNkFvN3VTc1Uyd2ZVS1lZUWxlZFV1bEJTcU50NnRDSA?oc=5",
+      "source": "연합뉴스",
       "category": "거시·통화정책",
       "market": "국내",
       "pubDate": "2026-06-04"
     },
     {
-      "title": "원달러 환율 13.3원 오른 1529.7원 마감... 튀르키예 리라보다 더 약세",
-      "summary": "원달러 환율 13.3원 오른 1529.7원 마감... 튀르키예 리라보다 더 약세 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTnFTeGo4Ym9uanZIWjAydXl4Y3VTNmdCVDlQNF9OcE9WWlJmSm5DTlFOZGhCeGt2MHBVQml1blBMNVhDTmRyZkhZT0RjSGNnaU1FT3A1N3o2dUQyS1pWa21hZHZhV2IzYndJbXoxR3dqeDkwbHNRMGNPSGh0Q05sM2hWMDhxaTRFSUxfSHhR?oc=5",
-      "source": "조선일보",
+      "title": "[한국경제 ‘기대와 우려’] 물가 파고 엄습…금리인상 신호 확대",
+      "summary": "[한국경제 ‘기대와 우려’] 물가 파고 엄습…금리인상 신호 확대 yonhapmidas.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53cXlpMEtRUlVKMXFyNUNYWUwzMG1uUFBMUmZkRjdyR0tOaldna1NqYmExZDFXWE03a1JQdDFlcnAxVDloVDBTb1FCMmF0VlhmajVBcWRJc1pOX09Ia2ZwdVdLTEJ1SXVWVlFBLUhB?oc=5",
+      "source": "yonhapmidas.com",
       "category": "거시·통화정책",
       "market": "국내",
       "pubDate": "2026-06-04"
@@ -110,168 +272,6 @@
       "source": "파이낸셜신문",
       "category": "거시·통화정책",
       "market": "미국",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "댈러스 연은 \"올해 금리 인상 필요할 수도…AI 생산성 효과 아직\"",
-      "summary": "댈러스 연은 \"올해 금리 인상 필요할 수도…AI 생산성 효과 아직\" 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Hc29JdlRwa3JGODhIQlZMdXZvN1d3ZUlyOGxrdy1XNkhabzlycG81MktMOHoyUUtiX25IWjBwUEh3c3JUODMwZmRxU3I3WTd6Y0lOVDF3a2FTTWNCLWpTNkFHQ25kNkhad2xVSQ?oc=5",
-      "source": "뉴스1",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "\"케빈 워시의 '체제 전환'…연준, 정치와 연계성 높아질 것\"-대신",
-      "summary": "\"케빈 워시의 '체제 전환'…연준, 정치와 연계성 높아질 것\"-대신 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0tcWNza2Q0Y2FfYzZsQVNHRFpHd0swT2FWMWd5R0N5cGdYVEVKNUxVWmYyUDgtMElTdDU5MnEzb3I0M016X2UydEZPZ3E0RHRkcXdZcdIBVEFVX3lxTE0tcWNza2Q0Y2FfYzZsQVNHRFpHd0swT2FWMWd5R0N5cGdYVEVKNUxVWmYyUDgtMElTdDU5MnEzb3I0M016X2UydEZPZ3E0RHRkcXdZcQ?oc=5",
-      "source": "한국경제",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "연준 베이지북 \"물가 압력 확산…'저채용·저해고' 기조 지속\"",
-      "summary": "연준 베이지북 \"물가 압력 확산…'저채용·저해고' 기조 지속\" 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OV2lUYXRMRTNoelQ5dVFhVHJLQ3RGUmRsMkFrREhvcEd4SEkwR1A3aldGRFVQZEZET0JtWmRoSGh5ZFlhZ1JaSEdqSUQ1YjVGejR1Z01xTEdqOWdmdENwStIBYEFVX3lxTE9OV2lUYXRMRTNoelQ5dVFhVHJLQ3RGUmRsMkFrREhvcEd4SEkwR1A3aldGRFVQZEZET0JtWmRoSGh5ZFlhZ1JaSEdqSUQ1YjVGejR1Z01xTEdqOWdmdENwSg?oc=5",
-      "source": "연합뉴스",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "美 연준 베이지북 \"미 경제활동·물가 모두 상승…에너지발 인플레이션 확산\"",
-      "summary": "美 연준 베이지북 \"미 경제활동·물가 모두 상승…에너지발 인플레이션 확산\" 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DTDB1QUwyZ296TG9HdFRSRV9WR0dDTUhpSkJTVU12anBzWnhFdDlSU2dYc2Q2SDRSLU1yc0t0MzlSSmVid201MElCLXNNTmQ2?oc=5",
-      "source": "블루밍비트",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "규제 무풍에 성과급 실탄…‘반도체 벨트’ 집값 들썩",
-      "summary": "규제 무풍에 성과급 실탄…‘반도체 벨트’ 집값 들썩 v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PWVh5Tm0yWlFlWXVNeUlObXpEdE5mVG1YR2F1ckJnMHFlbkJFb0oxZjZUcWQ5NnNUZS0yS0xublVveV9EeExxblJCWEVpTjg?oc=5",
-      "source": "v.daum.net",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "플랫폼 규제는 조율, 소비는 반등…유통업계 변화는 [이재명 정부 1년]",
-      "summary": "플랫폼 규제는 조율, 소비는 반등…유통업계 변화는 [이재명 정부 1년] 쿠키뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMY2ktR3Zjb1lhOG1jMkd3N0VSRVo4bU5PMG1KOUFhc0hfNVh1NWZKUXNXRERONmw4TTIzS1NQdlg0TjdYNHJ3T3ZVN1ZySUp3am5ZREJBQ0FwcHFQcDBWQkl6UQ?oc=5",
-      "source": "쿠키뉴스",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "[이로운분석] 6·3 지방선거 이후, 기업 규제환경은 어디로…노동·공정거래 개혁 입법 속도 붙나",
-      "summary": "[이로운분석] 6·3 지방선거 이후, 기업 규제환경은 어디로…노동·공정거래 개혁 입법 속도 붙나 이로운넷",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB4ZUhFaVpOMXJ5bkppNXotNmcxTDJpeXlKSndrQUlJSXRZa0I0RkotYzhYUEswdHR0Y1F5QnJEeFpHRGhiSlY4bi14LWIwM2xyX3BwWmJmZFpZQjNZSnBCRzlCeHdhZw?oc=5",
-      "source": "이로운넷",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "[이재명 정부 2년차, 기업 규제 대전환 ①] 지방권력까지 확보한 여권…기업 규제시계 빨라진다",
-      "summary": "[이재명 정부 2년차, 기업 규제 대전환 ①] 지방권력까지 확보한 여권…기업 규제시계 빨라진다 뉴시안",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RbEVNV05uaU9KZnRsZmtROUtSSlhxQVB4ellwdjF1OVJhVWhQb2hSYVBNTTlKZDdJQ1ZwV0t2VWVHNldLZFY2WHdILWZ6dUJveDIxSUp0SXF0SFRvODRKS0N1Wk8wQXpCeGZ30gFuQVVfeXFMUDJUblJKcmItTXpBbVlEME5vTUd1NEg0RmtIaHJIT3lyMWNjQVptbm9MeG0wSWF5R01JbV93MkljZ1JaRzhsc1J4dDQ3R3RUcGpBbFhVck1ROGY1UUJQVlQyMlA5QXdocl9lS2RRWEE?oc=5",
-      "source": "뉴시안",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "공정위 방향 선회, 플랫폼 자율규제 ‘미흡’ 결정적",
-      "summary": "공정위 방향 선회, 플랫폼 자율규제 ‘미흡’ 결정적 숙박매거진",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WZTJQenlva0dja25GakkzYkZ5Q3RoZzBCRUxRQW5SRERkRXFyN1h4bHpsTk1WY3VENnZSTVd1V2t0NWZFbHpSTVE5b0hYemRLZC0tNW81NnBhZjlfR0o0RHZKTlA3bmxMTGhHNDQ1TjM?oc=5",
-      "source": "숙박매거진",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "[이재명 1년 정책 점검] '온플법' 논의 속도 조절...규제와 혁신 사이 '줄다리기'",
-      "summary": "[이재명 1년 정책 점검] '온플법' 논의 속도 조절...규제와 혁신 사이 '줄다리기' 테크M",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ic1RMbXctMjROTVNPQkZtYkVra1ZHWUxfd3BzRHpaUTR1aWw0WFlRSDByUUpNSGJFN3hwcTBOVkFxUkg1dVkyNVUyVUlBQ182UGpyMFd0MkQ0SXNzbmxGY01nOVFVV0NvaFHSAWpBVV95cUxPSHNUTG13LTI0Tk1TT0JGbWJFa2tWR1lMX3dwc0R6WlE0dWlsNFhZUUgwclFKTUhiRTd4cHEwTlZBcVJINXVZMjVVMlVJQUNfNlBqcjBXdDJENElzc25sRmNNZzlRVVdDb2hR?oc=5",
-      "source": "테크M",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "\"온라인 플랫폼 정책 미흡\" 공정위 뼈아픈 자기 반성",
-      "summary": "\"온라인 플랫폼 정책 미흡\" 공정위 뼈아픈 자기 반성 이데일리",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYmRlSW9OQ0dUdHFVMVdfeUh2ZG1tNjVOc2hvOXJ4N3dKX2I1Wk8tdzNrRU92VnRfUUFnbGRNNVlCWTVMQlZRZkE0OGJsamxfQnhfdExrbEJETUJXcHkwY0xkMU5yYWJXYk9Ia1lTT2VPXzAxVG5vVU1sUl8xNmJVOA?oc=5",
-      "source": "이데일리",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "외국인 19일간 '66조 코스피' 매도···1530원 고환율에 수급 불안 가중",
-      "summary": "외국인 19일간 '66조 코스피' 매도···1530원 고환율에 수급 불안 가중 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CZC1NVWFUeGVtdUlMRmxWQTJ3R1NzZlNsN0dWNmxVMU9jdmNNdjBnTTlkMTJsakdWYTFtSU9VSFQ0djFWRnFXMGJReFVENTdXSWZwTlhMb1NrQm9z?oc=5",
-      "source": "뉴스핌",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "환율 상승 자극하는 외국인 수급…코스피 시장서 19일 연속 '팔자' - 머니투데이",
-      "summary": "환율 상승 자극하는 외국인 수급…코스피 시장서 19일 연속 '팔자' - 머니투데이 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnMXJScTcyLUdENGlOeHBMY3UyUFBfdkF6SUF3SmNtRTVkUGRMX0lNY3pMWWg1SlZwNEhkSFEwWld5U1NfN2FFbFdqMWVtbnh1ZEpyQXA3alhpcXlWMGZ2NXBnWWFYdV9UTFEzaU930gFuQVVfeXFMUGcxclJxNzItR0Q0aU54cExjdTJQUF92QXpJQXdKY21FNWRQZExfSU1jekxZaDVKVnA0SGRIUTBaV3lTU183YUVsV2oxZW1ueHVkSnJBcDdqWGlxeVYwZnY1cGdZYVh1X1RMUTNpT3c?oc=5",
-      "source": "머니투데이",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "[수급분석] 연기금 SK하이닉스 485억(3일연속)! 외국인 한미반도체 706억+주성엔지니어링 649억 오늘 수급 TOP10 (2026.06.04)",
-      "summary": "[수급분석] 연기금 SK하이닉스 485억(3일연속)! 외국인 한미반도체 706억+주성엔지니어링 649억 오늘 수급 TOP10 (2026.06.04) 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVzAtV0hDb3Rka0oxOXpXdDZOZDRGbFZOOEk5NlphYkxaY2ZhNFFrT3ZwRlJJRldGZDN4YUtYZ1ViS3VRMnBhQXo2SWdzRmF2REJIVmVTN3kybTNtSzRlWmhOVFExaFZ2RkR5Vlo5ZEw4RFI2WUs3bHFMZmRtS1FGNVFoYkNORElKemc?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "스페이스X 글로벌 자금 '블랙홀'…상장 이후 코스피로 유턴 가능성",
-      "summary": "스페이스X 글로벌 자금 '블랙홀'…상장 이후 코스피로 유턴 가능성 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDT0taazFlOUR5MDRiMkpYMmwxckhEMjJ3ckNabFJJSGl6NVptNW9hZFFKOVM3MFVHblk4aWk1cjFIcWhWQzJydjhMcXd2SG44RGRIVDY3eC1qT00?oc=5",
-      "source": "뉴스1",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "외국인 '팔자' 전환… 삼성전자·SK하이닉스 왜 흔들리나",
-      "summary": "외국인 '팔자' 전환… 삼성전자·SK하이닉스 왜 흔들리나 세종의소리",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5URnZIVDZHblFaV1A4R05LOEpNTXlwb3Y0RGpJWFFvR3k5NV92elpNNUZXQnkyUzktbHE2RFhFLXg2RWNzT1lGQXJzcWI1eEM0cEZiMUJLUjQxVzlUNGFSOUVGZTdnQUE?oc=5",
-      "source": "세종의소리",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "코스피 9000 눈앞인데…“6월은 숨 고르기, 변동성 경계” [이슈+]",
-      "summary": "코스피 9000 눈앞인데…“6월은 숨 고르기, 변동성 경계” [이슈+] 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hb0pZcTN1R2hnZnc5YTQ1a05xUDRkeHhrcmxjOWU4bkNtZHNGanJIc1V5bElzU3NEUUtqMG4wd0J3R1pVWC1zSzhGYlRidkFPNndiVTVnMGpmNUE?oc=5",
-      "source": "에너지경제신문",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-04"
-    },
-    {
-      "title": "[코스닥 외국인] 에코프로비엠 대한광통신 팔고 주성엔지니어링 유진테크 샀다… 수급 대이동",
-      "summary": "[코스닥 외국인] 에코프로비엠 대한광통신 팔고 주성엔지니어링 유진테크 샀다… 수급 대이동 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16RlVkWUM4MzVOWHZZbEN5NnhOSS1Rd0xfUkNSeFJWUGx3d2hHM0p2ekZGSFk5QTlfbEJhQURqZE5TT212Q1hxYm9sUUJFTUJfUlpmWWZQNXBaTGtnQ19vLUNyNFN4aDVUOTVaQlVwYWxOSmfSAXdBVV95cUxOUDVZSEhoSUNSazR1RFhHYVd5b2plUVBETHlfcW1GS3poUlRXZHJtekN2ZlVQNENfTXhoelJyLVhOUUxyZnJvV0xocnJaQzhFMXc2dnlQRTVLNUJDZG9BSWw0WDd0ekRLazVwWnpOSGJYY2pWQkJTMA?oc=5",
-      "source": "핀포인트뉴스",
-      "category": "시장흐름",
-      "market": "국내",
       "pubDate": "2026-06-04"
     }
   ]
