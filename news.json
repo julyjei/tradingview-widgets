@@ -1,32 +1,41 @@
 {
-  "lastUpdated": "2026-06-06 17:06 KST",
+  "lastUpdated": "2026-06-07 01:45 KST",
   "itemCount": 30,
   "feedOk": 13,
   "feedFail": 0,
   "items": [
     {
+      "title": "[김대호 진단] 뉴욕증시 느닷없는 반도체 발작(Tantrum) \"4가지 불길한 신호\"",
+      "summary": "[김대호 진단] 뉴욕증시 느닷없는 반도체 발작(Tantrum) \"4가지 불길한 신호\" 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdVlyaEZnVE1rZUEtQmRQNkhWbTlGMzBkNlpvMTJGTkQyQ3llNzQ1THhsc0RZUDFUdl9qSEtsS3F6SWdWQTd4S1pzdHdPWktvVWRkY2xJQWdNa3FyeElja0J0NmFfUFNSSlIyc2hqTy14SXRFUk1DSXRNYTNzT1pYVUVYczc?oc=5",
+      "source": "글로벌이코노믹",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-07"
+    },
+    {
+      "title": "NC소프트, 젠슨 황 회동 기대감 촉각?…게임 넘어 AI·로봇 협력 가능성 주목",
+      "summary": "NC소프트, 젠슨 황 회동 기대감 촉각?…게임 넘어 AI·로봇 협력 가능성 주목 CBC뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aU2hUS1BHYjdiRUhPSGkzd3VGY3RWbFNFaE1UVVhuNHZvNmFHVGZnMGlQOXM5Z3NPclRxb2lQcXR4T2lGM2oxZFJNbloyWTVkZ3FLc05uRFdMSl9pdVJGb2hFSmtSc1k3?oc=5",
+      "source": "CBC뉴스",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-07"
+    },
+    {
+      "title": "예능 출연에 시구까지...젠슨 황, 한국서 '광폭 행보'",
+      "summary": "예능 출연에 시구까지...젠슨 황, 한국서 '광폭 행보' YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FOWRscW4yQ0JpVExBM0xFSXh0enhYb2h5eFQ3QmFQY2RHVDhXQmptLWYyalg2bnJlOXpLcjRPSU9acEhobU9leDkxbk1UNU83Z0dJYWZnd1ppMXQ5bHc?oc=5",
+      "source": "YTN",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-06-07"
+    },
+    {
       "title": "한은 7월 인상 '기정사실화'…물가·환율에 최종금리 3.5% 전망",
       "summary": "한은 7월 인상 '기정사실화'…물가·환율에 최종금리 3.5% 전망 뉴시안",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYSFFXaWZ3NjZrZWdnekx6WWl5UUpKdno0V2JOM3k5eVo3ODBvVUFJS3BCUXdwNDdsbTdMQ1ZkNF9vbHR1RkxPOVZQc2tVcmdPYU15N1ZKV24ySnJ0NWVpNkNrX2UzcmNUNlHSAW5BVV95cUxNajBlUC1YSlFuU1d2eXFHUXYzbkNERENfMllHMEFBaEtzdHNHVXdOckU3QzdidVVHbHZBRFY4Nks1TVA5OEl4WGVvZ05jTGZZSnZORGpUeUJiMWxjZmQxQ3BiandBUHM2RGgtdnhfdw?oc=5",
       "source": "뉴시안",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-06-06"
-    },
-    {
-      "title": "환율 1550원 육박에 '초비상'…신현송, 금리인상 결단하나",
-      "summary": "환율 1550원 육박에 '초비상'…신현송, 금리인상 결단하나 네이트",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42WWZrdWhldUtsOXdQeFZRYmlKRmlwYkt3el9WN1JQRVV4TEExRW0tdWZQNkFvRnMxeklmajlKN3k3cV9jY1NfLUg0OGxnNWNzdUlZ?oc=5",
-      "source": "네이트",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-06-06"
-    },
-    {
-      "title": "원달러 환율 1549원 급등…물가 3.1% 치솟아",
-      "summary": "원달러 환율 1549원 급등…물가 3.1% 치솟아 bntnews.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BN2FoU2NrMlE3U2VGSW1XY0JFbHNNQmhOLVBLUTZKeHEyWkg3cXJkdXFfb19FR08xbk1LS01WSXhRZXcxVG9SdnlDZDFtdWhobEVKblhwdnpZclpYalYxQ2tmWms?oc=5",
-      "source": "bntnews.co.kr",
       "category": "거시·통화정책",
       "market": "국내",
       "pubDate": "2026-06-06"
@@ -52,7 +61,7 @@
     {
       "title": "美 5월 고용 17만2천명 '깜짝 증가'…연준 금리인상 예상 늘어",
       "summary": "美 5월 고용 17만2천명 '깜짝 증가'…연준 금리인상 예상 늘어 v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RN1Y3QW1IWmthbVRiYXhyV2tSeTFCZ3hLVWhBV3RTcGJXLS14TlVvcWF3RHdRN0VhUU14c0NwZl85cWdUZlN5X0pwMVM0NUE?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5yZlpCN0FWektKTlY1RWtHSm1mS0xmOURkUFZfT2lINXhlNEs1TWdVTGZEcXBwb3ZvREZlVVpoTUxuNnlOS1VWWVJSWQ?oc=5",
       "source": "v.daum.net",
       "category": "거시·통화정책",
       "market": "미국",
@@ -86,37 +95,46 @@
       "pubDate": "2026-06-06"
     },
     {
-      "title": "美 5월 고용, 예상치 2배인 17만2000명 '깜짝 증가'... 연준, 금리인상 카드 만지작",
-      "summary": "美 5월 고용, 예상치 2배인 17만2000명 '깜짝 증가'... 연준, 금리인상 카드 만지작 글로벌경제신문",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Bb1lOWk92LU1YeEtpaFRVUmpTOFlsT3hCMmU2bTY0aUZHTE1yZUhOUVoxSXlPeHlMR3I2OGVNVkdtRzV0MWpTNTBqT2twekp2NmxCbkxaNkNPVkdwQ2ppYTdJRmtLY1FlMUk3d9IBcEFVX3lxTE1NUTU3RDFfTzRpZ3Z4M1NkTW9TMWtVWDVDWTlqTUxVRHhGZk5jak1id3ZabVR0ZkRGU0RHSEc1UWtVOHJCNXNJWnZwbDcxT3NqVndrTWh0eGdVT3ZFZmlkcjJfWmhDU2JoejByUmc2VjE?oc=5",
-      "source": "글로벌경제신문",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-06-06"
-    },
-    {
       "title": "[이재명정부 1년] 인공지능·통신은 전진, 배터리·플랫폼은 답보",
       "summary": "[이재명정부 1년] 인공지능·통신은 전진, 배터리·플랫폼은 답보 포인트데일리",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4UFRxZnFKank3QlNLNGtTRVdILWhaZjM1OG5wNURTR08xWTVFMnFyMHh1aGx0alcxT3lpRHg2VTA0d01za0k2SkVKRkhMLUlNbUh0MGUtaWkyUUptdVNjbm5uMWZ4dEpVaFJkdXNWWEPSAXRBVV95cUxNNkdvUXNpcERzcndUbmZxQkxWUHFyWEVEZ0g4QlNVV3RwTFJMLTllamdsazlXZU9oTDQ1UFVGQURqU0Vob244U0ZwbkU2bXBjOWJFU0lZcHFwWGdDeDdncndEZVlGTW9tVWlQS000V3FDSkQzRQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02R29Rc2lwRHNyd1RuZnFCTFZQcXJYRURnSDhCU1VXdHBMUkwtOWVqZ2xrOVdlT2hMNDVQVUZBRGpTRWhvbjhTRnBuRTZtcGM5YkVTSVlwcXBYZ0N4N2dyd0RlWUZNb21VaVBLTTRXcUNKRDNF0gF0QVVfeXFMTTZHb1FzaXBEc3J3VG5mcUJMVlBxclhFRGdIOEJTVVd0cExSTC05ZWpnbGs5V2VPaEw0NVBVRkFEalNFaG9uOFNGcG5FNm1wYzliRVNJWXBxcFhnQ3g3Z3J3RGVZRk1vbVVpUEtNNFdxQ0pEM0U?oc=5",
       "source": "포인트데일리",
       "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-06-06"
     },
     {
-      "title": "[K-콘텐츠⑥] 시행령 147호 이후의 베트남 콘텐츠 시장, 커진 기회와 규제 비용",
-      "summary": "[K-콘텐츠⑥] 시행령 147호 이후의 베트남 콘텐츠 시장, 커진 기회와 규제 비용 케이트렌디뉴스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01SlhqMUhSRXYyaDJXeVhqWU1VX3Y5b1JZUmstTzV4X3hoUnVLTTAtWE5MWHQ1TUU0UnF1c2pwTm41Zm1VQmFab1VvRjhaRmV3UFpjMnk4SkdwMTEyU09xdVkxejJTNmJKYzQ3V2NSTjc?oc=5",
-      "source": "케이트렌디뉴스",
+      "title": "\"1분만? 켜면 1시간 훌쩍\"…SNS '무한 스크롤'의 덫",
+      "summary": "\"1분만? 켜면 1시간 훌쩍\"…SNS '무한 스크롤'의 덫 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GdU1RNUFsSDFlMGhPZGNyc0ppWFhOWXc3a3p3WVdJOHpVZTh6X2VpSm9GN2kwZHNmX0tKd1JkcGJ0YTJPdHJ5Q0xVa2Z2cnljN21EMXEwMDFjZU95Mi0yM1ljT3N6M2R2YmJKVEMyTV9tQmctZE92SdIBeEFVX3lxTE1GdU1RNUFsSDFlMGhPZGNyc0ppWFhOWXc3a3p3WVdJOHpVZTh6X2VpSm9GN2kwZHNmX0tKd1JkcGJ0YTJPdHJ5Q0xVa2Z2cnljN21EMXEwMDFjZU95Mi0yM1ljT3N6M2R2YmJKVEMyTV9tQmctZE92SQ?oc=5",
+      "source": "뉴시스",
       "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-06-06"
     },
     {
-      "title": "보호하려다 일자리 뺏나…플랫폼 노동자 '근로자 추정제'의 딜레마",
-      "summary": "보호하려다 일자리 뺏나…플랫폼 노동자 '근로자 추정제'의 딜레마 한국AI부동산신문",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9sWVJXVGJtX1pGRGpScnc1YzhNZnZYUTlYa09jdXR5enp4ZEVBY1lTaDVfc01FNklPbkp0SzIxV0drdHg1ckZHT2cyNEY?oc=5",
-      "source": "한국AI부동산신문",
+      "title": "메모리·중국·미국 모두 투자 증가… 피에스케이 실적 기대 커진 이유 보니",
+      "summary": "메모리·중국·미국 모두 투자 증가… 피에스케이 실적 기대 커진 이유 보니 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNU29keWdDR3M4VGFOSVBZaDAtVVV5REcwdmc1ZEh2c3FPWldkV3VLYk5qY1RVM3pPY05Zd1ZCXzhoYjB0eEVXa0NpWGNLdjVCcmVNd25YckRIMkJIUVBpQjROTUhnN3lxN3lTTEJYT3h2cDNFcENn0gF3QVVfeXFMUE1Tb2R5Z0NHczhUYU5JUFloMC1VVXlERzB2ZzVkSHZzcU9aV2RXdUtiTmpjVFUzek9jTll3VkJfOGhiMHR4RVdrQ2lYY0t2NUJyZU13blhyREgyQkhRUGlCNE5NSGc3eXE3eVNMQlhPeHZwM0VwQ2c?oc=5",
+      "source": "핀포인트뉴스",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-06-06"
+    },
+    {
+      "title": "GC녹십자, AI 기반 RA 챗봇 ‘레귤레이터’ 구축… 의약품 규제업무 혁신",
+      "summary": "GC녹십자, AI 기반 RA 챗봇 ‘레귤레이터’ 구축… 의약품 규제업무 혁신 나눔경제뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14UUdxckxkekRzQ1I1YV9KSGRUUmZGa2d1c3BLUnl4aHdVbkpnVE1IVkkwVDhNM01USkxLZDYyYjRKLVFwQlNxeUU1R2psTDE1a2lHR1E0aWJmT2NaT3laYTNFcnJjZXlsNlZXZA?oc=5",
+      "source": "나눔경제뉴스",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-06-06"
+    },
+    {
+      "title": "AI와 첨단기술 분야, 글로벌 M&A 규제 강화",
+      "summary": "AI와 첨단기술 분야, 글로벌 M&A 규제 강화 중기이코노미",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45TllHaU9HR0k0XzlGRlFBeGJsNzFieVZvNEw4OU9LNHpxTWY1RTM2RlhlRFpWVUwzX2Z4N1l1aHNYZ0FZeXJ1Y0RHVGhsdUNpZE5MMmhlLVhYTU4ySkphX3JGd0pUREFncHc?oc=5",
+      "source": "중기이코노미",
       "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-06-06"
@@ -131,10 +149,28 @@
       "pubDate": "2026-06-06"
     },
     {
+      "title": "WBC247 도메인 의 모든 측면: 장점, 단점 및 활용 방법 - 성공을 위한 로드맵",
+      "summary": "WBC247 도메인 의 모든 측면: 장점, 단점 및 활용 방법 - 성공을 위한 로드맵 kmrk.ru",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45bFUyeWhxQzQ5ekdEVmFiR1dKTVlwZWRJVzVvSjNpWkJzdnRSY0I3VkZvaXRfeDZLSE1qVW1zOVgxZnZQRXFselc3OUdsa21YdEdpRDg2Qm85ZXZQ?oc=5",
+      "source": "kmrk.ru",
+      "category": "정세·지정학",
+      "market": "글로벌",
+      "pubDate": "2026-06-06"
+    },
+    {
       "title": "외인 매도 정점론, 코스닥 반등 뒤 주도주 회귀 권고",
       "summary": "외인 매도 정점론, 코스닥 반등 뒤 주도주 회귀 권고 jabon.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYMk5YSVRhaFBlaHB1eU5QSnhtSVFrOGRpb3FlUlowV1BzcHRmRHlKcHQ0U0hkUmVvcllJZ2dJWklwU3JnOW5xQWNiTk1fbjFGOEVudk9zRUQ3a1N2eENsY29JckZpUWs?oc=5",
       "source": "jabon.co.kr",
+      "category": "시장흐름",
+      "market": "국내",
+      "pubDate": "2026-06-06"
+    },
+    {
+      "title": "반도체 급락에 개미들 '당황'…연기금·외국인은 '이것' 샀다 [종목+]",
+      "summary": "반도체 급락에 개미들 '당황'…연기금·외국인은 '이것' 샀다 [종목+] 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HRzc3N1dFaHJHRnF2WjVFR0EzWkNqYWlRSmd3UC0yNXdUdjAyV3Z6d19PTmUtY1ZyTmFyQnd3aENGV3otSmoyenZOUXVsalM2M2ZRbdIBVEFVX3lxTE1HRzc3N1dFaHJHRnF2WjVFR0EzWkNqYWlRSmd3UC0yNXdUdjAyV3Z6d19PTmUtY1ZyTmFyQnd3aENGV3otSmoyenZOUXVsalM2M2ZRbQ?oc=5",
+      "source": "한국경제",
       "category": "시장흐름",
       "market": "국내",
       "pubDate": "2026-06-06"
@@ -149,10 +185,19 @@
       "pubDate": "2026-06-06"
     },
     {
-      "title": "삼성전자 30조 팔아치운 외국인...무슨 종목 담았나 봤더니",
-      "summary": "삼성전자 30조 팔아치운 외국인...무슨 종목 담았나 봤더니 한경매거진&북",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PejA1bDVrd1RwN09IV2pLb1pKZlNpRS1Wclc0bXhhOWtwRkRVR3ZveFZjaGNLekZNTnlaSUsybGFtckhDYWNCS0taazRhT3BHdlVoYmxRTllTc1VJczYzYlRmLVh2MTljVU9EeQ?oc=5",
-      "source": "한경매거진&북",
+      "title": "美 반도체주 하루 2026조원 증발 … 삼성·SK하이닉스도 시험대 오르나",
+      "summary": "美 반도체주 하루 2026조원 증발 … 삼성·SK하이닉스도 시험대 오르나 뉴데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcVF6bnZNbWs3dGZjMlppNWkyRk1KYXl2LUFzOU5IcDdPaWQtNmE3aFBJNVBXOTFrNFhRZGlBN3lNZTd6Z3pKcVc0RjlDV3R1MWhIVUdaZzVybGFSek9lUGlrb3pYcWJXYkJRb2YtOHA1Mk9qczVDcTRRWi12Q2cta9IBgAFBVV95cUxQcVF6bnZNbWs3dGZjMlppNWkyRk1KYXl2LUFzOU5IcDdPaWQtNmE3aFBJNVBXOTFrNFhRZGlBN3lNZTd6Z3pKcVc0RjlDV3R1MWhIVUdaZzVybGFSek9lUGlrb3pYcWJXYkJRb2YtOHA1Mk9qczVDcTRRWi12Q2ctaw?oc=5",
+      "source": "뉴데일리",
+      "category": "시장흐름",
+      "market": "국내",
+      "pubDate": "2026-06-06"
+    },
+    {
+      "title": "“잘 있어라 개미들아” 삼전서 ‘30조’ 팔아치운 외인…그 돈 다 어디로 흘러갔나 보니",
+      "summary": "“잘 있어라 개미들아” 삼전서 ‘30조’ 팔아치운 외인…그 돈 다 어디로 흘러갔나 보니 서울경제",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kdHlsMk4tZ0JCRU5Rb1AteFlIbzIyQXNQbjBLLWFoZ3dDYUp3WDEyVlVsR1hCLVJyamItcXBGREVYenk5amxVZXVOdUVoOUplVGfSAVNBVV95cUxOamQ5N3BUYzRtTG94aHFvZnVvSnJJVjZSMks3NHZKMThHOWltbVgxVzlRN0taQ0JTX0h1SHF5aWYzN3BhVlpBRjVBU2habEFOY0JmRQ?oc=5",
+      "source": "서울경제",
       "category": "시장흐름",
       "market": "국내",
       "pubDate": "2026-06-06"
@@ -185,15 +230,6 @@
       "pubDate": "2026-06-06"
     },
     {
-      "title": "국민성장펀드 뜨면 상한가, 코스닥 새 테마 부상",
-      "summary": "국민성장펀드 뜨면 상한가, 코스닥 새 테마 부상 jabon.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yR2VQSlpnQkVRT2ZaVlBIQlBIMFFVMEtJbXNXLXZWTFBkV3dyY0JPTS1wRHhGdzVCUWhmd0ZBaktxMXpRVzdmQXFVYkppTkFMTmc1Z3JqLWFhWGlwZU9mclhrTWV2TEU?oc=5",
-      "source": "jabon.co.kr",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-06"
-    },
-    {
       "title": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓",
       "summary": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓ 연합뉴스",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OLTRIMjd4bTVENFpXekt5TXc5YmEwXzlkdTd6bDM4U1NlRlhSeUNmTDNJNWo5bUFZNDNoakc2bXBNR2Z2aFBGWlJQWlpTWTVlX2prczF0UktKcEnSAWBBVV95cUxQaHdOTjFYSm9RSVltRzN5NFQzM3BrWVFhbzZzSHZsY3BjYjE4NDNVejNHdE1NTjhkUU5mQmdRWDFlNDJrbE4xNy1ibXJfY3JEQjhCUjRtXzZpeEJnbktMelk?oc=5",
@@ -203,10 +239,19 @@
       "pubDate": "2026-06-06"
     },
     {
-      "title": "[뉴욕증시] 나스닥, 반도체 매도 폭탄에 4% 폭락…'최악의 하루'",
-      "summary": "[뉴욕증시] 나스닥, 반도체 매도 폭탄에 4% 폭락…'최악의 하루' 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVG5ZQmtmR2prd3JveDVxdUVXamRFZDNaYTIyVkEwNEd0ZFp1U2ctWWFnT085RWRJRzJ2UmxEX2N1dVkxblFMUkhEcjBJZEpnRm1BREF5czlVaUFuSUZJc1RuSmh0OG1GYkw3amJMX3Yxa2xkR1lfUXZRcC1ITzBPMnA5dUY3Rl8x?oc=5",
-      "source": "글로벌이코노믹",
+      "title": "AI 거품 꺼지나…뉴욕증시 반도체주 하루 새 2천조원 증발",
+      "summary": "AI 거품 꺼지나…뉴욕증시 반도체주 하루 새 2천조원 증발 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xdWtnemNISHh6T3dhMm1fejVtX3FCQTdRZEJJTzFoSUkyVkFZMHl5Zjg5V0NsenNlaDdjM212Z0kwa05wNUVNM3pDWV9Kam8?oc=5",
+      "source": "v.daum.net",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-06"
+    },
+    {
+      "title": "환율, 야간거래서 1560원 돌파.... 美 ‘깜짝 고용’에 뉴욕증시 급락",
+      "summary": "환율, 야간거래서 1560원 돌파.... 美 ‘깜짝 고용’에 뉴욕증시 급락 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGdlazJmRkNjd0l3TjZ4LTdYSlU2bTBzTFhpbHFoNTdkaXEzVXM2S2JRR1dicXlJZkQ4bURVeDZBd2hkRFY1NkpENmwtN1BQbWZqbUtJN2ZkejZiV0pXLWJjRUtYM1lCOUNhX0VwcThTdWh2SFdoemhwRlNOV08zUkZ4MUtSWVItT0w0?oc=5",
+      "source": "조선일보",
       "category": "시장흐름",
       "market": "미국",
       "pubDate": "2026-06-06"
@@ -221,57 +266,12 @@
       "pubDate": "2026-06-06"
     },
     {
-      "title": "美 ‘깜짝 고용’에 뉴욕증시 급락... 환율 1560원 돌파",
-      "summary": "美 ‘깜짝 고용’에 뉴욕증시 급락... 환율 1560원 돌파 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONGdlazJmRkNjd0l3TjZ4LTdYSlU2bTBzTFhpbHFoNTdkaXEzVXM2S2JRR1dicXlJZkQ4bURVeDZBd2hkRFY1NkpENmwtN1BQbWZqbUtJN2ZkejZiV0pXLWJjRUtYM1lCOUNhX0VwcThTdWh2SFdoemhwRlNOV08zUkZ4MUtSWVItT0w0?oc=5",
-      "source": "조선일보",
+      "title": "'패닉'...미국증시 반도체ETF·나스닥100 '폭락' vs VIX '대폭등'",
+      "summary": "'패닉'...미국증시 반도체ETF·나스닥100 '폭락' vs VIX '대폭등' 초이스경제",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9uQ29OUzE0V3pKSlpmY3FKRm05aDBtdXJfSlgyVWJtYXctQ2Fmd2ZkSm11d016bFhCX3RaNThOdmI2WDYxRG94UVJBeHFTV1lhVGgzVWZyS0R6Tm9hXzV5bi1uOGlYMXNSNFdSOFNyRdIBc0FVX3lxTFBOa2xxUXJTMF9CbmlTWkZLUVBHSkFkMEZfb09JWVZMZmMxd0tlaHdieVNPanFlalRGUkFEamhsbkhZLWdrZjlkQ2hWZENzb1BwaGtBbWt5MjVlUUVOSF92Q1dGekNOSlhad1Qwb3FIWnd2bmM?oc=5",
+      "source": "초이스경제",
       "category": "시장흐름",
       "market": "미국",
-      "pubDate": "2026-06-06"
-    },
-    {
-      "title": "나스닥 3% 급락·비트코인 6만달러…연말 금리인상 확률 60%로 급등",
-      "summary": "나스닥 3% 급락·비트코인 6만달러…연말 금리인상 확률 60%로 급등 마켓인",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GNWoxUThUaXFSVUhZd1ZQTzJQMjBick5VTHZ3b2FWVDFYTWxjdmFVZnI0blM0UlYyLVNQakZNSDFKS0UwX25fbmJ4T2VTNENEb1FRU3BLZkV0YldPRUh5OUFOdWZoY0RIZ3F3NGV2SzJVekk?oc=5",
-      "source": "마켓인",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-06-06"
-    },
-    {
-      "title": "[뉴욕증시-1보] 금리인상 공포에 반도체주 투심 부러졌다…나스닥 4.2%↓",
-      "summary": "[뉴욕증시-1보] 금리인상 공포에 반도체주 투심 부러졌다…나스닥 4.2%↓ 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BX294LWwwQXktZ3hkQlA5Nk4xZVI2d0E4LTVyOG9xM29tLUJEdEp3NjM3eTlaQVNtVUlBb1Nva1hER0VZTnp6VDI2SloyTGVsWHB1OTZRVnpLaDVCMzctd2MzRC1ISlB4cktBNF9FdjbSAXRBVV95cUxNZGU5NUprdVhfeElCWXVPWUlPUTVuQjhjejVNYUtrVHJTYWpDNE9pMGllUTNwVVNhMHI5NE5rN01EQVhLc3FNVXREdlpmN1B3QTg5Y0pETGx6Uk1Fd3g2MTFmb2N4TDVlUDl0aXRaQTBaaWRzNA?oc=5",
-      "source": "연합인포맥스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-06-06"
-    },
-    {
-      "title": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓",
-      "summary": "뉴욕증시, 연준 금리인상 전망에 힘실리자 급락…나스닥 4%↓ KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkeTRZS0VRYjFSOEdqVmhVOVQwdkJIMUFKX21BQVJRajJmQTYwUlpaSy1KU1k1MVVVek9jOURiMDRnM3Q1U3o1VU9hYWZSUGhkbjFLaFRqVkQ4SUE?oc=5",
-      "source": "KBS 뉴스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-06-06"
-    },
-    {
-      "title": "고용쇼크에 기술주 '와르르'…나스닥 하루 만에 1121포인트 폭락",
-      "summary": "고용쇼크에 기술주 '와르르'…나스닥 하루 만에 1121포인트 폭락 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xWUZwS2xOdjFkdUtDbjNVMXFRU2llT1JSQWVqU1M0VXkwN19ibjREeS13elRLcVMtS2VXU0dDV1lKOVBXOGt5aXZIRnFxdw?oc=5",
-      "source": "전자신문",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-06-06"
-    },
-    {
-      "title": "[6월 1주 화장품 주가] 미국 추가관세 리스크로 혼조... 제닉, 5월에 1분기 실적 추월, 주가 홀로 상승",
-      "summary": "[6월 1주 화장품 주가] 미국 추가관세 리스크로 혼조... 제닉, 5월에 1분기 실적 추월, 주가 홀로 상승 코스인코리아닷컴",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xd0JPWE94WFdfNGhZSlRnVmRabWhBNGpxS0hQTEFkdXJqcDlaWGtSTFoxNGxWYThJV3RQV1ZrVDZiYlB2QWdwLU1WeHpaaXQ5Ni1FOWxJcTRIT0NtWGY0MEZ3MA?oc=5",
-      "source": "코스인코리아닷컴",
-      "category": "실적·공시",
-      "market": "글로벌",
       "pubDate": "2026-06-06"
     }
   ]
