@@ -1,0 +1,61 @@
+name: Portfolio JSON Sync
+
+on:
+  # 평일 장마감 후 자동 실행
+  # 한국 장마감 15:30 KST = 06:30 UTC
+  # 미국 장마감 16:00 ET = 21:00 UTC (서머타임) / 22:00 UTC (겨울)
+  # → 양 시장 모두 마감된 후 KST 기준 익일 07:30 (UTC 22:30) 실행
+  schedule:
+    - cron: "30 22 * * 1-5"   # 평일 UTC 22:30 (KST 07:30 익일)
+
+  # 수동 트리거 (작업 a 첫 실행 및 임시 동기화용)
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "실행 사유 (선택 입력)"
+        required: false
+        default: "수동 동기화"
+
+jobs:
+  sync:
+    name: Notion → portfolio.json
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+        with:
+          # 커밋 권한을 위해 fetch-depth 1로 최신만 가져옴
+          fetch-depth: 1
+
+      - name: Python 3.12 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          # build_portfolio.py는 표준 라이브러리만 사용 (urllib, json, pathlib …)
+          # pip install 불필요
+
+      - name: portfolio.json 빌드
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: python3 scripts/build_portfolio.py
+
+      - name: 변경 여부 확인
+        id: diff_check
+        run: |
+          git diff --exit-code portfolio.json && \
+            echo "changed=false" >> "$GITHUB_OUTPUT" || \
+            echo "changed=true"  >> "$GITHUB_OUTPUT"
+
+      - name: 변경 없음 — 조기 종료
+        if: steps.diff_check.outputs.changed == 'false'
+        run: echo "ℹ️  portfolio.json 변경 없음. 커밋 생략."
+
+      - name: portfolio.json 커밋 & 푸시
+        if: steps.diff_check.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add portfolio.json
+          git commit -m "sync portfolio.json $(date -u +'%Y-%m-%d') [auto]"
+          git push
