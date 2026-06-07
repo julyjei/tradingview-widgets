@@ -1,0 +1,12 @@
+{
+  "lastUpdated": "2026-06-07",
+  "note": "일정 마스터 전용. D-day는 저장하지 않으며 클라이언트가 오늘 날짜 기준 동적 계산함. 출처: 연준 FOMC 캘린더, 미 노동통계국(BLS), 한국은행 금통위 일정.",
+  "events": [
+    { "name": "미국 CPI (5월)", "date": "2026-06-10", "market": "US" },
+    { "name": "FOMC 회의", "date": "2026-06-17", "market": "US" },
+    { "name": "한은 금통위", "date": "2026-07-16", "market": "KR" },
+    { "name": "FOMC 회의", "date": "2026-07-29", "market": "US" },
+    { "name": "한은 금통위", "date": "2026-08-27", "market": "KR" },
+    { "name": "FOMC 회의", "date": "2026-09-16", "market": "US" }
+  ]
+}
