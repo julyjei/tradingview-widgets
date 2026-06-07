@@ -1,5 +1,8 @@
 name: Portfolio JSON Sync
 
+permissions:
+  contents: write          # ← 추가: push 권한 부여
+
 on:
   # 평일 장마감 후 자동 실행
   # 한국 장마감 15:30 KST = 06:30 UTC
