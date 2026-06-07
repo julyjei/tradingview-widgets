@@ -486,9 +486,9 @@ let selectedStrategy = 'all';
 const PROXY = 'https://corsproxy.io/?url=';
 
 // ===== 유틸 =====
-function formatKRW(n) { return '₩' + Math.round(n).toLocaleString('ko-KR'); }
-function formatUSD(n) { return '$' + n.toFixed(2); }
-function formatPct(n) { return (n >= 0 ? '+' : '') + n.toFixed(2) + '%'; }
+function formatKRW(n) { return (n == null || isNaN(n)) ? '—' : '₩' + Math.round(n).toLocaleString('ko-KR'); }
+function formatUSD(n) { return (n == null || isNaN(n)) ? '—' : '$' + n.toFixed(2); }
+function formatPct(n) { return (n == null || isNaN(n)) ? '—' : (n >= 0 ? '+' : '') + n.toFixed(2) + '%'; }
 function daysSince(s) { return Math.floor((Date.now() - new Date(s)) / 86400000); }
 
 function setStatus(text, level) {
