@@ -547,6 +547,21 @@ async function loadPortfolio() {
 }
 
 async function loadFxRate() {
+  // 1순위: Yahoo (시세 파이프라인과 동일, 실시간성 높음)
+  try {
+    const url = 'https://query1.finance.yahoo.com/v8/finance/chart/KRW=X?interval=1d&range=5d';
+    const res = await fetch(PROXY + encodeURIComponent(url));
+    if (res.ok) {
+      const data = await res.json();
+      const rate = data?.chart?.result?.[0]?.meta?.regularMarketPrice;
+      if (rate) {
+        fxRate = rate;
+        document.getElementById('fx-rate').textContent = fxRate.toFixed(2);
+        return;
+      }
+    }
+  } catch (e) { /* 폴백으로 진행 */ }
+  // 2순위: Frankfurter (ECB 기준, 폴백)
   try {
     const res = await fetch('https://api.frankfurter.app/latest?from=USD&to=KRW');
     const data = await res.json();
