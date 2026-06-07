@@ -415,28 +415,8 @@
   <div class="two-col">
     <div>
       <p class="section-label">ECONOMIC CALENDAR</p>
-      <div class="list-card">
-        <div class="list-item">
-          <div>
-            <p class="item-main">FOMC 회의</p>
-            <p class="item-sub">2026-06-17</p>
-          </div>
-          <span class="dday dday-urgent">D-31</span>
-        </div>
-        <div class="list-item">
-          <div>
-            <p class="item-main">미국 CPI</p>
-            <p class="item-sub">2026-06-11</p>
-          </div>
-          <span class="dday dday-soon">D-25</span>
-        </div>
-        <div class="list-item">
-          <div>
-            <p class="item-main">한은 금통위</p>
-            <p class="item-sub">2026-05-28</p>
-          </div>
-          <span class="dday dday-normal">D-11</span>
-        </div>
+      <div class="list-card" id="econ-list">
+        <p class="loading">로딩 중...</p>
       </div>
     </div>
     <div>
@@ -857,6 +837,37 @@ function renderConsensus() {
   document.getElementById('consensus-list').innerHTML = html || '<p class="loading">시세 수신 후 표시됩니다</p>';
 }
 
+// ===== 경제 캘린더 (economic.json 마스터 + D-day 동적 계산) =====
+// 일정(이름·날짜)은 economic.json에서만 읽는다. D-day는 저장하지 않고 오늘 기준 매 로드 시 계산한다.
+async function loadEconCalendar() {
+  const el = document.getElementById('econ-list');
+  if (!el) return;
+  try {
+    const res = await fetch('economic.json?t=' + Date.now());
+    const data = await res.json();
+    const today = new Date();
+    today.setHours(0, 0, 0, 0);
+    const items = (data.events || [])
+      .map(e => ({ ...e, d: Math.ceil((new Date(e.date + 'T00:00:00') - today) / 86400000) }))
+      .filter(e => e.d >= 0)          // 지난 일정 자동 제외
+      .sort((a, b) => a.d - b.d);     // 임박 순 정렬
+    if (items.length === 0) {
+      el.innerHTML = '<p class="loading">예정된 일정이 없습니다</p>';
+      return;
+    }
+    el.innerHTML = items.map(e => {
+      const cls = e.d <= 3 ? 'dday-urgent' : e.d <= 7 ? 'dday-soon' : 'dday-normal';
+      const label = e.d === 0 ? 'D-DAY' : 'D-' + e.d;
+      return '<div class="list-item">'
+        + '<div><p class="item-main">' + e.name + '</p>'
+        + '<p class="item-sub">' + e.date + '</p></div>'
+        + '<span class="dday ' + cls + '">' + label + '</span></div>';
+    }).join('');
+  } catch (err) {
+    el.innerHTML = '<p class="loading">캘린더를 불러오지 못했습니다</p>';
+  }
+}
+
 async function loadHistory() {
   if (historyCache !== null) return historyCache;
   try {
@@ -1234,6 +1245,7 @@ async function init() {
 
   setupNewsFilters();
   loadNews();
+  loadEconCalendar();
 }
 
 init();
