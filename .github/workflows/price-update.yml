@@ -1,0 +1,47 @@
+name: Portfolio Price Update
+
+permissions:
+  contents: read           # 본 워크플로는 Notion에만 쓰고 저장소는 커밋하지 않음
+
+on:
+  # 평일 양 시장 장마감 후 1회 (portfolio-sync와 동일 시각)
+  # 한국 15:30 KST = 06:30 UTC / 미국 16:00 ET = 21:00(서머)·22:00(겨울) UTC
+  # → 양 시장 종가 확정 후 KST 익일 07:30 (UTC 22:30) 실행
+  schedule:
+    - cron: "30 22 * * 1-5"   # 평일 UTC 22:30
+
+  # 수동 트리거 (첫 실행 · write 권한 검증 · 임시 갱신용)
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "실행 사유 (선택 입력)"
+        required: false
+        default: "수동 시세 갱신"
+
+# 직전 실행이 끝나기 전 새 실행이 겹치지 않도록 직렬화
+concurrency:
+  group: price-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Yahoo 종가 → Notion 현재가
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Python 3.12 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          # update_prices.py는 표준 라이브러리만 사용 (urllib, json …)
+          # pip install 불필요
+
+      - name: 현재가 write-back
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+        run: python3 scripts/update_prices.py
