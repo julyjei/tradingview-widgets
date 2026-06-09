@@ -1,6 +1,6 @@
 {
   "seedMoney": 10000000,
-  "lastUpdated": "2026-06-07",
+  "lastUpdated": "2026-06-09",
   "holdings_kr": [
     {
       "name": "한화오션",
@@ -26,10 +26,10 @@
       "account": "일반",
       "avgPrice": 1199000,
       "quantity": 1,
-      "targetPrice": 1550000,
+      "targetPrice": 1680000,
       "consensusTarget": 1738810,
-      "stopLossPrice": 1050000,
-      "strategy": "단기익절",
+      "stopLossPrice": 934000,
+      "strategy": "장기보유",
       "purchaseDate": "2026-05-28"
     },
     {
@@ -99,13 +99,14 @@
       "ticker": "O",
       "market": "미국",
       "assetType": "개별주식",
+      "sector": "리츠",
       "account": "일반",
       "avgPrice": 60.04,
       "quantity": 2,
-      "targetPrice": null,
+      "targetPrice": 67,
       "consensusTarget": 68.15,
-      "stopLossPrice": null,
-      "strategy": "장기보유",
+      "stopLossPrice": 48,
+      "strategy": "장기적립",
       "purchaseDate": "2026-06-03"
     },
     {
@@ -113,6 +114,7 @@
       "ticker": "PEP",
       "market": "미국",
       "assetType": "개별주식",
+      "sector": "소비재",
       "account": "일반",
       "avgPrice": 142.4,
       "quantity": 2,
@@ -127,6 +129,7 @@
       "ticker": "KO",
       "market": "미국",
       "assetType": "개별주식",
+      "sector": "소비재",
       "account": "일반",
       "avgPrice": 78.68,
       "quantity": 5,
