@@ -1,6 +1,6 @@
 {
   "seedMoney": 10000000,
-  "lastUpdated": "2026-06-17",
+  "lastUpdated": "2026-06-18",
   "holdings_kr": [
     {
       "name": "현대차",
@@ -71,10 +71,10 @@
       "account": "일반",
       "avgPrice": 138000,
       "quantity": 1,
-      "targetPrice": 138000,
+      "targetPrice": 70000,
       "consensusTarget": 70556,
-      "stopLossPrice": 39600,
-      "strategy": "원금회복",
+      "stopLossPrice": null,
+      "strategy": "장기보유",
       "purchaseDate": "2022-04-22"
     },
     {
