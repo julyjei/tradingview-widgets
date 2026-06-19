@@ -1,16 +1,133 @@
 {
-  "lastUpdated": "2026-06-20 00:55 KST",
+  "lastUpdated": "2026-06-20 07:52 KST",
   "itemCount": 30,
   "feedOk": 20,
   "feedFail": 0,
   "items": [
     {
-      "title": "뉴욕증시, 상승세로 전환…나스닥 1.91%↑",
-      "summary": "뉴욕증시, 상승세로 전환…나스닥 1.91%↑ 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yak1lZTZlSWFzY0JKZkxJVXg1X2VzaUVjS2h2dnVUeEdRTk5POENSVklHaW1ISW5yRUpBc0FGY2xjQVNEdW1fTnJaWVBnOEh3?oc=5",
+      "title": "[N2 포커스] 매파 연준도 못 막은 코스피…금리보다 실적에 쏠린 눈",
+      "summary": "[N2 포커스] 매파 연준도 못 막은 코스피…금리보다 실적에 쏠린 눈 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxSWdQZlVEUWZDaEF5M2I5N3hRSkc3NWZNUnNhalc2ZXRVYTdwcWpKNU51LTJTRnZ2T0xLanF1MU9zX1hhWS1vODNzV2MxQmdHZzhNWDEtMVZsMHlFbXc?oc=5",
+      "source": "뉴스투데이",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "글로벌 소비자 신뢰 '절반 이상 비관'…무역 분쟁 장기화가 한국 경제를 압박한다",
+      "summary": "글로벌 소비자 신뢰 '절반 이상 비관'…무역 분쟁 장기화가 한국 경제를 압박한다 한국AI부동산신문",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qd2JSS2hOZk81VmNPZkNHUGNOMGhzT3VINXIzcXMzdThZUFRyTmRHZzFuZi12a0VWcC1lMFlMTXM0TE1yMC1MZDRpZVc?oc=5",
+      "source": "한국AI부동산신문",
+      "category": "정세·지정학",
+      "market": "글로벌",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "\"외국인, 더 이상 절대 변수 아니다\"…1만피 열쇠 된 '개미·기관'",
+      "summary": "\"외국인, 더 이상 절대 변수 아니다\"…1만피 열쇠 된 '개미·기관' 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5HMG51d19zYXdmbEhEZFkxRENSSXNYeHZHZ1VZUjROUVlfdDlsal9RU2xSVWlFY0VRMFZjRUo4VS12THFRalYtZFcwT3pnR24tREdNdFZjQm9wQlA2bkFF?oc=5",
+      "source": "뉴스1",
+      "category": "시장흐름",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "[오늘의 글로벌마켓] 유럽증시, 일제히 하락 마감...뉴욕증시는 휴장",
+      "summary": "[오늘의 글로벌마켓] 유럽증시, 일제히 하락 마감...뉴욕증시는 휴장 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wdlN6Z0ZQalhSdlF5dEVfSWRwT09kYUp4SnlUV09wd1FMeWhFT2tjOVctSklHSkIwNGxYZFdwdW5VWTljWXRZZnJKZmwzdzBoVEt1RjYtX1NtLWNHNS1meFJXRUJ5YWtsVEhpMWV2RkI?oc=5",
+      "source": "오피니언뉴스",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "찰스 슈왑, S&P500 연계 이벤트 옵션 출시 예정",
+      "summary": "찰스 슈왑, S&P500 연계 이벤트 옵션 출시 예정 블루밍비트",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0Z1FCTHFoWk5UOGVPbmJOZFg0SFZvNmRqdnhpUW1nbWUtTmJ2V2c0NGFxYk9ITWhCdVludUtxc1czUVZlcGhOM0VSRXdkaGVY?oc=5",
       "source": "블루밍비트",
       "category": "시장흐름",
       "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "美 증시 하루 쉬어간다…'준틴스 데이' 맞아 뉴욕증시 휴장",
+      "summary": "美 증시 하루 쉬어간다…'준틴스 데이' 맞아 뉴욕증시 휴장 데일리안",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuOGh2MHh0WDd5a2NzM1FzRmNSZTNxQWp5RldiUFdDb1FQTGZzLXpmakpXVDBPNkM0MXB2V29fQ0NDNnNDZmYxT1BqWUZKTjBLZ29meC1R0gGbAkFVX3lxTFAyVnYxRndHU0c1Vy03aU5pX2tBckNnQjVuTkJZZXpwTG1YMHI1czU2anhDVVhCN0FJckdfd2xrd1VicGRGNGZBYlh2bUIzWF9TUEYzZF9MVjFDLTBxZTlvY1NlTjk3NUcwRHZ6Q0pFdHhJaGZicE1zMVg0TmdFMDFTTVFoM2RvWGZGeUNpa0YwNEdJYkxKVE5OZ1R0NlVQOUc4eV93TF9qTU9Bdk12TDVCSzkwenF4SFdCbTFoZ0RKZ0I0YUpaYm96TXdaNTk3LTdscG1iZ21EVWZ6T2lnX20xWWdnZldxY2dxUGZMaFo5TV93V1dmbUFZWGNwWVRveFRYV3MxcTVITFZZQ1laRTU5czZLaW1oMXRsQ1E?oc=5",
+      "source": "데일리안",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "나스닥 상장 앞…현대차, ‘보스턴 다이내믹스’ 지분 100% 소유한다",
+      "summary": "나스닥 상장 앞…현대차, ‘보스턴 다이내믹스’ 지분 100% 소유한다 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5b2RoWXpXSkIwS2tSSkJuU2ZubWQ4MWFSZXFmUmdic1M0dVZrTHpjSkhmNmphcGY0cHVNekpyYnY0QUYzbHR5ZTJtMXEtQWYzVk9GWjgzRG9HTWpCMDZJX1B0dTZkOUdzTnc?oc=5",
+      "source": "한겨레",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "1조 달러 돌파한 ETF, 서학개미가 64조원 베팅한 이유",
+      "summary": "1조 달러 돌파한 ETF, 서학개미가 64조원 베팅한 이유 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYUd2d0FFWHVlNDFxeXByQmk1ZzN4bFhNZGl3dXU2Vl82Wi0xZWF2ZEJadXU1QXc0UlFNMlViaDVFSXg1S0VvdkZqNVdFUzJSSHRsWnM0Wi1pVmZ3Q3lNRDJKajFlRmtxV3hSTGhRRzFnVXNtbFFHb3hkOVNveWtpZU11dHk3NDdt?oc=5",
+      "source": "글로벌이코노믹",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "현대차 출신이 글로벌 사령탑으로…이례적인 카뱅 인사 셈법 : 네이버 블로그",
+      "summary": "현대차 출신이 글로벌 사령탑으로…이례적인 카뱅 인사 셈법 : 네이버 블로그 Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPREc5RzM5dUlLbmhrR3Q3cGlGLXJGdmZLdkItRzNzSm9RRi05NXBiWHl2X0x1NDlzdF9ENWRzRmM5bGIyU3FVUjJNeGpUbWIycU9vOGZXYVQ0US1fMnRxSzB3MGxvdU5aS3JDSFpoZUtQTFAzSWtZeFVQcTVMNmV4Wmt0bWVkSDBFN24tUGdPSQ?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "한화오션, 국내 최초 400㎿급 초대형 해상변전소 제작 착수 [비즈360]",
+      "summary": "한화오션, 국내 최초 400㎿급 초대형 해상변전소 제작 착수 [비즈360] 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DY2xwSXZfUU5WZ09yeDh1cV9BelliOFpkSjFkNGhndXdaZFN4cWhLWXZfY0FIMndvelFNZzN6eUZfbTZrNTAxNUpfVGVUR3dnWjFB?oc=5",
+      "source": "네이트",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "2거래일 내린 한화에어로스페이스…증권가는 \"178만원 간다\"[이런국장 저런주식]",
+      "summary": "2거래일 내린 한화에어로스페이스…증권가는 \"178만원 간다\"[이런국장 저런주식] 네이트",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVal9IOUVQOWc5SWJXdXd0QjNpWWpqcmZpaVlQVmc3cmFmR3dhNXlRUkJZWDFMVnRsbTZ2Q0tXNXBqQU5OVDF3SU15dWl5TVcySWw4?oc=5",
+      "source": "네이트",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "[보도자료] 김민석 국무총리, 대전 한화에어로스페이스 폭발사고 현장방문",
+      "summary": "[보도자료] 김민석 국무총리, 대전 한화에어로스페이스 폭발사고 현장방문 서울Pn",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Pa05EU2ttRlM2NHVmc19GNXctaHpZQ0VsSGtZRXgxOWhwcEVVRXJyWXBUYWI5cFJzeXBzTklQV1VGMVBuM1puYTI2Y3RjWmQ0VGdCN1lwRnZ0LVhzWUw2Uk9B?oc=5",
+      "source": "서울Pn",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "美 하이마스 지연 틈새 찔렀다…한화, 佛 발사대에 ‘천무 미사일’ 이식",
+      "summary": "美 하이마스 지연 틈새 찔렀다…한화, 佛 발사대에 ‘천무 미사일’ 이식 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGdnb2ZtUjdKR3dvclo4ci1Xclp0UXVTdVN6R2tGc2hIYV9hZXp3X0FZNWVueGJFTGl3SXR1bEZYbVVKXzh5RkpmR1o5bXFMbkdPU3U2ajV2MU5QZ1Q2cTQ4Y3dNdFZYZi0tUFI4bzRBcmJjeW5CclNYbDI3WUFoZFkwclBJSndD?oc=5",
+      "source": "글로벌이코노믹",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "삼성생명·삼성SDI·NAVER",
+      "summary": "삼성생명·삼성SDI·NAVER 마켓인",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95cFJ6Mm9tY3B6SHgyc2JfR1NhYklzdm00N09jT3RfVUpUbThDUGRZVmJxeG90STVfMS02ZC1PMkhVUWpxT1Q1MmVhQmRLU3dCX2RxcWZlSEtJRS1OV0o4VjhJcUtScTkwdzlGVy1DZ3pqS2M?oc=5",
+      "source": "마켓인",
+      "category": "개별기업",
+      "market": "국내",
       "pubDate": "2026-06-20"
     },
     {
@@ -23,256 +140,139 @@
       "pubDate": "2026-06-20"
     },
     {
-      "title": "구글이 인공지능 칩 시장에서 엔비디아와의 경쟁을 강화하고 있다.",
-      "summary": "구글이 인공지능 칩 시장에서 엔비디아와의 경쟁을 강화하고 있다. Vietnam.vn",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSkJ0VEtBTmZKUGkyS05ULXd6M0FoUU44UTY0eEEwQzBzOTRSd1dGbUNBVlI4RzlOQXp6SktOVzBhSV9zLVMxWmtDTk00NjkxY2psZmRvLUpGdGtrNW5LWjVmTUtGbWNxRHg4S2gxM2dXbU9rbS1rSll5cHJWTUpXYWRuNGUwekRnb2Vv?oc=5",
-      "source": "Vietnam.vn",
+      "title": "자연과학교육원, 운영 : 네이버 블로그",
+      "summary": "자연과학교육원, 운영 : 네이버 블로그 Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWNmZnRPcS12U0dhdVJoekV1Z08wV09jTWZuclNTWkg0UTdVbHUwVUFTaV9qbjg5UFo0WHUzRHM4Qjg1bTZJNjNBcWY0TVpTc2lmVHAyM1FWaldwNWU1c2tjV2FoUmhFRWQxSkVXZ0xmWVlrSGdjZ0JaNi1VcWhrZ1pOREFnRW5YYUc0bS1XZw?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "[기자수첩]美샌디에이고 향하는 K-바이오 시계 : 네이버 블로그",
+      "summary": "[기자수첩]美샌디에이고 향하는 K-바이오 시계 : 네이버 블로그 Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNklMeVdNeW5TRjRHTjZEaE9oalRpUmFNR21CNHNRZm5PUEhaZXNCTGsxV1JNZHhlMVpYeWRpNkFnN2tWakkxazdnZ2hiLXRHU2dNaGNfVGpwMFJNUmRuUldYV2wteXdvazFRUGQyd05zU2tmZmxRZzVya2ZybVNNSXhqNEoxc0NIT21aaHRURQ?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "앤트로픽, 한국 사업 본격화…글래스윙 논란엔 '침묵' : 네이버 블로그",
+      "summary": "앤트로픽, 한국 사업 본격화…글래스윙 논란엔 '침묵' : 네이버 블로그 Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeFgxUG5SMDRvWW9pQ3FFNmwyWENJQjJUb2lFMnVkRHJGb2tuSG5JZS1Bb05FUWIxX0VMX1RCLTNDb2l6MV9IR1BWdGtVRGllYmxOZ2dKdU42aFI2MjRhQ09sVVZmelZfMGdzM1QxQ2JUY3VHdUNGcHo1Z09TQ1FqUmxibEhqRVJhUE0xaGszaw?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "[JTBC 회생신청]스튜디오드래곤 꿈꿨지만…상장길 막힌 SLL중앙 : 네이버 블로그",
+      "summary": "[JTBC 회생신청]스튜디오드래곤 꿈꿨지만…상장길 막힌 SLL중앙 : 네이버 블로그 Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOXh3QXBTVGFBWmV6VFpGalA0bjRuZ2tzT0RaWG9SSEhsRGJ3ZWVLeWNxbXNvclFwMUpQOWk3Z1Q2WFN2blFTUWEwQnhxY1hOZ28zb1ZSTVpaX0tWVHVUeXJEa1lkNDhBRG9FYnJWcWUwZDdVMVk2UF9wRHBiN1BJZTZkMDFIZkd1QVBjU0hMcw?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "[26년 6월 20일(토)] 한번 휘면 처참하게 무너진다…삼전·하닉 반도체 패권 승패 가를 복병은 - 비티의 오늘 주요 뉴스 요약",
+      "summary": "[26년 6월 20일(토)] 한번 휘면 처참하게 무너진다…삼전·하닉 반도체 패권 승패 가를 복병은 - 비티의 오늘 주요 뉴스 요약 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNODdTRVRmTE1DbDNScmx1N2JRc1poblpKT0FNWHRqX0Y3eGc3enIycEczLVFFeWVjVXNmdUVidFZWdjlyN3c1SWM3NGxkT29zYVNuNUN1MzZ6SXdFWkEyOHdQZ0Q3WDUzQndvdGJFdXJEVG5nVHktZlZkd0FyMGZXbQ?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "\"3억 6,850만 원 부터\"...벤틀리, 퍼포먼스 그랜드 투어러 '더 뉴 컨티넨탈 GT S'·'더 뉴 컨티넨탈 GTC S' 국내 출시...",
+      "summary": "\"3억 6,850만 원 부터\"...벤틀리, 퍼포먼스 그랜드 투어러 '더 뉴 컨티넨탈 GT S'·'더 뉴 컨티넨탈 GTC S' 국내 출시... Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDVmU0ZIY1BvLWZIZ092UDgxZ3UySURzMWNIVlB1SExTdXdCeENLb1RXbWxLTURKckF5aEFoUExBUF85cnVlU19uUTJKWFRDS0xlSVJwOXVQRU41RzVneWlMRFJ6VXRGeHdNcWJVTGZkUkpKT2pJSDVjY0hZUkJMM0lvbHFwVmZidWxwVW1JNW9oejlPWE1ETg?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "\"AI 대전환 속도\" 이재용 삼성전자·최태원 SK하이닉스 '실력주의' 인재 확보전",
+      "summary": "\"AI 대전환 속도\" 이재용 삼성전자·최태원 SK하이닉스 '실력주의' 인재 확보전 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UNlA4UlFGaDdBbERHZ0RpZHduR2N3c0o2OVdCNnFfWTRhcTNvRGM2T2QzUWpJX1RrQ1puSTV2OTFMOG54Wmh1Z3JRN01QaC1JdTBMeU85Q0lib3dzRGxKbzNsbTlXNGxTRUp3WEdmREdOTHVxWjFZMdIBeEFVX3lxTE1UNlA4UlFGaDdBbERHZ0RpZHduR2N3c0o2OVdCNnFfWTRhcTNvRGM2T2QzUWpJX1RrQ1puSTV2OTFMOG54Wmh1Z3JRN01QaC1JdTBMeU85Q0lib3dzRGxKbzNsbTlXNGxTRUp3WEdmREdOTHVxWjFZMQ?oc=5",
+      "source": "뉴시스",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "버려진 스티로폼·폐냉매의 변신…삼성·LG, 가전 ‘자원순환’ 영토 넓힌다",
+      "summary": "버려진 스티로폼·폐냉매의 변신…삼성·LG, 가전 ‘자원순환’ 영토 넓힌다 IT조선",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5IVF9GN2pDZXJVVVl5ZU9WeF9lbjRnaGVaRVpWakJxWFhaaVFNaDFSdlp2RnF4ZTdIMDB1M2U4cm5iSUVZTXZCWVE0TXp3ODZobkpzNWZHX0pLQ2h4dHItN3h5dWFSSWpJcHhxcWJxNEtkSGlt0gF0QVVfeXFMTkhUX0Y3akNlclVVWXllT1Z4X2VuNGdoZVpFWlZqQnFYWFppUU1oMVJ2WnZGcXhlN0gwMHUzZThybmJJRVlNdkJZUTRNenc4NmhuSnM1ZkdfSktDaHh0ci03eHl1YVJJaklweHFxYnE0S2RIaW0?oc=5",
+      "source": "IT조선",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "[ET시선]반도체 실적 잔치와 투자",
+      "summary": "[ET시선]반도체 실적 잔치와 투자 전자신문",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5SMUxkalpDS3J0dEtjYU9LQVkwRHpSRUNTV0haRE1qOFhjSU9qSGo2VUJlZndrcmdwcVdfdkNZYWhfaUlCb3A0Q2VPZGVxQQ?oc=5",
+      "source": "전자신문",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "최근 조정 국면을 겪은 리얼티 인컴(O) 주식, 현재 평가 격차는 타당한가?",
+      "summary": "최근 조정 국면을 겪은 리얼티 인컴(O) 주식, 현재 평가 격차는 타당한가? simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEVhT3ZONzhzZ0dGQ0ZVT3RSd3RWbFhhYTg1SXR3WmlOVTZlOGt2VWZXbjJRcm1IeWJxRkFUZVdhSjl6T0RJNThHakQ0U1MxY19lMktnTTF5YXZWNzhlQTktMkxxODBqQ2JTRjZlZ0llejRncjd3RnBrNVQ3NDdidEVBM1ZqeDYwM0xsR0FtdXJmSlHSAZgBQVVfeXFMUGF0Z1dmb0ZGSEJNUFBueXpxb0p6WXBhaVFteVRWWFJiemV3U0pldFpwRVExWVh1LXR2RW5HM3BOMnpJdjNKejVYSTQzYTlKTU9xWHhrNzFKSlZ4NTlteWdwSTJfU0g2QWNQNGpWVG1FU1ZKNEdEYm9tUE5aaVpHeTJYVG56by12VjdMbGk5d1c2SGQ2RS1tS2g?oc=5",
+      "source": "simplywall.st",
       "category": "개별기업",
       "market": "미국",
       "pubDate": "2026-06-20"
     },
     {
-      "title": "“국제유가 꺾였다는데”...생산자물가↑, 기준금리 인상 가시권",
-      "summary": "“국제유가 꺾였다는데”...생산자물가↑, 기준금리 인상 가시권 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMZ2Y5NERnMGxyUkJSY0xRT1EyUE1RUzlFYXpBeDdIc2NuTEV6OFktTDJyb3lMcG42SUNTaDJCS3VkdFNERjhpMk1HVlBnQlljOGxUYUNBUVVUSWs?oc=5",
-      "source": "에너지경제신문",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "세계 중앙은행 긴축 기조 강화…기업 자금조달 '비상'",
-      "summary": "세계 중앙은행 긴축 기조 강화…기업 자금조달 '비상' MTN 머니투데이방송",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ObnNtd1FMR2NBMjFid3NpRWlBUTdLZmFvaFZzYkZwN1FKWGl6SDY5S0ZKbTl1dGlRbDVxdTQyTGRMUUx5M1dnVFBhSk9nbEtvWTRxUzcyOEp6cXM4ajZhbTRrczI?oc=5",
-      "source": "MTN 머니투데이방송",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "글로벌 긴축 전환…한은 금리 어디까지 오르나",
-      "summary": "글로벌 긴축 전환…한은 금리 어디까지 오르나 ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PRm5naEo0Z2VZWUo5MXNnTVRIZXJfSmZCLXUwTlE1Q3Z6TWNGN3NtaS1sMEI3bGNPME1lYm9ZZ1NBbjl1ZE0xTExwdnUwLTZqNjA5YjNIenNUUVk3MVJaZFBlS1VidVpk?oc=5",
-      "source": "ebn.co.kr",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "한은, 물가 압박 요인에…‘고유가·반도체 성과금’ 콕 집어",
-      "summary": "한은, 물가 압박 요인에…‘고유가·반도체 성과금’ 콕 집어 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHN0lNQ2l1WmwyYjZ1T2duRHcyaFlzZFd6UGh5RzlyblZydlYxb3U0TDZNR0hvV0ZSX0FwWlVfUGNnNXliT194WHFZeHQ5OHZvbDY1d1B4dUxIZUxMcVY5S2MyWEZMeVNRczlUMF9OMXdmdw?oc=5",
-      "source": "한겨레",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "[공동락의 금리산책] 글로벌 '기준금리' 인상 분위기에 주목해야",
-      "summary": "[공동락의 금리산책] 글로벌 '기준금리' 인상 분위기에 주목해야 주간한국",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GSTI2MnB2N1FOLTJ2c0FHOTZ1dHQwSHFOV3lEQVFrTTRndE1RNmY4XzRrLU8zSXphQkd1ajhZSWd5MTljU29xX3ZDZGgxUmZETGliWnFEM3Nhd2swT1RQZW5lUDBSOEdPOTUwZC1Uc2LSAXRBVV95cUxNUms4NGNlMFR4cTBMa01kMUxpUTZRanhka2k4VVNOZEN0RHFWWjE3Z2x1S0lKRjhIcFZXaFlyMUhaYkFkQk9ndHl0QzdPMW13TWU5UWhXVXNRVGJsMU1TM3RQeFZ0X1FlUU9yRjl6SjIwNEhBRw?oc=5",
-      "source": "주간한국",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "연준 ‘매파 복귀’에 금융권 긴장...‘조달비용 압박’ 거세진다",
-      "summary": "연준 ‘매파 복귀’에 금융권 긴장...‘조달비용 압박’ 거세진다 에너지경제신문",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBlQ21ob3EwWFIwSnBBVjhsY0I5UmRCQThJYThfSEU5c3JULXNNZndkYTkwRGhJQ29FVG1WYWFtcUl1bFpFOU83cnRXSUstQ2toU0ktNktubENSUnprT0E?oc=5",
-      "source": "에너지경제신문",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "6월 FOMC, 금리는 멈췄지만 인하 기대도 멈췄다",
-      "summary": "6월 FOMC, 금리는 멈췄지만 인하 기대도 멈췄다 산업종합저널",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMTFZ0cGhPWkJ6NzJxdlVwUU0tMU85VDh4R25qV19JRWEyMkpraTh0c2FRT0duNXZTMVlSNElRWWxHR1VidlZKTFFsY0V3dTNQUXpJ?oc=5",
-      "source": "산업종합저널",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "\"금리 인하는 없다\"… 美 연준, 기준금리 동결",
-      "summary": "\"금리 인하는 없다\"… 美 연준, 기준금리 동결 위클리코리아",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNRVAwaDBhcDM1Sm5Nb2tjSFBSdVhVM19YTmU5WVJzZmlIN1BiNmZSVVlSNEhTM05LaHowdFN5aVVRb2hqNGpOYXVpR2FxbWFwNnM2aXpmUWlWT0daLVlGVVd6SUdVN0o1aThVVUE2NElaUGdmSldYS1hhNldVdjBWdGdMNmtWYU9lNjZNRWZFZHhiU09oRHZqYW9qNHF5VXA2YWx2WlpSZkZZT1NEck01YzRQRm4yTkxCSG40eGI4aHp5Skd1NDcxVFRnNDVUcDFoZEFFMjRQSHpwQXQyUmE4X3lpOE5JTGRHWnppVnhkTGFIdXNPeWZKcDRxdlJFNDc4alBJNzh0QklIdE1GRDc3b1FDYw?oc=5",
-      "source": "위클리코리아",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "미국 규제에도 몸 커진 ‘중국판 삼전닉스’…반도체 시장 판 흔드나",
-      "summary": "미국 규제에도 몸 커진 ‘중국판 삼전닉스’…반도체 시장 판 흔드나 한겨레",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xY3U4c0EyVmN1MVFCNzNQOVBTTVlpZE9VNHp2cl9IOXpQNGhmdWNsTVYteWFTU0JpQUpwdnFnX3dmMXdWaUl1T1lfcnNGRXlaX1puazY2VnU4UjVUOWNmdHBndDI3YUdIZGRoZ0VTRUZrdw?oc=5",
-      "source": "한겨레",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "세무플랫폼 광고규제 시행 임박…'환급 경쟁'서 '전문성 경쟁'으로 재편되나",
-      "summary": "세무플랫폼 광고규제 시행 임박…'환급 경쟁'서 '전문성 경쟁'으로 재편되나 위키리크스한국",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VVnBzNk53ZWhuLV83QUlfcFhHRW01NklWaWVrbEJOSk13cWMzRk5SY3QxSG1FOUY1VnJuNVZJQWlIRWdSZjBDQkFjMzR6Y19VSWpxYXN0NnB1VlpDU3lnd0F0Y0FVMzM0YURHa19HMA?oc=5",
-      "source": "위키리크스한국",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "산림청, 국가첨단전략산업 연구시설 산지전용 규제 완화…반도체·이차전지 등 첨단산업 지원 강화",
-      "summary": "산림청, 국가첨단전략산업 연구시설 산지전용 규제 완화…반도체·이차전지 등 첨단산업 지원 강화 전자신문",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9MZFp2QWU4UndsMGRfZTc4N0xRTy1GZ1BHV3VxUXVRSVFxemdDTjJnVUZDZmJMNlFESFlmY1ZYM0dYNzFub0xzbzNvSnBadw?oc=5",
-      "source": "전자신문",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "플랫폼 규제 vs 노동법 개정…경제·노동 현안 놓고 여야 정면충돌",
-      "summary": "플랫폼 규제 vs 노동법 개정…경제·노동 현안 놓고 여야 정면충돌 한스경제",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJNTFVWmRQUU5oTXJHcnNCM3F5Y0gxV29ERUxSdWpaNGhhSHpSR0twc0FYVTFaWVNGU0FjWW8zdlFyaXNrNHBCdGlJeEJBQ1RTWXRiQlJaNFhVZWVMSXlYendISThPVzhTTFdj0gFvQVVfeXFMUE50Sm4wVTJXWlRwdGt0bzU5ZHZRQ0FuVVJKSHNJVlJSWXIzalhpZ3RyclJsWGVJZkdnWmFTbFlYekdlUjZfV2hlZUtzMkxTZXVodG1GUnNsdEVMcjUzWjhkdF9qdGxTTDhiODJHZEJj?oc=5",
-      "source": "한스경제",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "'반도체 머니' 몰린 동탄, 조정대상지역·투기과열지구 '규제 사정권'",
-      "summary": "'반도체 머니' 몰린 동탄, 조정대상지역·투기과열지구 '규제 사정권' v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQdDlnbzYtNHhLSnhFbFNEaXhNTTFMQWViY25md1ZwMDY5MmJtVGxMUlI4cm4wd2xQZ0NYYmtQSnNLSTFHMkg0dnkwR2VxV0VlMkJ2Tg?oc=5",
-      "source": "v.daum.net",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "산에 반도체 연구소 짓는다…'입목축적' 규제 면제",
-      "summary": "산에 반도체 연구소 짓는다…'입목축적' 규제 면제 글로벌 비즈 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11NXRlNmRfbFB4V0Z3X3pyU3NuUndjRnVHQU9tV19yblhWOTlxMkxhZG44bFo5T2gzYW1lS2Q2UGhmSzVIa25kdGFEQVM0ck1veS1CNHdobnNpeVNNdTJncjVyVWRHQ3o20gFoQVVfeXFMTXU1dGU2ZF9sUHhXRndfenJTc25Sd2NGdUdBT21XX3JuWFY5OXEyTGFkbjhsWjlPaDNhbWVLZDZQaGZLNUhrbmR0YURBUzRyTW95LUI0d2huc2l5U011MmdyNXJVZEdDejY?oc=5",
-      "source": "글로벌 비즈 뉴스",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "방송법·IPTV법에 OTT까지…방송 '3중 규제' 일원화되나",
-      "summary": "방송법·IPTV법에 OTT까지…방송 '3중 규제' 일원화되나 서울STV뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UREVoYXo2TUIwaXdRdEZ3eWF5TXFyOWRUM29NUG9zRE1CV214SjZDeFByUWRmMlQ4Vk1PQ1dKQk1sZEtrZkY0Vmx6ZEhkMnIzdE9ZRkFrdHNzRTBwVUZ0NEY1UlNvYkk?oc=5",
-      "source": "서울STV뉴스",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "배달비 · 수수료 올리고 과징금은 찔끔…플랫폼 독과점 논란 재점화",
-      "summary": "배달비 · 수수료 올리고 과징금은 찔끔…플랫폼 독과점 논란 재점화 르데스크",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHSktEZ0pSSkpLUE9yeEd6OU1rX09mN3JvRlpSWkcxVXNndFhXYlZidjhCaVpvWFFKV2xKWUdvU1NqZ2NWU2NPTk9SYU9tdjd6U0VMcGF3?oc=5",
-      "source": "르데스크",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "텍사스 인스트루먼트·퀄컴·캐터필러, 미중 교역 확대 수혜주 찾기",
-      "summary": "텍사스 인스트루먼트·퀄컴·캐터필러, 미중 교역 확대 수혜주 찾기 simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY3psT0NFaW9EX0syNHlXUUxubzFobXQtUWJ6YnhIaTczOWlVcXhYZ2xkNDhZV2lPenRpNXhSMTIyNWpEVldySHlnQXRnXzFvZklFWHJHRjhFb3FtaFZGbmZVMy1tc2pWcGw5ZzJSeTA5MEVCdnBVQzhKNHpCMFhyc3JjTmdHNWF1R2NSbkpuS0pDcTU1ZjVoMWRDWjNWYi0wREHSAacBQVVfeXFMTi1fbTQ0MElnVXdhMzhRRkhsX0thN1U4VlpsZ3V1X1dhMktZVDQ2UjlTaGtwbnlwZ3IzMHJ6eDR1NGZDSzVCQVJTN1dEcmM4bWlySm5RbDhIelpBYTVqajdwNWVocnpWemUzcGUyNnJ4a3BCWFFRdS1XZ3lib0pQX3lnV0hpaTFPdzRYYjdwVksyWjg0ZXZUdk9FZS1mLVlaS18temNrdnc?oc=5",
-      "source": "simplywall.st",
-      "category": "정세·지정학",
-      "market": "글로벌",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "[수급분석] NAVER·효성중공업 동반 매수, 연기금·외국인 순매수 TOP10 (2026.06.19)",
-      "summary": "[수급분석] NAVER·효성중공업 동반 매수, 연기금·외국인 순매수 TOP10 (2026.06.19) 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWm5DWlZqTDZoREN4Q2ZROTN4blNqUDU2eDhNbDl1R2NSam1zR19fSjYwR245TkpPVUo1UFdFcG13YU5mM3AyTldYUGdpbDVERHlLUWFobTB3ZW1IY3Z0YjJvMVhwaVRkR0c0Uy1NRUJYUWRjd2d6ZW9EUEc4REZnUFRLV1lJV3ZlV1E?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "“옆에선 9천피 축포, 내 코스닥 레버리지는”…천스닥 잔혹사 대체 왜",
-      "summary": "“옆에선 9천피 축포, 내 코스닥 레버리지는”…천스닥 잔혹사 대체 왜 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01RTFsbDVhOTdpS3B1N3BhbVpIWVdtUlU3RGRZNC1JSVJEejRaMUxpYk1vd1N6aVpkc2M2Ujd3QWEzOVNIMXFZN2VJZXpnUVhNblE?oc=5",
-      "source": "매일경제 마켓",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "“너도 주식한다고 했지? 꽤 벌었겠네”…이 말에 코스닥 개미들은 ‘눈물’",
-      "summary": "“너도 주식한다고 했지? 꽤 벌었겠네”…이 말에 코스닥 개미들은 ‘눈물’ 서울경제",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rTHd5amw1alZmUng5eU4tNHZQelBINFZNeEMzSlpwNjFoc0R2NlNodW85YkpydktjVXRkSUdDYmRyOGVmbDAwQ1pMaDl3WEVQMGfSAVNBVV95cUxObTg5LU55ZDA2MGhDakRTTndnX1hWWWUxVnVOcV93YW8tRTNicXZpcjBNbDlrWEhMU0VvNDhJSU1wNjRubXcwNEhyX0NNRFA0QVZZYw?oc=5",
-      "source": "서울경제",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "'9000피' 시대 열렸는데…코스닥은 왜 '1000선'에 묶였을까",
-      "summary": "'9000피' 시대 열렸는데…코스닥은 왜 '1000선'에 묶였을까 뉴스웍스",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrd0JHcTFHUWljS2ItSVBfck10ZlI3UVNGa1p6UW9mWkY3UER1bUdNSHRJWGJYZzBrcXNQZHlJR0g0aHpia1ZkbHBvbXRURm8xUFdadm1KLUw4SjQ4MUZIcjN1OGoxTE9UdURwOTdvMDRBTlHSAXNBVV95cUxQa3dCR3ExR1FpY0tiLUlQX3JNdGZSN1FTRmtaelFvZlpGN1BEdW1HTUh0SVhiWGcwa3FzUGR5SUdINGh6YmtWZGxwb210VEZvMVBXWnZtSi1MOEo0ODFGSHIzdThqMUxPVHVEcDk3bzA0QU5R?oc=5",
-      "source": "뉴스웍스",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "코스피는 신고가, 코스닥은 부진…엇갈린 증시",
-      "summary": "코스피는 신고가, 코스닥은 부진…엇갈린 증시 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TM01xeEZvSlVhZTlfUnJGT3hTeDVodmdQbW9jUmVqVUpucDc5S1VHRW5wR1FzVnFEYm5CXzV5TnlSclN0OGNjLWFBWDdhbGtXYVIzZGw3SWNVUQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "[장중수급포착] KCC, 외국인 6일 연속 순매수행진... 주가 +1.69%",
-      "summary": "[장중수급포착] KCC, 외국인 6일 연속 순매수행진... 주가 +1.69% 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hUl96a0IzNnI4Z0hpN2lELTRnV0tnbFp0cURkQmFuMl9yNFhhclBtb0k1NExDOU1Pa19WaWJnT0JnVWR2Wm5nZDN5anRXMklzV3BwbmlLcE1ZeWoz?oc=5",
-      "source": "뉴스핌",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "외국인 `사자`가 이끄는 신고가 랠리…SK하이닉스, 500만닉스 가능할까",
-      "summary": "외국인 `사자`가 이끄는 신고가 랠리…SK하이닉스, 500만닉스 가능할까 매일신문",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2NVdKS3JnZXhOQjZLZHJwTWpDRVBTVjVtSmVlZ2hDVDRUdWhKN05pNlh6UEJyRXZIZVYxRk8wYk1iZjU3OFdkcUwxMzM5czRtdS0xbWs2eXVpX3dKbl95b3hn?oc=5",
-      "source": "매일신문",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "[6월 19일](국장 마감) 코스피 9천선 방어, 코스닥 급락의 극심한 온도차",
-      "summary": "[6월 19일](국장 마감) 코스피 9천선 방어, 코스닥 급락의 극심한 온도차 네이버 프리미엄콘텐츠",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMThwclk4SHhzclVpT3FsRHZpekg3VndFajgxeDFXX1Y4RXhnM2xBbHk1WFhubkxUajl2WkEyYWRWOEFQNWhPQ2lyV1F4Zl9MSWZpY0o2WHhoUkk3SWFrbzZhbEJ1TkJHMDd0ZExoMXk4c3hjRDhPdUY5OTVkV2tnM0RVRkdhVkF3RkM0ZnFCbGJMdw?oc=5",
-      "source": "네이버 프리미엄콘텐츠",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "[뉴욕증시 전략] 유가 안정·반도체 강세…뉴욕증시 하루 만에 반등",
-      "summary": "[뉴욕증시 전략] 유가 안정·반도체 강세…뉴욕증시 하루 만에 반등 v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96WmV5Qk5uelVoa1pxbzZXU040OUNmVUpqOVhFWklvc1JYLUlyRnRLQl9yUlA2aTNXM1B4djZ1VkRYVXVVaUk2cGtBdzNNWHM?oc=5",
-      "source": "v.daum.net",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-06-19"
-    },
-    {
-      "title": "뉴욕증시, 반도체 강세에 상승…나스닥 1.9%↑",
-      "summary": "뉴욕증시, 반도체 강세에 상승…나스닥 1.9%↑ 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IZ2hEVW1tbWlhUE5VWGNtS2M4N1lOYVFHWjFlVnlQMVV1bkl6blNXT1lCWk9TNzUtVnItckQ3SXNkWWpja1VpM1lFMWNYeW1yODdRNElMdGlsSjFhYzVhQ9IBYEFVX3lxTE5IZ2hEVW1tbWlhUE5VWGNtS2M4N1lOYVFHWjFlVnlQMVV1bkl6blNXT1lCWk9TNzUtVnItckQ3SXNkWWpja1VpM1lFMWNYeW1yODdRNElMdGlsSjFhYzVhQw?oc=5",
+      "title": "콜라 빼고 다 바꾼다…에어프랑스 \"프랑스산 음료 우선\"",
+      "summary": "콜라 빼고 다 바꾼다…에어프랑스 \"프랑스산 음료 우선\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GOHZrOWVzRGV5akZNMjVLTzVjaUtEQkFHWkY3QTFPMV90cUhKZlBuM1EtdFdCbVp6QXFxZEttX0w3cHRHZU1zTFU4WjByTTFQR3pWR2VnTm9xWk1yR3NUcNIBYEFVX3lxTE9GOHZrOWVzRGV5akZNMjVLTzVjaUtEQkFHWkY3QTFPMV90cUhKZlBuM1EtdFdCbVp6QXFxZEttX0w3cHRHZU1zTFU4WjByTTFQR3pWR2VnTm9xWk1yR3NUcA?oc=5",
       "source": "연합뉴스",
-      "category": "시장흐름",
+      "category": "개별기업",
       "market": "미국",
-      "pubDate": "2026-06-19"
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "알파벳(GOOGL) 핵심 AI 임원 이탈과 웨이모 3,900대 리콜이 던진 과제",
+      "summary": "알파벳(GOOGL) 핵심 AI 임원 이탈과 웨이모 3,900대 리콜이 던진 과제 simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMnN1eHZJWUNBZXlCRzR0ODNmcFgxREdlbDRoVE4yT3dWRTJqYWFHclNqVG1KVkpwNWIzT0RiOWZpM3NPNWhCSkNIN2JFbTRfSFZkOGlmcFJsNlhnYkY1ZFRfQlhEVEhoRzhTcnhTbEFUeVV3TDhUWVhqNi1aQWdkdWZURmNRdG5lcFJMWTQzV3hhd9IBkgFBVV95cUxPMnN1eHZJWUNBZXlCRzR0ODNmcFgxREdlbDRoVE4yT3dWRTJqYWFHclNqVG1KVkpwNWIzT0RiOWZpM3NPNWhCSkNIN2JFbTRfSFZkOGlmcFJsNlhnYkY1ZFRfQlhEVEhoRzhTcnhTbEFUeVV3TDhUWVhqNi1aQWdkdWZURmNRdG5lcFJMWTQzV3hhdw?oc=5",
+      "source": "simplywall.st",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "[게임리뷰] 카오스 제로 나이트메어, 中 애플 앱스토어 매출순위 톱10 진입(6월3주차)",
+      "summary": "[게임리뷰] 카오스 제로 나이트메어, 中 애플 앱스토어 매출순위 톱10 진입(6월3주차) 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3LUcxOWhBV0JRUEJQZTZUSVVXcHNMVTdlZW0zbHFmUGt2T1ZWM2V4UnRzeGFJU0dDelVfd3RObXQtVlhmNzVFc0J2WkFGeXNFVmJBMHhLYmt6LVBMbkE?oc=5",
+      "source": "더구루",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "\"컴퓨팅 60년 권력이 바뀐다\"...앱에서 맥락의 시대로의 대전환",
+      "summary": "\"컴퓨팅 60년 권력이 바뀐다\"...앱에서 맥락의 시대로의 대전환 더밀크 | The Miilk",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tZjlUREhjYXRyZGNwNnhWSW1LN19hLVE4YnhtZFFSZG00dHJzTzJlYjVvcDFELWI2Yl9HUG5MSHFWWE9lbW5ubEZqT2k3N1J5?oc=5",
+      "source": "더밀크 | The Miilk",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-06-20"
+    },
+    {
+      "title": "애플 팀 쿡 \"메모리반도체 부족사태 견디기 어렵다\"...아이폰 가격 인상 예고",
+      "summary": "애플 팀 쿡 \"메모리반도체 부족사태 견디기 어렵다\"...아이폰 가격 인상 예고 미디어펜",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IRUVKVWlTRXJoUjJrUllNcVRkSmxwZ01rRDFKR3Z1VWVMaFJFWmxnaHprMi14LUFncFBuQlowQVlMUWtyUXpwMXFUYnVlZVpNUEJtctIBWEFVX3lxTE9wLURjUVgzQ04tNFh3U0RNVS1IUDFrTTBTRUZLZ2VIbm1nc3BjQkZZd0VyckVSOGJwSzI5M0xrSGllSTBFZ0VsSWNEUzBEdS1LRmhhbTlzRXg?oc=5",
+      "source": "미디어펜",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-06-20"
     }
   ]
 }
