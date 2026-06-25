@@ -1,6 +1,6 @@
 {
   "seedMoney": 10000000,
-  "lastUpdated": "2026-06-25",
+  "lastUpdated": "2026-06-26",
   "holdings_kr": [
     {
       "name": "현대차",
@@ -9,13 +9,13 @@
       "assetType": "개별주식",
       "sector": "자동차",
       "account": "일반",
-      "avgPrice": 594000,
-      "quantity": 1,
+      "avgPrice": 542749.5,
+      "quantity": 4,
       "targetPrice": 700000,
       "consensusTarget": 690000,
       "stopLossPrice": 520000,
       "strategy": "장기보유",
-      "purchaseDate": "2026-06-10"
+      "purchaseDate": "2026-06-23"
     },
     {
       "name": "한화오션",
