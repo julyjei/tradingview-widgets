@@ -1,43 +1,223 @@
 {
-  "lastUpdated": "2026-09-13 08:40 KST",
+  "lastUpdated": "2026-09-14 01:43 KST",
   "itemCount": 30,
   "feedOk": 20,
   "feedFail": 0,
   "items": [
     {
-      "title": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수",
-      "summary": "미 연준 금리 올릴까 긴장 고조…당국, F4 회의 등 대응 착수 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtaHcxaW9NczlVTHMyTFVRbmpHY1JDSnNBTHZQTmlRWlRQeGswOWNfeWNwR3VEN3dFbWprX29ZUko1RFMweUpwcldSY05hVHdIVm1aX2szWUxrWURFdFJRMtIBYEFVX3lxTFAtaHcxaW9NczlVTHMyTFVRbmpHY1JDSnNBTHZQTmlRWlRQeGswOWNfeWNwR3VEN3dFbWprX29ZUko1RFMweUpwcldSY05hVHdIVm1aX2szWUxrWURFdFJRMg?oc=5",
+      "title": "트럼프 “美, 세계 최저금리 적용받아야”… 연준에 또 인하 압박 - 조선비즈",
+      "summary": "트럼프 “美, 세계 최저금리 적용받아야”… 연준에 또 인하 압박 - 조선비즈 Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQWQ1cWZRM3NWX29WMEZhMWd6WjBYaGQta1EtSlhwRzJVYWpvV1lMcHA0eF9NeGh3eHc1X2tQWmZ2NWJmVHhPWFR4Z2JDMVUzN0lySWNMQVVTUlFBOFpZT3QwVmJLczY0aGJ4Y2djWUlQMFFfSndjS2tJZjhJTlBkc3VBdElkYkZzVFRXVS1lczFmU0ptdHJ3bTNKWjVfQdIBsgFBVV95cUxNbGRiWkoydnFKZmxKZmR4eU02ZElfQzEtSUNMYjBsNXVKUVliMnJkcTVCckFsNUdmSjRXcHJkWlNnOHZfTTFnTUhFUW5GS2lILXZwbFFWUWJibEs3X1JERHF3U0otTGJXT1I4NjRiV25jX1hOdzBnRmJmd05QaFd1NXM4LUdGT19vMTJlZXd0Y3hySkpqYzVVcmEyOEJpRlBhQXdpcGtGaVcyc2F2Z28wUmhn?oc=5",
+      "source": "Chosunbiz",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "트럼프 \"美, 연준 공식과 상관 없이 세계 최저금리 적용받아야\"(종합)",
+      "summary": "트럼프 \"美, 연준 공식과 상관 없이 세계 최저금리 적용받아야\"(종합) 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sZzl3ZTlsZmtDYzdkVXVmYnNYYzc5YzJOOXNzTmZINHdQcXJsVkdUcGU2Y0FoV0pQNDh5MzhMd3cyS1Q4NWZLNFFGRkpjbC1Gdnc?oc=5",
+      "source": "매일경제 마켓",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "[더페어 돋보기] 국내 코스피 주요 섹터별 3분기 실적 컨센서스 추이·밸류에이션 비교",
+      "summary": "[더페어 돋보기] 국내 코스피 주요 섹터별 3분기 실적 컨센서스 추이·밸류에이션 비교 thefairnews.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jeG1qZnJncW5UdGNtX3lHSTBaWF92VDhiY1UwUWJWQXdISXhmSFQ3ZTQwMnlwcjM0Wm5SUmx5cG5ZZ2I4RVZqbzNLR1QtVmNsNGhVNlpzbGRiQjJUT2tnS25YbVFQUTJReC1MZUp1UWI1U0xK0gF0QVVfeXFMTmN4bWpmcmdxblR0Y21feUdJMFpYX3ZUOGJjVTBRYlZBd0hJeGZIVDdlNDAyeXByMzRablJSbHlwbllnYjhFVmpvM0tHVC1WY2w0aFU2WnNsZGJCMlRPa2dLblhtUVBRMlF4LUxlSnVRYjVTTEo?oc=5",
+      "source": "thefairnews.co.kr",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "현대차 ‘아트리아 AI’탑재 자동차 출근길 강남 누볐다",
+      "summary": "현대차 ‘아트리아 AI’탑재 자동차 출근길 강남 누볐다 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5scU5ESnp1endiSjN6NjdRR3A5UGJrWGVtVy0zWTRJQ1M3MGFDMW5vMmRwYnZPZTFNbVYzaFhxTVVEQ1V1V3Q5alRZbnMyOWM?oc=5",
+      "source": "v.daum.net",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "한화오션-HD현대, ‘가스텍’서 미래 조선 기술 경쟁",
+      "summary": "한화오션-HD현대, ‘가스텍’서 미래 조선 기술 경쟁 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tdGFOQXhxY2VEbC01QzZpaXdnZi1Gd08tcjZkUE82UEt3b1g2V3FrcUdTei13ZVlTNWhXdkhwRFBvSzRCYW4zYUt2OERUN28?oc=5",
+      "source": "v.daum.net",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "한화오션-HD현대, ‘가스텍’서 미래 조선 기술 경쟁",
+      "summary": "한화오션-HD현대, ‘가스텍’서 미래 조선 기술 경쟁 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mT000M2RMZjNkYXdQWWg5UTJPSTM5OFJ3clp5ekRIbmNXakowMW15N3l0RmxYQkN5TzVhNUVaeDFsNmstamlDWGliTzhRaWswSVltZjNaaTl0SkhsNjFmbDRva2w1ZFRjMDZ0VUkwYmh0V3Z6amfSAWZBVV95cUxQT3BjbzBmOVRqYU52ck9MN3hLS29sN0xhdWZWZklTcTBJZ1RLd0VlcjR2a1l6c0VEODA4bEtfLTRQbC10dW9UMDQ2Umd1V2l0YWxqRU1DbFB6bmhlcWdYZThQRm5PbFE?oc=5",
+      "source": "동아일보",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "한화오션, 60MW급 부유식 데이터센터 글로벌 시장에 첫 공개",
+      "summary": "한화오션, 60MW급 부유식 데이터센터 글로벌 시장에 첫 공개 쿠키뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kZ0NlQjliOFFqRkZBWFp2OEZZaTdxcHhfcXcwUVhDOUNPOWNmbmdyTVNNWTBQT2pQZ1dlX1MyelpkSVAxU3RTbTNLYlNnX2ZUT2hYczJaV1hfUFM3eWQzdDFMNA?oc=5",
+      "source": "쿠키뉴스",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "[포토] 국회 경제대도약위원회 출범식 참석한 박승희 삼성전자 사장",
+      "summary": "[포토] 국회 경제대도약위원회 출범식 참석한 박승희 삼성전자 사장 알티케이뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PU2o5NGV1dnA1bzJKS0F6TEpnSXFaUDZOdjd6Z2c4Y1pBWllNT2NLMlFfU3VIZXdMNVMyeFZsSGZ5Uk1jQVdPYW1TN0hfMkFPSnBDY0lJUWhXZ0FBUFEzWm10YzZZTnFWbVNGRw?oc=5",
+      "source": "알티케이뉴스",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "애플 공급망 탄 K디스플레이… 실적 반등 청신호",
+      "summary": "애플 공급망 탄 K디스플레이… 실적 반등 청신호 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBKX2hRZkRYOTVGQnhKb29pa0dSdnF4bW1nUE5aSnhycWszdlk3WmtENzlxUDBLN1pUbmljOGYxWnk3dzhOZlA1MUtyT25WNFk?oc=5",
+      "source": "v.daum.net",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "“어서와, 폴더블폰은 처음이지?”… 8년 내공 삼성, 애플과 신경전[재계팀의 비즈워치]",
+      "summary": "“어서와, 폴더블폰은 처음이지?”… 8년 내공 삼성, 애플과 신경전[재계팀의 비즈워치] 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DTlpIVFN0NVVXTjd1X1VKNHBIQ1lYOGxCdGdRNmlPLXBjU24yN1J0WEpWeDFCVEVHaS00eDA3YjkzeFJ3MjVNNWlVdEgtV1FvZTFNdlBCWWppWWg3Qkt3QTg4NFRueWtad29pNTIyZUloRjNzekHSAWZBVV95cUxPeHFrSlNHc0VjUThiZEl5MmhzR0VLWG9EZGNyeG9iZUZkNlBCdHJlWjF4cjRGbXdMMzFYRlBxMndvUnZvQmhWdTRwSWhJUWF0NUY1SXdDaXJCaFoybm5BUkZBZ2dHMXc?oc=5",
+      "source": "동아일보",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "애플이 아이폰 듀오를 “침대맡 알람시계”로 홍보했지만 수면 전문가들은 만류했다",
+      "summary": "애플이 아이폰 듀오를 “침대맡 알람시계”로 홍보했지만 수면 전문가들은 만류했다 위키트리",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VOVpWVVNZVm1DS1NIZHIzSW9xaWlDU2hYZ093Yk8yZVJUUm5fbWFqalkta1AyQXBva3FWR194RHgyTGJfS1JGYUx4RFZFOEp2aldLWWhR?oc=5",
+      "source": "위키트리",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "[GPU 다음은 빛 ①] 코닝·루멘텀·코히런트…버라이즌·엔비디아가 베팅한 이유｜Global Money Club",
+      "summary": "[GPU 다음은 빛 ①] 코닝·루멘텀·코히런트…버라이즌·엔비디아가 베팅한 이유｜Global Money Club 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtcmZMcVc4Zkg3UVpSN1lGZi1ubmVWVV9qdjhXUFljZDR6S0NheUJjSURHelp2UjBYVDJuT2F0ZXBXNkxpdS1GcTIxRFRUSTMwSl9oYVlKOUpZdUk?oc=5",
+      "source": "중앙일보",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-09-14"
+    },
+    {
+      "title": "美와 벌어지고 日과 좁혀지나…한은 '금리차 샌드위치' 시험대",
+      "summary": "美와 벌어지고 日과 좁혀지나…한은 '금리차 샌드위치' 시험대 메트로신문",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92eUlTa0p1UnhyYXpMdVd1S3BYaEhReXo5dnhOSVJKdnQ4Y2EteUc5cFdWaWVKSXE5UURmTmxtYmFvb3lfZF9Ra09PdE1UeC0zdTlTN3djX1NmQVpGWm96Nw?oc=5",
+      "source": "메트로신문",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-09-13"
+    },
+    {
+      "title": "기준금리 오르자 예금금리 먼저 들썩",
+      "summary": "기준금리 오르자 예금금리 먼저 들썩 파이낸셜뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OaFpqTDN4SDdaN2QzOGpmc0xKRGhHb0xGVlJfeWs4WXBEOHhpUldCNUlzeTBjUlJ2MmRqRV80MHh6NFBDRHE0LUNUeWFKUHZCbE5rYVZXSWZZQQ?oc=5",
+      "source": "파이낸셜뉴스",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-09-13"
+    },
+    {
+      "title": "\"유동성 많은데 정책은 제한적\"…서울 아파트값 최장 상승 눈앞",
+      "summary": "\"유동성 많은데 정책은 제한적\"…서울 아파트값 최장 상승 눈앞 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpUjBINGZXNkZwcTl4SWQ4d1JiY29IclJqY3FtN1lTUnJQNkE2d0dYcFZQSlRfNVZmWEJIdzBadmNNUFhfNzUtdUxBWFo2dUxxUnJJd2haaXdUT2hnUmlHS9IBYEFVX3lxTFBpUjBINGZXNkZwcTl4SWQ4d1JiY29IclJqY3FtN1lTUnJQNkE2d0dYcFZQSlRfNVZmWEJIdzBadmNNUFhfNzUtdUxBWFo2dUxxUnJJd2haaXdUT2hnUmlHSw?oc=5",
       "source": "연합뉴스",
       "category": "거시·통화정책",
       "market": "국내",
       "pubDate": "2026-09-13"
     },
     {
-      "title": "금리 3%에 멈춘 증시 머니…은행 곳간엔 두 달 새 62조 쌓였다",
-      "summary": "금리 3%에 멈춘 증시 머니…은행 곳간엔 두 달 새 62조 쌓였다 직썰",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15TFZfeFpqODJmWjkwdUNBQ0R0c09FTmhybjdJZ1RfUm8xQWRValNKd1dFcHBWQnpDYi1DREVJd01EYlZXVEtoWWJxUTlGbmdtTE9NelhvTTFCekJLQlhvTFdTSkFwc2ZvV2hWZtIBbEFVX3lxTE15TFZfeFpqODJmWjkwdUNBQ0R0c09FTmhybjdJZ1RfUm8xQWRValNKd1dFcHBWQnpDYi1DREVJd01EYlZXVEtoWWJxUTlGbmdtTE9NelhvTTFCekJLQlhvTFdTSkFwc2ZvV2hWZg?oc=5",
-      "source": "직썰",
+      "title": "美 연준 금리 인상 가능성 고조…당국, F4 회의 등 대응 착수",
+      "summary": "美 연준 금리 인상 가능성 고조…당국, F4 회의 등 대응 착수 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3czdiLVVZOTRkWFJCclN1Mk5lRkFKYlRXOG5mc1hPU2pXVFVlZi16bjE3elB4a2R4VTNqc3dGZkF3Q1JTR0liSDNrZDBQX1YtemI0ZGtvMmrSAVhBVV95cUxQN3M3Yi1VWTk0ZFhSQnJTdTJOZUZBSmJUVzhuZnNYT1NqV1RVZWYtem4xN3pQeGtkeFUzanN3RmZBd0NSU0dJYkgza2QwUF9WLXpiNGRrbzJq?oc=5",
+      "source": "아주경제",
       "category": "거시·통화정책",
       "market": "국내",
       "pubDate": "2026-09-13"
     },
     {
-      "title": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
-      "summary": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나 v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lLTZJS093dnQ4OWxzMlJiR0lNMGVrdFFOLXJRU2FoRkp1akZwMHJJZER1RTIxQi12MHd3dW9GYjEtWHhVbkx1XzdoQnJuREk?oc=5",
-      "source": "v.daum.net",
+      "title": "정부 “회복세 뚜렷” 한은 “물가 집값 우려” … 엇갈린 진단 [주말 Q&A]",
+      "summary": "정부 “회복세 뚜렷” 한은 “물가 집값 우려” … 엇갈린 진단 [주말 Q&A] 더스쿠프",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DZW1pNm1WcEZFVmVaby10ek0wMHI5YkRoeTdpV0RYSVQtYkxqdVdieGtRLWVuZlRZODZnQjJiNHQxUUFtRUNYRmF0WUdxZkpfOXI1VXZUSk5qMnlNeEFWS3ZrWHlGWF9YdmdybkFR?oc=5",
+      "source": "더스쿠프",
       "category": "거시·통화정책",
       "market": "국내",
       "pubDate": "2026-09-13"
     },
     {
-      "title": "거꾸로 가는 저축銀, 4%대 예금 급감…상호금융은 최고 4.3%로↑",
-      "summary": "거꾸로 가는 저축銀, 4%대 예금 급감…상호금융은 최고 4.3%로↑ 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44cXhrWTFKMEN5djRTNnpIRHY3S05PWVBLaDZqdVc5R3c2ZzVZSHh2eGYzMzMwWlc2UWVRQk5MZGtQOFNoakR0MlhQdHFsQ3VIZlE?oc=5",
-      "source": "매일경제 마켓",
+      "title": "\"환율 강세라고 무조건 미국 주식? 그러다 큰코다친다\"…증시 전문가 경고",
+      "summary": "\"환율 강세라고 무조건 미국 주식? 그러다 큰코다친다\"…증시 전문가 경고 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUFc2Wkd3QWNQYkVWaFNhUzhTc2VCZGViTDN2Y1IxS1pyMFZkdkpxNnB6bi1YTkpIdW9mTlNVczVuOGNiWWRKZWdhRzllZEdTeGd5RVJjaE5Uc1FqY0FWatIBeEFVX3lxTE9yMFdiVlJRN3M3R3ZiR1I2M2UxVHhlX2ZNWVJzNGZKT1ZCM1Ewc2tfSlNTcnY1Z05QTnYxZVVTbFZuSU1CLUVBUDlNMTM2Q2NVb1BGeXdTNjNWNmF5eXV1dFdkZzhlaVgxOUgxeWR1VVl0elo5WHhjVg?oc=5",
+      "source": "뉴시스",
       "category": "거시·통화정책",
       "market": "국내",
+      "pubDate": "2026-09-13"
+    },
+    {
+      "title": "기준금리 3.25%?···물가·집값·환율로 읽는 한은의 다음 수",
+      "summary": "기준금리 3.25%?···물가·집값·환율로 읽는 한은의 다음 수 뉴스웨이",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxcS1wNFJ5Y19xWGtZUVN2VkRpS1Mwa3VNRVQwS19Kd2I3WmtzMU52dkFuZUFmOEFHX19lM0c1VUN0ZGdwMUhBT1p2T1NmT09FaEhhZ190X3l1ekl5NHZZN2VKOGRvWkU4Vnc?oc=5",
+      "source": "뉴스웨이",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-09-13"
+    },
+    {
+      "title": "국고채, 미·이란 지정학 리스크·유가 상승에 ‘비상’",
+      "summary": "국고채, 미·이란 지정학 리스크·유가 상승에 ‘비상’ 스트레이트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43cGQwX2ZpRm5CVlIzNzV6Um9BekRQR2lQVWZEWFRTNW5wQjdlRTNkcXI0eFJrekxQa0hxcEhpQllNNXJhZC1QbHNHb0hsMkxGWmdWUXhjb185XzQtSm9WTDFHWnhVMENZaU1Ybnk0dGxybUnSAXdBVV95cUxQU091RHBoazdkWW84QWRRN1dYRzh5YkhPdHRaLVhSMzVoajhIclR5cF9FeGlJcVhxTkc3UlFHa0pCb0FJRFlaajZzNkNLVktpc1JKakducFh0MHhJVXM0VHN2VlN6NXNsY1AwSUpwYzJhV2N1VFl2NA?oc=5",
+      "source": "스트레이트뉴스",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-09-13"
+    },
+    {
+      "title": "연준 금리 인상 전망에 미국 주식 ETF서 45억 달러 유출",
+      "summary": "연준 금리 인상 전망에 미국 주식 ETF서 45억 달러 유출 Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kbktPZnZhNnhidGdxV05zbXZYYWhjdU1OcEZvRVZEbFQ4QzVWbzdjSlprNm9CUkpiSWMtd3RjdFJnYkxzZmZSYi1ud0laSjhwMk4tSnc0UVhwTndHYWhZMDhmazBxUVBHYmlRem1sUzg?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-09-13"
+    },
+    {
+      "title": "고유가·고물가 압박 지속…미국 연준, 9월 기준금리 인상 나서나",
+      "summary": "고유가·고물가 압박 지속…미국 연준, 9월 기준금리 인상 나서나 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0RkcyNXVfcXJwd3dUNDlsVnhvalBzV3pJVHQ5Qi1CZnlBNnlib1ROaHoyZFlDMEg4WmtUYzdaQVZFU0MySFZmTm0wcXVtZl9UWEFGamJHenBnTXhoamx3SDhxTlhSUmFNa0dLN240R0l1dw?oc=5",
+      "source": "한겨레",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-09-13"
+    },
+    {
+      "title": "기준금리 인상으로 기우는 추…미 국채 ‘10년물 금리’ 5% 넘나",
+      "summary": "기준금리 인상으로 기우는 추…미 국채 ‘10년물 금리’ 5% 넘나 경향신문",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95N3A1T3lTQnlYdzlpam1WdU03M1N4S0JaeEZKVzBvTGt4V1lNbkdKWlVvVGpwbVNTeDIwLWh3RnFBdHd2U2xCcW5neHhYczBPRHItNXNyWEpkd9IBX0FVX3lxTE14WUVHVWhwRjVhZTJ4VEczZVAyME1QQXFfb1U0c29XNUxocFRCZEhsa2xqc0JYSkN0ZS1OLUVYVFBvX21XQ1FrcTY5UU1XRm5iREYwRUkzMzFiZHFIYURn?oc=5",
+      "source": "경향신문",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-09-13"
+    },
+    {
+      "title": "美 CPI 발표 후 커지는 연준 인상론…\"동결하려면 설득력 있는 명분 있어야\"",
+      "summary": "美 CPI 발표 후 커지는 연준 인상론…\"동결하려면 설득력 있는 명분 있어야\" 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fUVhLa1hEellkdzNHS0lRb0FGbTJZUXhRMlVCQXB5RjhaU21WUE9USGhCbFdqMmYxdkpFY2dpY1hKRnlWQjlYdzFOQTdKT0ZuNXh5WmFNczFUbWgzOEI5VEZrQ0VHZEZrV1lrQ2t5MFg?oc=5",
+      "source": "연합인포맥스",
+      "category": "거시·통화정책",
+      "market": "미국",
       "pubDate": "2026-09-13"
     },
     {
@@ -50,227 +230,47 @@
       "pubDate": "2026-09-13"
     },
     {
-      "title": "[주간 월가 레이더] 美 연준 3년만에 금리인상 카운트다운⋯9월 인상확률 86%로 굳혀",
-      "summary": "[주간 월가 레이더] 美 연준 3년만에 금리인상 카운트다운⋯9월 인상확률 86%로 굳혀 포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB3clhNVXVkNGNOdVRpakE5VU5QTldyUEx1QUItc3dwdzQ5NjVqOGI4dmVwR1Ftd1FnQXpCOThWY1pDd3RVazI5LVh0eTF5NHUzUzY3dzZtRnNKdm5ScXc?oc=5",
-      "source": "포커스온경제",
+      "title": "[외환-주간] 인상 가리키는 지표…9월 FOMC, 달러-원 하락 제동 걸까",
+      "summary": "[외환-주간] 인상 가리키는 지표…9월 FOMC, 달러-원 하락 제동 걸까 KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zUGQyTEI1VXIxTTlTbUx1b3lLNnZZRGswVHJEVjEyemM1dXZPNGUtS3V2OXZfblB2czg4cTdvNVBHT1NUM2hzZVY4dGNOZWJBQnZUb0tjYl9CSjNfZDNzVFhPUmZTWmVRLTFqN3ZLc0otZw?oc=5",
+      "source": "KB Think",
       "category": "거시·통화정책",
       "market": "미국",
       "pubDate": "2026-09-13"
     },
     {
-      "title": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시",
-      "summary": "유가 등 중동 악재에 눌린 코스피, 美 FOMC 금리결정 주시 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IdktHSldzTXRfeHl0bmg2N0xpU21keGZNYzFVdlNqSFBXWHdrZ2t6YUtjWVZfZTZEM01vYWw3d2FyV1dQUjBHallYa0lZc2FDQVE?oc=5",
-      "source": "매일경제 마켓",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "9월 연준 변수에 주목할 미국 금리 민감 소비주 3선",
-      "summary": "9월 연준 변수에 주목할 미국 금리 민감 소비주 3선 simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlM0ZkFzRTBIcjNLNEVHaG8yQjlENEFocmVvR3lDamwwcnFiMlBPZDZlakdjSl83amdsNTdEZ3lfUy1LQlRkVFAxLTV5LTBUTTRPang5WnR5TDB2N09mTC10U0Z1bkJCQ3YzeFMtLV9aRVBtT2pVRnNvQnRnYjFPNEc5U2UxVVpWYTJpb09RTG05UlJUTlFvLVNiWXFFVzUzTDlDUlRDbFJRUTBUa1HSAa4BQVVfeXFMT05TNGZBc0UwSHIzSzRFR2hvMkI5RDRBaHJlb0d5Q2psMHJxYjJQT2Q2ZWpHY0pfN2pnbDU3RGd5X1MtS0JUZFRQMS01eS0wVE00T2p4OVp0eUwwdjdPZkwtdFNGdW5CQkN2M3hTLS1fWkVQbU9qVUZzb0J0Z2IxTzRHOVNlMVVaVmEyaW9PUUxtOVJSVE5Rby1TYllxRVc1M0w5Q1JUQ2xSUVEwVGtR?oc=5",
-      "source": "simplywall.st",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "美 8월 근원 CPI 0.3% 상승 '예상 상회'… 9월 FOMC 금리 인상 확률 86% 급등",
-      "summary": "美 8월 근원 CPI 0.3% 상승 '예상 상회'… 9월 FOMC 금리 인상 확률 86% 급등 CBC뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81TE1wdjFvc3RaZ2ltMmFnWWw4STgxR0R5NW5TaFhSNVAzdWQwOUtHbjhOUEpUbUF0M1JiSUIycVpPdHdFRk1iYU1rUDZYRVVmTWFaNURma0FvVkZvc3JfS2lheU5hUnR2?oc=5",
-      "source": "CBC뉴스",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "비커스 경도 교정 블록 시장 2035년 전망: 반도체·전자 품질 규제로 성장 가속",
-      "summary": "비커스 경도 교정 블록 시장 2035년 전망: 반도체·전자 품질 규제로 성장 가속 IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY19TWUU3NUN3am1KempoMUZOSWltRy01NUpFdGFnRl8wVGJyaV9EZmtfRk9fNjhYYjE4ZmdOUXVVUDBRSU90TDN0NTVFejBxVXJ5Q2F3UjdNT3ozRF91Y1FxOVh6cFVDSG1ISnAzZU85ZEpndy1YX2NIeVdBYms3dXR3aDNjU0dPejdySGpSMm1nal9EVkNwLWlLRFNHNFMyVTJoaFo4NHlnZTRIVkppQ29ab1UtbFhWeUVQNGVpbDdiZlZPY2tpUElSSkFfZ3dDTi00M1NUN3ZxX3pETmFxczhVa3BQeEpwVEc5WS1vc1g0aFE?oc=5",
-      "source": "IndexBox",
+      "title": "“나이만 묻는 ‘청소년 SNS 규제’ 소용 없어…플랫폼 기업 규제해야”",
+      "summary": "“나이만 묻는 ‘청소년 SNS 규제’ 소용 없어…플랫폼 기업 규제해야” 한겨레",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81Rmw0bFlLbTk3ZjFvblVMSWtCNnVuYzh0OGlleFlWZklRRW52QTFCMTdzUUZXeWszS25WektIWnMyeFlkcjZ3VFpfRmQzS2hmdF9CbkRBUzZPLWt4d0pPRnB6UFhKV3RJMnc?oc=5",
+      "source": "한겨레",
       "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-09-13"
     },
     {
-      "title": "알고리즘이 23분 만에 혐오를 학습시킨다 — 호주, 청소년 소셜미디어 계정 500만 개 비활성화하고 플랫폼 책임 법제화 추진",
-      "summary": "알고리즘이 23분 만에 혐오를 학습시킨다 — 호주, 청소년 소셜미디어 계정 500만 개 비활성화하고 플랫폼 책임 법제화 추진 유스연합",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HSzZPZFdrTlhiZlRIVnUxUVR0NlhrVVcxMVNCMnY3SEZBUlZVZzNmUUV2RkVXc0R1bGlaTHNSOGNUM0JiYVdMd2I5MmxKYnhLd3c?oc=5",
-      "source": "유스연합",
+      "title": "中 경유 줄고 아세안 늘었다…한국 반도체 공급망 ‘규제 변수’",
+      "summary": "中 경유 줄고 아세안 늘었다…한국 반도체 공급망 ‘규제 변수’ 경기신문",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5UR1NCXzN1U2FvZjlNNW1mYVpVMC1FZEZlenBRN0hIVzJUbWVtY1JrTkVuQlFTMFZsd0NnRWVkcTlwb3E4MHBBaFBtMkJoMGZfbUFmYk8xYnhEUEZsUENpdTNB?oc=5",
+      "source": "경기신문",
       "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-09-13"
     },
     {
-      "title": "대통령 '공정 원칙' 주문…사회보장제도 전면 손질로 이어질까",
-      "summary": "대통령 '공정 원칙' 주문…사회보장제도 전면 손질로 이어질까 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pU01hLURBdE8waHhnc2ZqRlNveUJpdlNiNU1vWXRjRWZxYTRxOGFxNk52a3QtUV8yY0FvWi1kd2dlTV91UXlUalpJNHJfYkY5SHFzTlJJcGtMN2MxamhrOdIBYEFVX3lxTE9pU01hLURBdE8waHhnc2ZqRlNveUJpdlNiNU1vWXRjRWZxYTRxOGFxNk52a3QtUV8yY0FvWi1kd2dlTV91UXlUalpJNHJfYkY5SHFzTlJJcGtMN2MxamhrOQ?oc=5",
-      "source": "연합뉴스",
-      "category": "시장흐름",
+      "title": "[관가 모니터] 약배송 업체 누가 정하나…플랫폼 자동배정 대안 부상",
+      "summary": "[관가 모니터] 약배송 업체 누가 정하나…플랫폼 자동배정 대안 부상 bloter.net",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WNW5wUEtKSmlVRkMwNGVMLTlsWUhiN2Y4eXVCd2hkZ3A1T2JieUE0QzVkN3VwMnVCYk1EajFJV2VzUTNxRzhHQ0otWUZ2ZjFBejlnT2xyY0wxeWJYT0MtV0w4R1ZjWlFXNGxENtIBbEFVX3lxTE5WNW5wUEtKSmlVRkMwNGVMLTlsWUhiN2Y4eXVCd2hkZ3A1T2JieUE0QzVkN3VwMnVCYk1EajFJV2VzUTNxRzhHQ0otWUZ2ZjFBejlnT2xyY0wxeWJYT0MtV0w4R1ZjWlFXNGxENg?oc=5",
+      "source": "bloter.net",
+      "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-09-13"
     },
     {
-      "title": "외국인 연금 형평성 논란 후폭풍…사회보장제도 전방위 긴급점검",
-      "summary": "외국인 연금 형평성 논란 후폭풍…사회보장제도 전방위 긴급점검 v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UWGo5UG9RNjZUbUh6cnhlNVNRT1B5Q1NPSFRxcWp0MklBVFA2U0Q4RHZUWFhSckhyVVFpZG44eU1hMm9nTVRXWGRreUxfWWs?oc=5",
-      "source": "v.daum.net",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "외국인 연금 형평성 논란 확산…사회보장제도 전방위 점검",
-      "summary": "외국인 연금 형평성 논란 확산…사회보장제도 전방위 점검 서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpZ1lSaVRFWkpoVjBTMGdnbEUyNzd5emRGb3RhQ3BTOHA2Q3dITF9QZTZhUUFEcTNKR2phOGhyN0N2WFFBb2hIQmlralR6VlBBLVhvVXdmYXlEMFQ1cTdTeDRrNE0?oc=5",
-      "source": "서울경제TV",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "외인·개미 다 빠졌는데…'코스피 지탱' 삼전닉스 자사주 취득 벌써 절반",
-      "summary": "외인·개미 다 빠졌는데…'코스피 지탱' 삼전닉스 자사주 취득 벌써 절반 뉴스1",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jcUFfcU9wbjBKRGR5MDVSNmJLbzc4ZTdPMjJ6ZHZZZ1d4ME5pa3dZdkpjTXkwV2RWWWtjXzBhTnZyRHdibWlONDFzVUhPOTd1R1NGd21IZWhvZWvSAWBBVV95cUxONG00bWhzOWVJMXh5NnZJVXVGU1RqemdNOTBuMnJCLXVxUDdZQk5vUmZvNm4tS2wtLU16WUVQejkzdmdWNm1jLUpHZHZhcWF5d29TZjg5M2FSUU8zelBYQkQ?oc=5",
-      "source": "뉴스1",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "“한 달 붓고 평생 연금?”…외국인 수급 논란에 사회보장제도 ‘긴급 점검’",
-      "summary": "“한 달 붓고 평생 연금?”…외국인 수급 논란에 사회보장제도 ‘긴급 점검’ 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wdW1Ed1ktZy1XSVo2MmFUSVdIOENwNlRfLUdOdy1zSUxSR3VwX1VvV2ZrN1V5QlpXdWtfQ0pZUVlxbzZKT0NmUExwaHZ1OGdpcGl4eA?oc=5",
-      "source": "매일경제",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "돌아오던 외국인, 이틀 새 4.9조 팔았다…전쟁·유가·금리에 코스피 흔들",
-      "summary": "돌아오던 외국인, 이틀 새 4.9조 팔았다…전쟁·유가·금리에 코스피 흔들 경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ON05vQ2QtSGwwV0xVOWtWZmVqUFhjWTdYTVk2VllybkN2cy02SWZoYWtLVlZzal9yQ192Vzc0UnZ6X1BmVU9sZF9Kc2pWYmg2WTB5NDE5UzRmZw?oc=5",
-      "source": "경북매일",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "롤인벤 토토 을 위한 필수 정보 및 팁 - 성공을 위한 필수 요소",
-      "summary": "롤인벤 토토 을 위한 필수 정보 및 팁 - 성공을 위한 필수 요소 Calgary Roughnecks",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON1BfNk1rdmliM2RrV1FOSkJ5djBSamRpRnUyLVNqNUVBenNVMGVSeGlMSTRzdW9uNUl2Wk96SThoVTU1VVAyYzM3Ty16TjdxNHdjbVE3WjhnWFRLR251ZEJiZ0F6WmV5X3VVSU42VGpLVUlNdW93MEhxcjFyNHlUSkQtbVp5aXhSUjRNdlYwRTVhMDVsQjF2aVI1b3hWZUpNU0FjMk1JbmJtZFBMQWpJd3NkZjBuOE9PZ3Y4b2lwaw?oc=5",
-      "source": "Calgary Roughnecks",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "[뉴욕증시-주간전망] 금리 인상 재료는 갖춰졌다…이제 워시의 시간",
-      "summary": "[뉴욕증시-주간전망] 금리 인상 재료는 갖춰졌다…이제 워시의 시간 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RcV85ZzJFc0tvSDdPZmFCVGoyUjBzeFFoZUpGS0pvdVpjcFQ0REhrWk1DcVYzWXpVT3c1V0RvTm4wcUtqNnY1SWl0REZMeXRIMlJRWGFHb3c2LTU2eUdKVFJlLU0wdnFNcG5nWllFUWJsdFM0QVdCZGFjeEtwdw?oc=5",
-      "source": "연합뉴스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "스페이스X, 나스닥100 비중 2배 확대 전망",
-      "summary": "스페이스X, 나스닥100 비중 2배 확대 전망 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTS15Q3NEX3JsME9ZMWdta0RpdkFUdWlHNDRpSWI5bGNuSXJfUkg5OTJ1S2ZhUkEzZXpqMGE2aTk3czhidkhFeF9xalk2andxOGpwdkNrZzEwM2tvMWRBUm0tS1FiWENFWkpFRnNlWXFzSUt1b2gwcXFRRjNjQWhUTVlNdld1eXZu?oc=5",
-      "source": "글로벌이코노믹",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "미래에셋운용, 퇴직연금서 S&P500 비중 85%까지…혼합 ETF 출시",
-      "summary": "미래에셋운용, 퇴직연금서 S&P500 비중 85%까지…혼합 ETF 출시 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ic3JJQ2VEZTltSzN6RXV6UHdYX20xRURuZmQ4azJtZkxvRW04N19ONC1lc2FTbzJVM3J0VHhaalBTdHZBZFV5aFVkNUliY2MzVVlBYWZxdUtfRVloeUE?oc=5",
-      "source": "더구루",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "XRP 매도해 버텼지만… '솔라나 지옥' 빠진 나스닥 기업의 처절한 비명",
-      "summary": "XRP 매도해 버텼지만… '솔라나 지옥' 빠진 나스닥 기업의 처절한 비명 핀포인트뉴스",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9reVdVVzlqY0NfdWRwcU5JRkhZWURiXzJzZDFMS25vby1sQmR2ZEZmWlVxY3F0Y05nbTdvaWJhVWRudDBpeXNfeFNVMnRPUHhFdHdrWHFtdG1FRVBSRGZSVWJGNVc0a1dVQ1FWeHJmTU1CUEx3N2U40gF3QVVfeXFMT2t5V1VXOWpjQ191ZHBxTklGSFlZRGJfMnNkMUxLbm9vLWxCZHZkRmZaVXFjcXRjTmdtN29pYmFVZG50MGl5c194U1UydE9QeEV0d2tYcW10bUVFUFJEZlJVYkY1VzRrV1VDUVZ4cmZNTUJQTHc3ZTg?oc=5",
-      "source": "핀포인트뉴스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "삼성·SK하이닉스 영업익 전망 21조 낮아졌다…환율 급락에 실적 부담",
-      "summary": "삼성·SK하이닉스 영업익 전망 21조 낮아졌다…환율 급락에 실적 부담 경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByVVBMT1lveEFwaE5IZHZvVElQMXZuR29NOWtiX1NSOGV6NXFnWThWRGxPSUJvb29YRHR6dWFRVTRxMHhwVklGY2VwRlJGTEI0ZHJOQWttY2dVUQ?oc=5",
-      "source": "경북매일",
-      "category": "실적·공시",
-      "market": "글로벌",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "현대차, 호주서 'XRT' 라인업 확대…'N 성공 공식' 오프로드에 이식",
-      "summary": "현대차, 호주서 'XRT' 라인업 확대…'N 성공 공식' 오프로드에 이식 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82SGFpNDR5R2VKazdDNGkzNUNFZGdtNWRwRmExNXd6eDJzQ1pZREJGczJ4eHg1T28xUnppaWFhc1RMblYtamQxTTBnOE1XT0R0N2MyYVFGVERTTXRMVFFlWnRGMA?oc=5",
-      "source": "더구루",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "현대차 신차 임팩트 연말까지 진행형, '럭셔리 GV90부터 '자율주행' G90까지 쏟아져",
-      "summary": "현대차 신차 임팩트 연말까지 진행형, '럭셔리 GV90부터 '자율주행' G90까지 쏟아져 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTeHQ2ek9HamswakM4azJzTUFwRnJMMWJybmMxbW8tVm91VlQ3Q0ZTY09PcmNqb3h5Y0p5Nm0wNWpSam8yN3RiaVczSGhjaldpT2xPQkwwbVFsZ3poc2ktU3pHRmRHZGtJVi1MdWxfQ0NEVlU?oc=5",
-      "source": "비즈니스포스트",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "“한국보다 해외서 2배 더 팔려”... 유럽이 고른 현대차는 달랐다",
-      "summary": "“한국보다 해외서 2배 더 팔려”... 유럽이 고른 현대차는 달랐다 오토트리뷴",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53aVpwOVNxWW53SVZOY1g4WWsxWFpnQnp5djM5cTlabWE2WlpaM2xibm5VcGR3WGtuMFZISGx6MXhjV1ZoWWp4QXp2NUh0NGJJa3FSNGRPMk5lcjZndTV3ZmFMeWE5RjdsQTlRbUNlYVA?oc=5",
-      "source": "오토트리뷴",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "한화오션(042660)",
-      "summary": "한화오션(042660) 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRTQ4S3BTN3JoQUlEM3kyM3dBNW50cERycGVuZEVkbGhmMHJVVWVqNmx5VUg0OUtEcjRMYkZJR2NlRWdQMmdGVDdQaVRqUDNwTjFrMV9FclVNbU5aZUw5OWY0VmZlbFZ4VHFtekpsRnNBc0Q5Q05nZW95LUw1d3BUWTJRdFVRbmJrR0Jqa2FrOEYwN1VoZElR?oc=5",
-      "source": "매일경제 마켓",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "동남아에 깃발 꽂고 美 시장까지… 글로벌 시장 다시 공략하는 韓 해양 방산 - 조선비즈",
-      "summary": "동남아에 깃발 꽂고 美 시장까지… 글로벌 시장 다시 공략하는 韓 해양 방산 - 조선비즈 Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLV9oRU85SjRkY0ZMY0ZrakZtX1lMVlRZYzg4cXpnTXItNmZNODJpaXJSdHVlUDBwQkRsd3JUd3N2WWNjWGZWV1BQSXN6am5NcjNVVjRHcnZ5TGJwcXc2YUhjVmkxUmVrSUhObVlxN3oxczM2RGJxRnRJbXlLUl85STFqdXkzSHM3ZlI3STl0d09MRUlxazlDdNIBmAFBVV95cUxQLV9oRU85SjRkY0ZMY0ZrakZtX1lMVlRZYzg4cXpnTXItNmZNODJpaXJSdHVlUDBwQkRsd3JUd3N2WWNjWGZWV1BQSXN6am5NcjNVVjRHcnZ5TGJwcXc2YUhjVmkxUmVrSUhObVlxN3oxczM2RGJxRnRJbXlLUl85STFqdXkzSHM3ZlI3STl0d09MRUlxazlDdA?oc=5",
-      "source": "Chosunbiz",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "한·미 방산 협력에서 주목받는 ‘충남급 호위함’…한화오션, 태국 호위함 도입 사업에서 충남급 건조 등 축적된 기술력 평가 받아",
-      "summary": "한·미 방산 협력에서 주목받는 ‘충남급 호위함’…한화오션, 태국 호위함 도입 사업에서 충남급 건조 등 축적된 기술력 평가 받아 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0wX0xKMldmZzJMc1NLMUoyeExQc2JYNXJKbDVJT0pQalRES0NXMGcyNmVVenVIcDBQWF9uc3ZPM29sQTU5OE9pMFlfS3N2RUI0Njdka0dVcjBORFJTUnc?oc=5",
-      "source": "뉴스투데이",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-09-13"
-    },
-    {
-      "title": "\"국회의원 아니었으면 몰빵\"…이준석이 콕 집은 '이 종목'",
-      "summary": "\"국회의원 아니었으면 몰빵\"…이준석이 콕 집은 '이 종목' 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HZFB4YnFzWG52N2Rmb1FaSHVBcmtJOHg4OGR6b3AtdVhybG1DdGt4SVpPN3RkUVotc2xLX1lxWVJpSTRENXNIV2NwUG5HT0R5YkFieTVEU3FNUQ?oc=5",
-      "source": "한국경제",
-      "category": "개별기업",
+      "title": "[기획] 정부는 실수요자 대출 규제, 삼성전자는 사내대출 확대…자산격차 커진다",
+      "summary": "[기획] 정부는 실수요자 대출 규제, 삼성전자는 사내대출 확대…자산격차 커진다 매일일보",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1VUmpuWUFNdUF2anZxUFJ5UDNsR0xEbnV0Yk93SVhDeDY5MTUwOVREMW1ydmF3bXl0cmU4UXk4eFFJWXN0bmJmNGRNcUh5N00tVzIzelpvdnZjWWZ2MVBjMkFFNTZmSm5E0gFoQVVfeXFMTVVSam5ZQU11QXZqdnFQUnlQM2xHTERudXRiT3dJWEN4NjkxNTA5VEQxbXJ2YXdteXRyZThReTh4UUlZc3RuYmY0ZE1xSHk3TS1XMjN6Wm92dmNZZnYxUGMyQUU1NmZKbkQ?oc=5",
+      "source": "매일일보",
+      "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-09-13"
     }
