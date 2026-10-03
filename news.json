@@ -1,16 +1,187 @@
 {
-  "lastUpdated": "2026-10-03 03:06 KST",
+  "lastUpdated": "2026-10-03 09:53 KST",
   "itemCount": 30,
   "feedOk": 20,
   "feedFail": 0,
   "items": [
     {
-      "title": "GS리테일, 비편의점 사업 개선… 3분기 실적도 맑음 예상 - NH투자증권",
-      "summary": "GS리테일, 비편의점 사업 개선… 3분기 실적도 맑음 예상 - NH투자증권 S저널",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaGp0amljV1FCdlJlOEtKOFZ0ckRzdEZpRWhETHViWGF0blQ2em9UZDQzRHdkWERBLUtSMlFsNUdDbnViOWtONEJuRjhHSnoxSWZkR2tXcXJ4NEw3b2t3YUUzZ0ZQb0d5VldQZml3?oc=5",
-      "source": "S저널",
+      "title": "\"10월 연준·한은 금리 동결할 것…달러-원 1,345~1,370원 전망\"",
+      "summary": "\"10월 연준·한은 금리 동결할 것…달러-원 1,345~1,370원 전망\" KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yMkFZd0FucS1naHpFaVd6QWJrckxhTW5iNFRvOXFZRkRSRHhtR0FNTTBHVGVpMWNjMmVfRWg0MjJLQ3E1bnRwTUhGdnU2akVMWExNOTdDYjcyOVdfbUNJWV83cHMtU1dSZmpnN2VUamVCUQ?oc=5",
+      "source": "KB Think",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "한은 \"금리 인상, 물가·주택 가격 안정에 도움 될 것\"",
+      "summary": "한은 \"금리 인상, 물가·주택 가격 안정에 도움 될 것\" 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTDc5Xzh1dlpIX2Z5MFBDNEdSMlMyX1M4LS13a2FKX1RiOEduV29LRUkzTmlyUGI4eDVEWlRpTXYtR1JUclo3ZGI0YUJuaFNMSVB5SERmTW1JUFhLVXJqNGpJSGQ4R0ctTHVfR2Rmc0szbk9lN3lGUdIBeEFVX3lxTE1zTDc5Xzh1dlpIX2Z5MFBDNEdSMlMyX1M4LS13a2FKX1RiOEduV29LRUkzTmlyUGI4eDVEWlRpTXYtR1JUclo3ZGI0YUJuaFNMSVB5SERmTW1JUFhLVXJqNGpJSGQ4R0ctTHVfR2Rmc0szbk9lN3lGUQ?oc=5",
+      "source": "뉴시스",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전”",
+      "summary": "한은 “10월 소비자물가 3% 안팎 전망…상승 압력 여전” 매일경제 마켓",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44aXJYMnczUWVDbzZ0eGpCQTVidmlDQXk0QUx6bmdDT3M3MHdlbG9iQnZZcWtxTGpRSHNIYkRvX2xKUlExZVJPQ1JOWjR2WlQ2SEE?oc=5",
+      "source": "매일경제 마켓",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "다음주 한국·미국 주요 일정｜서비스업 PMI·FOMC 의사록, 국내 증시는 단 3거래일",
+      "summary": "다음주 한국·미국 주요 일정｜서비스업 PMI·FOMC 의사록, 국내 증시는 단 3거래일 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1lTDlEc3NxZ29lazFZbHFuQjEwclFXU01RRXZfbnVOcnZ2emxBZ2RITTVLMjJtcFhBV3MyanJiOXQxMlVoRjZWamFkbEh0QUpvSGFHT2ZiTV9wR2JzMXE0WGxreDNiTlZpLXRkYlV1SGhqQ3FpN01jNnVSSTFDUQ?oc=5",
+      "source": "프리미엄콘텐츠",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "뉴욕증시, 연준 금리인상 우려 완화에 상승 마감…나스닥 1.2%↑",
+      "summary": "뉴욕증시, 연준 금리인상 우려 완화에 상승 마감…나스닥 1.2%↑ 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oOGN6cU9IWTlnNnpDTWF6ZVJXdVNtRHhRejExUjl4ZUNuY3hmNklwZk9LM2JsOExXUy00dzg4d0N5dTRPZzU5NV9XRUtHQUctN3ljUWdpakJVX095Slc4V9IBeEFVX3lxTE1FOTVoOVFZdDJnX0MxdENzMUhVUklWWm9nb0N3ZFhydW52Zm1jTjZhcThPcDNSTG1JRHY3Z1NhV1pOazVnMHhVUmpZN25QSVNaVU1LdFNBTGZpR3VjUUVMN0x1el8yNHlvejRFMkFOTnB0R3FxSlM4eQ?oc=5",
+      "source": "뉴시스",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "美 9월 고용, 예상의 3분의 1 수준 ‘2만9천명’…연준 10월 동결론 급부상",
+      "summary": "美 9월 고용, 예상의 3분의 1 수준 ‘2만9천명’…연준 10월 동결론 급부상 뉴스로드",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55VzRJbE92V0RwZGMxejRHM2xzQk42NTV4R0VNUTZzXzJ4RGpiOHJpUTR3ajNNWnpIM2xSYmxxb0dWOUF2eW92clRmbkNfMlFza1kzX2NIeDZxQWlveDEtTWt6c2duTmJPVHdCd9IBb0FVX3lxTE55WGtEQS1yVVlVV2FrRWY5MkI1cXJzY3NReUM0bkd0QWZJSzUxLTFkdm0tbVpsNlM4V2NMczB6MjRCa1Q5UXJ1YW1uMWlmdF9YdnBaTWtZRklJSFpzWmVnQWNkcEgwU1Rrb3dsbWQ0Yw?oc=5",
+      "source": "뉴스로드",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "2035년 키토산 슬러지 컨디셔너 시장: 반도체 폐수 규제 대응이 한 자릿수 후반 성장 견인 - 뉴스 및 통계",
+      "summary": "2035년 키토산 슬러지 컨디셔너 시장: 반도체 폐수 규제 대응이 한 자릿수 후반 성장 견인 - 뉴스 및 통계 IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd2NzU3lEcjNOZTJKYy0tV3MtNWpCWXJkdFN4M2s1QkZvTmdldy13dmQ4NWk0Y0lDRHo4cjJoUmdqSWNSbk5hRXBTaHdDN2pndHk0aGxHVXZhQ0hQVmN4MjJkMXJVaHRtNUhKMUxnVmtoOVJFYy1WbTFYSENBQnVBYXd0eTZpVnh4TVV0eUIwbEg0YVB4N1RfWldRN3dKeEg0OE8zd1I0Zlg1MXdlQUQ2YTdLRG1CNi1QdktnSVl6RWRCMUw4S05selVWbUpfTXR2QWlfcHhEV29ydUVx?oc=5",
+      "source": "IndexBox",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "[주간 거래소 외국인] SK하이닉스·삼성전자 폭풍매도…우리금융지주 SK이노베이션은 담았다",
+      "summary": "[주간 거래소 외국인] SK하이닉스·삼성전자 폭풍매도…우리금융지주 SK이노베이션은 담았다 핀포인트뉴스",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlRjBQZHR5S29XamdTd3ZqY1hOTDAxaDV3eC1Ra2FOYi1xbTgyb1MzN3pQbzItUGV6VVhYOW0yU0dGY3dhTFdJRjVibzcwZjVuR3ZrYUFGYkRrODdiaTFlaVNaNWdaMXNSdTVJQTZrampsOFpNd2hJ0gF3QVVfeXFMUGVGMFBkdHlLb1dqZ1N3dmpjWE5MMDFoNXd4LVFrYU5iLXFtODJvUzM3elBvMi1QZXpVWFg5bTJTR0Zjd2FMV0lGNWJvNzBmNW5HdmthQUZiRGs4N2JpMWVpU1o1Z1oxc1J1NUlBNmtqamw4Wk13aEk?oc=5",
+      "source": "핀포인트뉴스",
+      "category": "시장흐름",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "\"악재는 끝났다\"…환율 하락에도 끄떡없는 4분기 바이오 최선호주는",
+      "summary": "\"악재는 끝났다\"…환율 하락에도 끄떡없는 4분기 바이오 최선호주는 KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90WnRBYWxSRno4UWNnTlJtdFpRbDJDZnJCUW53MENxLThQYURnLTZOUE9hektTVGZtOWQ4bFVDZU5kV1h5SUxmNzh1eVhOOThqWV9GMFpTM21tdnh2bEFfU1ZvZXhWQWgxMXFmSXFoOXVsZw?oc=5",
+      "source": "KB Think",
       "category": "실적·공시",
       "market": "글로벌",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "여러 심벌을 묶어서 읽는 룰렛판 이미지 배당표 구성",
+      "summary": "여러 심벌을 묶어서 읽는 룰렛판 이미지 배당표 구성 Calgary Roughnecks",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fcGE2aGNzUjRjS1RXU2tNX3F6WmYtS3NrV3Q2TnNMS213ZGVmMzI3LXJ6SlpVTmNmaUdiZkYyUkxZMjhjWHo4WnRBUDVFd19sbXZIYWQ1VlpuZW53SmpQbFNjS0JOQQ?oc=5",
+      "source": "Calgary Roughnecks",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "4대금융 3분기 순익 5.6조 전망… 실적 고공행진 이어질 듯",
+      "summary": "4대금융 3분기 순익 5.6조 전망… 실적 고공행진 이어질 듯 IT조선",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wMlE5VEp6NVVjNkhiRVNCMnIwMC0tcUpUUWZaTGtZa09VT0tPenFDSUJSS3Z4aTlxUEotbTVkNFNVZFJKM3Y1TG5HWEFfNUhYNUxRWUtoY3k0QXp5cGplQWhGOElvYTNXbldsb1hVMTHSAXRBVV95cUxQTXZPODBEcDBKZG9pcGNhSXJCVzgzeWtHSk1KR1M5amQyUno3YmRMVHVmUVN2akQ4RGI4WG1LRHdNM19GNXE5LUkwS0tyU1ZTZGJ4bUFkV05Bc1BkY2lNRGNCWjByQ2plUlMxLVNidW1PQldaYQ?oc=5",
+      "source": "IT조선",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "테슬라, 3분기 인도량 '깜짝 실적'에 4.65% 급등...월가 예상치 '훌쩍'",
+      "summary": "테슬라, 3분기 인도량 '깜짝 실적'에 4.65% 급등...월가 예상치 '훌쩍' 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVA5WjRFVHVuT1NXN1FPSm9GLXY1SzZ3VVZkTXZsWkY3czdhOXhsT1JfVmVscm1ISlNlX19EUkZjSTg0ejRWbm5tQ2diTFFTVXRnd1FPMVNxRFVFeExPR2JBYVBTVFdfbEVJRk1MNG1CT0ZMdkhUSHc2dEpIUVRRMGR4RjBTNFUx?oc=5",
+      "source": "글로벌이코노믹",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "GS리테일, 비편의점 사업 개선… 3분기 실적도 맑음 예상 - NH투자증권 - s-journal.co.kr",
+      "summary": "GS리테일, 비편의점 사업 개선… 3분기 실적도 맑음 예상 - NH투자증권 s-journal.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UaGp0amljV1FCdlJlOEtKOFZ0ckRzdEZpRWhETHViWGF0blQ2em9UZDQzRHdkWERBLUtSMlFsNUdDbnViOWtONEJuRjhHSnoxSWZkR2tXcXJ4NEw3b2t3YUUzZ0ZQb0d5VldQZml3?oc=5",
+      "source": "s-journal.co.kr",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "3분기 실적이 캐피털 원(COF) 주식에 대한 강세 전망을 바꿀 것인가?",
+      "summary": "3분기 실적이 캐피털 원(COF) 주식에 대한 강세 전망을 바꿀 것인가? Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2phbm5vSmFDZFZYV01zaFpPajF6WXN3MTViM3NmRGxmTmkyektvOXkwWEhjYVMtUXdROU5rbXVEYUltOWt4N3JWNkJRXzJoUWUyUTRmVFdlR1RENEkzQThvVjNkNVFOcE1VVDk4dDJRT0lhZHQ3Wm1LRExoalNpYnIzbEwxUzhQNHhfLU1ISmFwTnIxeWVXS1Z0RjRfYW5RUW41UXRqZ2VNbU1sT3REVVVHaVjSAbQBQVVfeXFMTV9qYW5ub0phQ2RWWFdNc2haT2oxellzdzE1YjNzZkRsZk5pMnpLbzl5MFhIY2FTLVF3UTlOa211RGFJbTlreDdyVjZCUV8yaFFlMlE0ZlRXZUdURDRJM0E4b1YzZDVRTnBNVVQ5OHQyUU9JYWR0N1ptS0RMaGpTaWJyM2xMMVM4UDR4Xy1NSEphcE5yMXllV0tWdEY0X2FuUVFuNVF0amdlTW1NbE90RFVVR2lY?oc=5",
+      "source": "Simply Wall Street",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "마이크론, D램 2위 SK하이닉스 턱밑 추격…점유율 격차 1%포인트",
+      "summary": "마이크론, D램 2위 SK하이닉스 턱밑 추격…점유율 격차 1%포인트 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01bGVtd0F5UjlrMXkyNjhIeURyUThHRVRobGoxNXI4dE9tX24zNEtuUDRZVXBzU20wNGV4SEhEbDEyWFBHWDRiNHI4czlUVkRDemhSSHpn?oc=5",
+      "source": "지디넷코리아",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "현대차 주가 70만→30만 '뚝'…한달만에 30% 뛴 협력사 있다는데 [대기업 협력사 전수분석]",
+      "summary": "현대차 주가 70만→30만 '뚝'…한달만에 30% 뛴 협력사 있다는데 [대기업 협력사 전수분석] 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UVE8tRVlNNXp5VG5JbU5YYXNCZXJ4aWpoblIxT3dHcHBuMjBFX3MyQ203cmtyQnRkYThwRk5ib1ZCVXZPQTN0WDRVY3BFT1YxUTQyNDZBc3pYdw?oc=5",
+      "source": "한국경제",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "“현대차, 포드 제치고 미국 국민차 노린다”…50만대 팔아치웠다는데",
+      "summary": "“현대차, 포드 제치고 미국 국민차 노린다”…50만대 팔아치웠다는데 v.daum.net",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44QW83NUUzaTZfR3FKQlRaTExPdFFsT1l4SHprRHNfcGVUYTNYMTZ5a1pZM0VybE90UzExU2RLM2NjbjZYMmRXMV80NnFWWUk?oc=5",
+      "source": "v.daum.net",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "현대차그룹, 3Q 美서 포드 추월 불발…1195대 차이로 4위",
+      "summary": "현대차그룹, 3Q 美서 포드 추월 불발…1195대 차이로 4위 edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakxvakxBcjRkWnJ4bm5LRGF3YV96YUxKRVVEcWZETUxIOHpJQWJNWnNUTjZyTlFCaXFzMElJYmJKTy1iNzFtbGR4aU4zVVhCUGJnd0hQZk13aTVweENNWlZEMGxOdmJ3VW9tWURpUmMwNjZXcm1RSkx1MzRnTU85OA?oc=5",
+      "source": "edaily.co.kr",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "포드, 현대차그룹 제치고 3분기 미국 판매 3위 수성 : 국제",
+      "summary": "포드, 현대차그룹 제치고 3분기 미국 판매 3위 수성 : 국제 재경일보",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlelBTdnRRSlNSMTljUG0tR0Y3SlBOamZzcTYwS2ZTQVFCdzNBRnMtaWMwcmN4dnN0bjJBMjBOZTNiT3hWMi1OVXltbw?oc=5",
+      "source": "재경일보",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "국내 판매 앞둔 신형 투싼 vs 질주하는 스포티지…SUV 형제차 '진검 승부'",
+      "summary": "국내 판매 앞둔 신형 투싼 vs 질주하는 스포티지…SUV 형제차 '진검 승부' 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pWFBReGt4R2Vza0xockM4ZF85MlQ3SmlYS3RFYUhMcVExemNCeUdteWdZeGFocS1ZLW95UHNlVDl2Tk5wNVI4MFJEQzM4YWQxSTVxYmlCZjJpbmtY?oc=5",
+      "source": "뉴스핌",
+      "category": "개별기업",
+      "market": "국내",
       "pubDate": "2026-10-03"
     },
     {
@@ -23,10 +194,10 @@
       "pubDate": "2026-10-03"
     },
     {
-      "title": "[美특징주]포드, 미국 자동차 판매 3위 턱걸이…현대차 바짝 추격",
-      "summary": "[美특징주]포드, 미국 자동차 판매 3위 턱걸이…현대차 바짝 추격 edaily.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTNiVW5vaXJnUDN2WWQ4ZExlbkk2VWozbG9IYkhpNVlXUmdZcVVGdmNJakx4NkdwOW1vMGNEaU5mUzYtQlp4YlFPOEY5ZWZjM1B2YUwwN1JnWGxLb3NTWkF6OFhRdlpqS283Qm4ySW1BTHljMG1nMy14R1o5R1hkdQ?oc=5",
-      "source": "edaily.co.kr",
+      "title": "빈손의 필리핀 바다에 띄운 2800톤…한화, 유럽 텃세 뚫을 승부수 던졌다",
+      "summary": "빈손의 필리핀 바다에 띄운 2800톤…한화, 유럽 텃세 뚫을 승부수 던졌다 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNME9VVVlSZ3h6VDQ4b2tSOFpjYUhyVTN5TFo2ZXRMQzdkZS1iS054Rk5mVVl2Smcwc3E0dk9EbVkwamQyTnI4SHlEa0dRRklVR2hJdV85NHBXRHpmZ1UwS21waWlZNnhscG5LSEZVMk1jWldDN3RfbExSX2xZS2czbC1NUjFzMzdM?oc=5",
+      "source": "글로벌이코노믹",
       "category": "개별기업",
       "market": "국내",
       "pubDate": "2026-10-03"
@@ -41,238 +212,67 @@
       "pubDate": "2026-10-03"
     },
     {
-      "title": "충북교육청, 난치병 및 1형 당뇨병 학생 의료비 지원 사업 안내 : 네이버 블로그",
-      "summary": "충북교육청, 난치병 및 1형 당뇨병 학생 의료비 지원 사업 안내 : 네이버 블로그 Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWjlLRTRBODJ3YXNYSHQwYko2NjR2dXdLQnRBWURmY1RvYTJjdGJOOFhXQXRuUlA1M3ViN2ZBVFB2MzNCaHQ3UmR5dDhtbVBzWHJ0UmNBcmtRbGRmQUE5YTlWLWpBZnMxT0hYd3lYNGJjcUd0RHo0Ym40SVpjeE5TU3FJcFExRkdZSi13a1ZMSQ?oc=5",
+      "title": "NC·SK가스·리노공업[하나證 주간추천주]",
+      "summary": "NC·SK가스·리노공업[하나證 주간추천주] edaily.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdTJfZ3N4eEllWHA1MnNXdkRPSE1CYkVkbGFYUFlhbndObW1zdklDRllpbXJnWVhobk0ya0wtWE5ncUFONS1OamMteUw1TFpvZmpjOWxPaThpTkpEd3FDMHdxUWtpUjNUMnh0UjFLdEtWX2NzQ1NjYTZ6UkhJZ1NISA?oc=5",
+      "source": "edaily.co.kr",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "[NC박스오피스] 개천절 연휴 '박빙'...'암살자(들)' 1위, '치이카와' 2위 점프",
+      "summary": "[NC박스오피스] 개천절 연휴 '박빙'...'암살자(들)' 1위, '치이카와' 2위 점프 nc.press",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oRHdjMXBWd0xPV0JGTGpvUFJRYk1lejNLNVFEbkJiV284aHV2Z2syQjQ0bHhKNXBNOXY2TDBLVEV5cXQtR1c0RjY1cXVZbW5ScEtlX0dJT3R2c0NQQldXUmJVanI5QQ?oc=5",
+      "source": "nc.press",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "카카오도 월 4900원 멤버십…네이버와 혜택은 어떻게 다를까",
+      "summary": "카카오도 월 4900원 멤버십…네이버와 혜택은 어떻게 다를까 서울경제TV",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1tRmtoSlVKYlRIa0F4LUFMeTh1dW03aEEwWjlWYW9HbXZxbXQ1dlpfZ0dyR2dlWU52dS1nLWgyQ2ZuY0FKOHA1NDRObmtLR2hLWnRqanZVa2hrdFAwbWtBV2w5WnA?oc=5",
+      "source": "서울경제TV",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "피지컬 AI 시동 건 카카오모빌리티…상생재단서 '카카오' 뗀 이유는? - 머니투데이",
+      "summary": "피지컬 AI 시동 건 카카오모빌리티…상생재단서 '카카오' 뗀 이유는? - 머니투데이 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kT29zUEt0cHlVcGdZX2QxSDB1Z1lMWXgzT3hDcG9GaV95bHpvR0RQRlBDcDVmc0lvcW8tVUlaOEtzbGVSb1dwSlFBSDNXVWRoTDVhLW9WTGhqTTNQZlZZWkExTVhhMFVRU0t5Y9IBbEFVX3lxTE9kT29zUEt0cHlVcGdZX2QxSDB1Z1lMWXgzT3hDcG9GaV95bHpvR0RQRlBDcDVmc0lvcW8tVUlaOEtzbGVSb1dwSlFBSDNXVWRoTDVhLW9WTGhqTTNQZlZZWkExTVhhMFVRU0t5Yw?oc=5",
+      "source": "머니투데이",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "카카오 뱅크·페이 '적과 동침' 끝냈다… 토스 맹추격 나선 '슈퍼앱' 초강수 전략",
+      "summary": "카카오 뱅크·페이 '적과 동침' 끝냈다… 토스 맹추격 나선 '슈퍼앱' 초강수 전략 얼리어답터뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9kRUpycDRaZUZpWEJHblZRTHdkVzh6V1NxYzFUTkthcWNCb2VOSGRpUG43VjNIc1lMYnFuQzNONEVQWHVFbEJQRHd3?oc=5",
+      "source": "얼리어답터뉴스",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "[한림대의료원] 카카오헬스케어와 디지털 헬스케어 맞손",
+      "summary": "[한림대의료원] 카카오헬스케어와 디지털 헬스케어 맞손 병원신문",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xM0w4R1NOaWJWMzdLMjRfVldvdUtwMzdHaFh4QWNHbWFsa1YyUGdaVFdFOHNZS2stNWV5VV9YaWJjYVQtWkRQd1FnSGNZZUJIUjFxUEtadVVTLU5PbmZGUXA3TTMyaXZxN3c?oc=5",
+      "source": "병원신문",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-03"
+    },
+    {
+      "title": "자연과학교육원, 전국과학전람회 출품작 18점 전원 입상 쾌거 : 네이버 블로그",
+      "summary": "자연과학교육원, 전국과학전람회 출품작 18점 전원 입상 쾌거 : 네이버 블로그 Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFpvT2dzMXZTVlpXR0hwRzh0RFJIcnI5RmVWQ2JNTWxOd2FLNTJ4dFZudXF1QW5nU0RtdHJYWVEyYXgzVUUtNDlkU1R4TTcydFA5aGdudHdHdXE4VWxUOTdFM1lEMnd5MkM5bWxKbWVsR1JyeVl3V1g5eWJYQnpDVjNSMmxjc3R4Y0J3eHA0dw?oc=5",
       "source": "Naver Blog",
       "category": "개별기업",
       "market": "국내",
       "pubDate": "2026-10-03"
-    },
-    {
-      "title": "[금융지주 임원 인사 전망][KB금융] 회장 된 이재근, 홀로 남은 '부회장급' 이창권…'용퇴' 카드 꺼낼까",
-      "summary": "[금융지주 임원 인사 전망][KB금융] 회장 된 이재근, 홀로 남은 '부회장급' 이창권…'용퇴' 카드 꺼낼까 Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSG1qUjFaanJ0b3E1MXBybkp6ZmtHOGNGOTRKdzQ2NjBMenpudGEyRGplanBJMVVHdG1hQTdVM0Exa2w1VEFJLXlKRHE5YWZ4M1QzWHEwVmFoZWhGZnVEdU11emc4WThYYkZYNlQ5SjVlWGRQX2lJSVN3VTd6T2M4NWo3a0JoTlk2ckxuekNrdw?oc=5",
-      "source": "Naver Blog",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-10-03"
-    },
-    {
-      "title": "\"중국 국유 자본, 미국이 수출 통제하는 엔비디아 AI 칩 구매 지원\"",
-      "summary": "\"중국 국유 자본, 미국이 수출 통제하는 엔비디아 AI 칩 구매 지원\" YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sLUxwN0RCNXdfZlJQeHNDdnd0TnNSMG5FNlgzb2VEMWFvcGV1Nkk4RUU4c3J6YXdLYzJZVnluWHd2WWkzanhMR3pjMTF0Mm9HQkJ6MGlFYk1zSlVORmc?oc=5",
-      "source": "YTN",
-      "category": "개별기업",
-      "market": "미국",
-      "pubDate": "2026-10-03"
-    },
-    {
-      "title": "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만]",
-      "summary": "엔비디아와 월가, GPU 담보가치에 기싸움[박신영의 개장전 요것만] 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XcU44ZUtFNllQMW96T254SHlpWU5mdEtIZTJkWUdnVHRHMVgyQzRLOF9GTkNiUmtvT0J5SzNGSXNNbFZuVUoxQTAydzhVM245di1JNGllWEpnUQ?oc=5",
-      "source": "한국경제",
-      "category": "개별기업",
-      "market": "미국",
-      "pubDate": "2026-10-03"
-    },
-    {
-      "title": "SSBT \"한은 10월 동결…근원물가 높이면 11월 인상\"",
-      "summary": "SSBT \"한은 10월 동결…근원물가 높이면 11월 인상\" 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15RkZuaEFHZTNSeWFLSDR3Vjh3VlZMTFU3aVNVS0VQWlZNS1J3aFJKbzRfellaNXdPM09keWxjTGV4YWRHT2dCTG9uTGpRUXpleWtFLTVtZThDUXBTWVpjQldIQUdVcUMzNWNnaTdfUE5zQ0dC0gF0QVVfeXFMTXlGRm5oQUdlM1J5YUtINHdWOHdWVkxMVTdpU1VLRVBaVk1LUndoUkpvNF96WVo1d08zT2R5bGNMZXhhZEdPZ0JMb25MalFRemV5a0UtNW1lOENRcFNZWmNCV0hBR1VxQzM1Y2dpN19QTnNDR0I?oc=5",
-      "source": "연합인포맥스",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "물가부터 유가·환율까지…금리 시험대 선 한은",
-      "summary": "물가부터 유가·환율까지…금리 시험대 선 한은 뉴스토마토",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HWG9IaE5YRWxXRlJicXFPMFpJNmN4WnZxMnliaGhGQWRmZnFXZS1uclhTME5PNDFMMnVCM2pHLU9fc2NqLWlZQVhzaEpwUEk5a2dTeVNiWGFEbnBKS0ZoZQ?oc=5",
-      "source": "뉴스토마토",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "한국은행 “10월 물가 상승률도 3% 내외 높은 수준일 것” - 조선비즈",
-      "summary": "한국은행 “10월 물가 상승률도 3% 내외 높은 수준일 것” - 조선비즈 Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONm5qalFDejA1WVhVbEl0UTVwcWVVbUY3MkwweF9Ldi1SdmFVOUMwYmVyaWJFTzFUSFNGdU15QXV0aFJ1VDJYTWdvSDFPbDZlVnlDU0RPdzUzV1Z1dXZ6eVVFWHdodWd6Zkg3SDNURHJycHZLdmlKQm9sdXh3SUE0cmVJTHdGQdIBmgFBVV95cUxNN3QzYlFDSVhtaTJnVHBMNVpmeDJ1R1NxbTRlVUktM3lyVHA5T2RCczc2Sm91bF9GUHBvUzNidDNscU1VdTBfd2RFbVpSOTlzR0lMYVc4NWpWejhfdzNqNTh6THNjWEhadW9fZ0tkQWkzczFFUkZ2cGxEbVY4WTdkZFBpQWJodTVzY3ZrbHZUSzc2b29Ka1NjcFln?oc=5",
-      "source": "Chosunbiz",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "한국은행 \"물가상승률 3% 내외 높은 수준 이어갈 것\"",
-      "summary": "한국은행 \"물가상승률 3% 내외 높은 수준 이어갈 것\" 프라임경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mWmQ1OTEwVDdFckJlUnNwdEdyRTVBYVB5RTljWDgtclEtSmJWNWtGY1U3MUJ4U3FMRVdubTNRTENMZF8tU1FwNHotVVJicVhzZTRIejg3X1dOUmg5STRDeA?oc=5",
-      "source": "프라임경제",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "한국은행 \"9월 물가 오름세 확대로 판단, 10월 물가상승률 3% 내외 예상\"",
-      "summary": "한국은행 \"9월 물가 오름세 확대로 판단, 10월 물가상승률 3% 내외 예상\" 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBfUklralZlY0FEYmp5WVo2Z3VMaTlsMmRfaTRzZ2c0dHhEWUc1aUs2M2JYSkR6ZjNGMXRXTXh4ajViOVMwdEdROFVIWmdEVmhFQ2thbFFmTTROQTlPMm13SzVZVnRiNDZyX2tDQm9zTm1JV0E?oc=5",
-      "source": "비즈니스포스트",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "한은 \"10월 물가상승률 3% 내외 높은 수준 예상\"",
-      "summary": "한은 \"10월 물가상승률 3% 내외 높은 수준 예상\" v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1STWVpY0hMOFdGMGJrbkViNUNHdE5ZaTR3eUxyR2UyR0JjTVJRNUlXTDlqd0NFd196RkRLZGhnYTQ1b2YzcWg4YjlaUURCRVlZczhnXw?oc=5",
-      "source": "v.daum.net",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "한은 “9월 물가 둔화에도 오름세는 확대”…10월도 3% 안팎 전망",
-      "summary": "한은 “9월 물가 둔화에도 오름세는 확대”…10월도 3% 안팎 전망 브릿지경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15eno5MVdxcXlNRU1NUUU4VndjX3dURk9wY3JiMzl5eVRhTWRwUHIxRWoyTlV1MkhCbTZWZUhsUWdLa1UtRy0wQ2dvb2VFMjdxV0xSOWVnb0M3Zw?oc=5",
-      "source": "브릿지경제",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "한국은행, \"10월 소비자물가 상승률 3% 내외로 올라갈 것\"",
-      "summary": "한국은행, \"10월 소비자물가 상승률 3% 내외로 올라갈 것\" BBS불교방송",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45aVZvTnRsQmZ3NzZieC0zeE9tUGdCRmh0OWtqVHkwVnkwSFpMUFBtVzFnRWRJUWRaZWxVUGpPbzB6VnI0LTBLdHZ6Y1BHRmxaeElpY1FaWWJFQWF0aWhmeTQzV0VjZW0zeFFv?oc=5",
-      "source": "BBS불교방송",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "연준 3년 만에 금리인상…한은도 속도 내나",
-      "summary": "연준 3년 만에 금리인상…한은도 속도 내나 yonhapmidas.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6SV9RZXNUVHVIRWRfalBTbEFULXB5NGNHLWNnMlh2NzhTRUhOa2VsV05USzdVal9MM3BvU2E2Z3FKdDhLWjA3eTFFeXFqLUpMWmo2dW5URzJ4SzdHZjk2a2oxVXhyU29wUk43aVlB?oc=5",
-      "source": "yonhapmidas.com",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "전망치 ‘3분의 1’ 토막 난 美 고용…시장, 연준 금리 동결에 무게",
-      "summary": "전망치 ‘3분의 1’ 토막 난 美 고용…시장, 연준 금리 동결에 무게 조세일보",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkZVNfX1lkamlISlFvWmRNYnRFTmZ3RDlVdGZFelFZYU4zaVJrN2d1b0tUdTRNaTd2dVJzcDQ2V1pIZWdMaEZLNTdZMmFxa1lQTDZxZEx6NDlNaFNSa3pNcmdiUkU0OVRNS1VDMkcxTlpYeDhR?oc=5",
-      "source": "조세일보",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "美 9월 비농업 고용, 예상보다 크게 둔화…연준 금리 결정 영향 주목(종합)",
-      "summary": "美 9월 비농업 고용, 예상보다 크게 둔화…연준 금리 결정 영향 주목(종합) v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41eVMzdURLMFc3X19ISGdIZHVUb2xRTlYxdG1zSWhLRktxODhHbERIakNSNDU4Zm1IRmFIWW00SFN6cjMxWlFYQzdvSWFxdWM?oc=5",
-      "source": "v.daum.net",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "\"연준, 동결 모드 진입…이후 행보는 금리 인하\" |",
-      "summary": "\"연준, 동결 모드 진입…이후 행보는 금리 인하\" | 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnY0ZzTlJfSnl2dXRiTEtSZVBRQVREV0lYc05CNzczS1FXcmpwektnVEhELXdBeEUtdENFQ1FqeGRTc0g3aTUwV3cwMlcyMGE0UkFzLXBoUDRaWEJ2WHZ2ZzhlSVF3ZXhTV3NPS2paSVZVUElK?oc=5",
-      "source": "연합인포맥스",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "美 연준 인사들, 10월 금리 인상 기대 일축…12월 추가 인상에 무게",
-      "summary": "美 연준 인사들, 10월 금리 인상 기대 일축…12월 추가 인상에 무게 더구루",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91TDIyQ3EtT1pTajAxV3Bqa1prOC1XMURuWTZ3eFhBekFKeF83ZXhIMmVtc0hnSHpIdTJjYnhPNi1KY2R1aEM4ZDlpUTJFOHF5NkstbGNzUmZqQ3RBZFE?oc=5",
-      "source": "더구루",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "美 국채금리 급등에 연준 '시간 더 필요'…10월 동결 신호 - g-enews.com",
-      "summary": "美 국채금리 급등에 연준 '시간 더 필요'…10월 동결 신호 g-enews.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3pQZ3pwZ2QzYlNmb0Fibnl6NFBjX1dseW1NXzhpZzFkRzFkWDRSTW5UVEV3X3dONF9SOFNURXhzMDdZc2sxaGhUeVk4VDRYWmtzMFdjS09pZmI2ZXdhUTU1dzRDem0tc3dHam9VTVZaaUlqYnZFaEM4RmNQMUh0cmVidF9adXNZ?oc=5",
-      "source": "g-enews.com",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "연준 추가금리 인상 제동? 9월 미 비농업 고용 예상치 크게 밑돌아",
-      "summary": "연준 추가금리 인상 제동? 9월 미 비농업 고용 예상치 크게 밑돌아 프레시안",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aekdrYXJDTXJXa1RyLWZxS3ZKV3I1dUxqLVZCTWF5TUtfMVBOTzg5MXAwbTAwZzQwY3RjRFV5Smc3OXRPeV9CMjZ5RlFwVDVCY2dlZ0F2SUpOelZkSjV2ZHk1ZmZDMFprQTNZ?oc=5",
-      "source": "프레시안",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "연준 ‘10월 추가 인상’에 제동…금리인상 전망 70%→25% 급락",
-      "summary": "연준 ‘10월 추가 인상’에 제동…금리인상 전망 70%→25% 급락 뉴스워커",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85SzhrR09QY1RrRkFVM3dUSXVaQ2lxWVYwa2NUOVFVbHVPbUo2UFVmTGVXeXpQLTlOX0h4SmRyRHBRVUpwR0ZBcy02SFRnNlpHVVFzWTcxUUFoalQ2SjZVTnNEeTRkb2NRVUVIc0RQTHXSAXRBVV95cUxOR0dvZlh4S0Z6VVBCYmpmMUhmQzZMNW9mcHZ3bUhoRlo3dVRMaEU0d1JXTzVGc015NDA3cFlTd1BUN2FDVUsyUldWLXhmbUNWVVM5Ql9fY1gtOERFVU1UUG83RmlEN2FBanhoWXBnTko4MUpHOA?oc=5",
-      "source": "뉴스워커",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "“AI에게 물어보세요”... 코스무어, 글로벌 규제 통합 플랫폼 공개",
-      "summary": "“AI에게 물어보세요”... 코스무어, 글로벌 규제 통합 플랫폼 공개 시장경제신문",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VRU4xVnNTaXRLemZPeTRzNzhqUV9kaVFsRDN3Y2hsSmUtMzVEekVJZWI4SnpaNXA2a2xPVTdvQ1VMbUk2c1lhc2JkbUFkMDVFMVVnOUJMOEFoTDFtWmxSYkpkSmIzazF5LS1uQUk0alc?oc=5",
-      "source": "시장경제신문",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "“배달비 줄면 안돼”...라이더들 배달수수료 상한 규제 우려",
-      "summary": "“배달비 줄면 안돼”...라이더들 배달수수료 상한 규제 우려 매일경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wMEp0Q0t4cF9aLXlJeWh6ajZYc1ZqcmQxWkh6UDQ1dTFMZjEyOFV2YmJIOTdIbUFkMDdrTkhvcW5zZ3FVOS02TmUxbDJKYnk2VzhJZ2RB?oc=5",
-      "source": "매일경제",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "‘주 52시간 규제’ 철폐를 위한 「반도체특별법 개정안」 국회 제출 기자회견",
-      "summary": "‘주 52시간 규제’ 철폐를 위한 「반도체특별법 개정안」 국회 제출 기자회견 sisakoreanews.kr",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1MSUppbUtQVFR2bFIyNGJydW1uaGx3NTZaNGhvOERWbS1GMXBkVzZPbjVCQ3UyVVdJdFBJMG1fNUVRaWZoTXdjbm1QOA?oc=5",
-      "source": "sisakoreanews.kr",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "[국제논단] 다카이치 총리가 중국에 화해 손짓을 하는 이유",
-      "summary": "[국제논단] 다카이치 총리가 중국에 화해 손짓을 하는 이유 뉴스임팩트",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sQTlpMnI5UDFueWswYmRjT3FDc0UtVDA4elUwQ1lWQy1USHF3UnFZYl9GOEZBa2E0Q2ZRUlBSdGg3blZpSjBWelFKVkhfS3lwX2RZUU80b1Qyci1lYzE4QWYzZ0hBVnFjZlI2Sjh2bThKdw?oc=5",
-      "source": "뉴스임팩트",
-      "category": "정세·지정학",
-      "market": "글로벌",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "[증시 인사이트] 변동성·수급 우려 가중…코스피 7천선까지 더 험난할까",
-      "summary": "[증시 인사이트] 변동성·수급 우려 가중…코스피 7천선까지 더 험난할까 v.daum.net",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAzUDAzeHhmSktJcU5vYWtJNy1HQ2Vmeko0YnpkdFFtRDBVTXlTRldSQzE4SVN6MmVudGNlS3Nrak1XcEVpM2VoODhSeTBwQ0E?oc=5",
-      "source": "v.daum.net",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-02"
-    },
-    {
-      "title": "“9월에 20조 팔아치운 외국인”…10월엔 돌아올까",
-      "summary": "“9월에 20조 팔아치운 외국인”…10월엔 돌아올까 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBiRzBhQklwQjdSS1AtdDVSVGJPNHE2V2tLZFBjb1lFeFh1cHVoXzF1UkdqQlhEQ1hLbGYxYnRSS2JIY0ZpVUhfRzhrX1pkWE5Ic3c?oc=5",
-      "source": "매일경제 마켓",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-02"
     }
   ]
 }
