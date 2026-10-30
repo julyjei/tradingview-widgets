@@ -1,14 +1,185 @@
 {
-  "lastUpdated": "2026-10-30 10:30 KST",
+  "lastUpdated": "2026-10-31 03:18 KST",
   "itemCount": 30,
   "feedOk": 20,
   "feedFail": 0,
   "items": [
     {
+      "title": "[김대호 진단] 실질실효환율...신현송 한국은행 총재의 경고",
+      "summary": "[김대호 진단] 실질실효환율...신현송 한국은행 총재의 경고 글로벌이코노믹",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMXFVM2tSak80RjBJODlDVmtacDJ6VzJXMmVzdTdjVFJ6RHZaSXhBdGI5c0haNWVDemttUHhWRUlxTl8xYnMzOGJvM2diYXFEa1FFQks4Z1BpcWV5c0d6RjF1eGEzdXlfVy0yZGZldlRuQVNZQl9IaEczcnlJU04wR1h4ZFA?oc=5",
+      "source": "글로벌이코노믹",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "AI 투자에 대한 우려가 커지면서 나스닥, 10월에 2조 달러 규모의 시가총액 폭락 위기에 직면",
+      "summary": "AI 투자에 대한 우려가 커지면서 나스닥, 10월에 2조 달러 규모의 시가총액 폭락 위기에 직면 TradingView",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZNEVYcnNoUTllcmN2cFRBTkdmVkZ5bTNFVWxLaGRYNHF5Z29oOHJxcms5akZPWGc1dTRZVTBOSUJYZWJMS1JkR1FHY3dsR2JvUFNpZmtBbjBSQzlhUkFMejlLa2ZnbmJ3Z1cybnM5UndpMVBDRWlj?oc=5",
+      "source": "TradingView",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "[미국 특징주] S&P500 3분기 실적 '착시'… 에너지·AI 빼면 이익 증가율 반토막",
+      "summary": "[미국 특징주] S&P500 3분기 실적 '착시'… 에너지·AI 빼면 이익 증가율 반토막 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZOUQzLWJuX1lFYTZxWDNuYnF0cXdDWkFPZTVvWmxzMFVHMFZoR2FrM0plZkJTM0tvVmpPdU1tQU1Za3pEdkFFWk1FZy1xVVR1N1ozVnZKTmJhZ3d6?oc=5",
+      "source": "뉴스핌",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "Screen Holdings, 2분기 실적 발표 후 연간 전망 유지",
+      "summary": "Screen Holdings, 2분기 실적 발표 후 연간 전망 유지 Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzelhabkxpME1yMlpaSnhTWWZSdUVEREU5VEZMTG9TeDZybXRmbUdFcS1NVVV0Z2RhT2p5QTdxbERZbk9pazdjclowb2pEc1RjcjNUZlYxa1g5WnlkUGxLa3hLaG9uRFFCTTlZ?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "주가 반토막 났던 ‘삼전닉스’… 3분기 실적 호재에 반등 기대감",
+      "summary": "주가 반토막 났던 ‘삼전닉스’… 3분기 실적 호재에 반등 기대감 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ja0ZuUU83ZHRLWTRzQXZvUXcwUUVqS2tFZG5IeGx3OUNBU0t2UnBCdnRYa1FGNGdmMEpGZlNjNmprS0t5azRtY2xEMDNJMkZrSFZsVW8xVTNVYzVFNU1PbEJvcmNwY0ZickZoYTdWNTVwVlBwUVHSAWZBVV95cUxOeUtVMjRseDFpQU9JVXJWRlk2RHAwNWRWTjdLUmFKYXFCclBTaW1yYi1wZktjRWxaMUdCR1g2YlVvWF9ZREx1X1N5VURKclR5MnlWQ0hGVll4NGNRanZjOWFYUFplNHc?oc=5",
+      "source": "동아일보",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "3분기 실적 발표 앞두고 주목할 AdTech 종목 – B Riley",
+      "summary": "3분기 실적 발표 앞두고 주목할 AdTech 종목 – B Riley Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04cURVOF9VUU5TYVF3NEc1OElvUGxUbkhHanVtU0thUERwX3VfYUREemptMHAtMnBqb3pwMWJXWUpPYXJuejF1VE5zczFMazRhS25pQVlRN3cxcVdVYkZnNU1wZjc2eUk5aFQ3ak13bEE?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "Kioxia 3분기 실적 예상 부합…4분기 전망치는 시장 기대 하회",
+      "summary": "Kioxia 3분기 실적 예상 부합…4분기 전망치는 시장 기대 하회 Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42QlZwSnRBY19QNks4VDktWWdiZVB5NExub3ZxM2p3V01kVE1xazlLUVFYdm5fZ0VDSjJ1UlU2azQzR3h1TS12cFZqaUI0eVJzYzI1NGh3RzNFZlNHSTluSjhuVk5kWUgzN0xZ?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "Piper Sandler, 3분기 실적 부진에 Stryker 목표주가 하향",
+      "summary": "Piper Sandler, 3분기 실적 부진에 Stryker 목표주가 하향 Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hWWs0Rkt4aWJZeE94SnAxM0hYQ3diS3NHZkotZ1hFTWx2YVlDR0hUXzlTX01pa2RBbnZCY3ktRTlEdGFwaThiMHU5SDRySHcxRkktSEU0WkFxYWwwRTZEX1dTalBlWko0c0l5TWl2ajRraHFu?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "실적·공시",
+      "market": "글로벌",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "현대차그룹 ‘새만금 프로젝트’ 본궤도…AI 데이터센터 내년 착공",
+      "summary": "현대차그룹 ‘새만금 프로젝트’ 본궤도…AI 데이터센터 내년 착공 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90NDluMFVGaWgwdXdYbzhfUk12WlR1VXNKUnBzcUthM00yZHNUM29YcFUzRHIxZFJfbl83SXozTEhhbV9udW1pOGhDbnpzQTd1X05CNEF3?oc=5",
+      "source": "중앙일보",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "현대차그룹, AI 데이터센터 설립 속도 … 새만금 AI 밸리 투자 본격화 > 뉴스",
+      "summary": "현대차그룹, AI 데이터센터 설립 속도 … 새만금 AI 밸리 투자 본격화 > 뉴스 더코리아",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pWWR1S0hTdHhSY3pkdl9OWElUaEpLVno2bjJzYmZiYW9wZ2VBaTJDX3FCR2JzXzhCSlNIbldDZWQtUXFfV1Z4ZGlkWUpwNnFEenRaXzNfYXcxSWNfaXY3SHNUUVhBZWN5a3NBU1E5NkI5dw?oc=5",
+      "source": "더코리아",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "“공동주택 주차로봇 실증 성공”..현대차그룹, 스마트 주차 기술 검증",
+      "summary": "“공동주택 주차로봇 실증 성공”..현대차그룹, 스마트 주차 기술 검증 데일리카",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ad19iQlZCZDVKVzBhcGtnNDdjalJBTW9ubWlaSEFoVWdhSExjazFuR3lGWjkwRFRfcmtsdUdfamQzUE81VlRrZ1pNWXY3TWNKS1dqR2FqalM3eGk3eExTOGczM1lxUmItTktzTDd0YmE5bV9PNUE?oc=5",
+      "source": "데일리카",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "카카오 노사협상안을 네이버 노조가 이끄나",
+      "summary": "카카오 노사협상안을 네이버 노조가 이끄나 매일경제",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LTHM0c05lRGt2RXRVakRsOGxjY0NpOUlXSWM4N2FnUVA3bGp6bXg3V0FCMnpJLWJucWUxaHptemlQVnhQWWpzbG1lVW9WRjJoWC1tYlh3?oc=5",
+      "source": "매일경제",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "바이낸스 가입하는법｜가입 전 준비와 완료 후 확인 순서",
+      "summary": "바이낸스 가입하는법｜가입 전 준비와 완료 후 확인 순서 네이버 프리미엄콘텐츠",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNlMxc3F2NWlhaUU1TFBUeHBheUxZSkdlbXdFcm5pMGM1bF8tLXd4cDd1b3paZU1TVHZVOVduNXkwZUVKNl9VSXRZTFRRbFB6bjlEQ21KcUxKd09xOVpRbzhKMG52Z1Z1RlRvNHQ1czVpaFA1T1BoMkR4cTNHUWJ0dFRsTERIa0FwQjNXZEhCM3dPdw?oc=5",
+      "source": "네이버 프리미엄콘텐츠",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "Realty Income May Sit Above Fair Value Before November 2. Here’s What the Report Must Prove",
+      "summary": "Realty Income May Sit Above Fair Value Before November 2. Here’s What the Report Must Prove TIKR.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWlTd2JNSjBFeDFvWW16dzNkV0s2VUh0YTVfTDl1aTdLWExMek9RNXJRYW5uSWhMMnJJano0bF9xcTYwUGM0a3JLakZJMDNxT21McmRPanI1dkV3UlJUaUh6WXRkR2JXejFteDRmR0RNY09UaXZPR0FWV29VeWxsT3VORkFfRTFrWUFiU004MkRsZVdIOFBQN1ZraFFROHBTbGppbHdMVG90ZHRHeG5wNWdEUkJSWWxZbFE?oc=5",
+      "source": "TIKR.com",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "이번 주 주목할 주식: 알파벳·인텔·아마존 등 기술주 급락",
+      "summary": "이번 주 주목할 주식: 알파벳·인텔·아마존 등 기술주 급락 Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4yVWFBaXlpNTh0Z2tvb2MtOHV1U1VfZmhDVkcwbFJKbkpxVHVfYkJKSE9zVTh6UnZyQklILVpsWDZHbnNsQ3JyVTk3TXZSRG9DUnJRbGZTbHVCUnVVTEUya240WkZ2b2NKUEpQQXRLNHY?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "교류한 여성 중국 스파이설에…엔비디아 “업무상 통상적 접촉”",
+      "summary": "교류한 여성 중국 스파이설에…엔비디아 “업무상 통상적 접촉” 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5KTExWaWVtZTZTOUEwZVZNam1BRHJRVzZPbzdIbDYxRi10X0l0S3dSRDl2NlhJVjJkU19NV0wxVmpVVF9jWjRZNVFnVDVZU21RSnk0MnNn?oc=5",
+      "source": "중앙일보",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-10-31"
+    },
+    {
+      "title": "\"미국도 금리인상 불씨\"…한은 11월 선택은",
+      "summary": "\"미국도 금리인상 불씨\"…한은 11월 선택은 엠에스투데이",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDRV9xVUQ3YThPbFFMN3RQRmVRMGhSX3VBYmJGcmNncXY2cnpZeC1Va2N1TExtVjlRYm43aFJvcjhaMFphZVNGRVZWcTByc0xhN0hPempGR1BQZkdJcUZ5QUtfT19EempIaTAwbtIBcEFVX3lxTE1NWUdLRXlGLWN5SHRBSUlhVjJjcFZnQnMzaE05V2lQekF2TTJ5WHNnOGhyX3RmbFppamlaVDZLcmJfcmU5WW5HT1QwSk9GQk9URTVrdjUzelppRENQSGtSNDFfbXllVXVBd3lRS3lRNEY?oc=5",
+      "source": "엠에스투데이",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-10-30"
+    },
+    {
+      "title": "美 연준 금리 동결에도 인상 가능성 여전…한은, 11월 금통위 '고심'",
+      "summary": "美 연준 금리 동결에도 인상 가능성 여전…한은, 11월 금통위 '고심' 더퍼블릭",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5MWEgtcmRrd0tSUVdIZXN1eVVYZWJkV2M1U1Z3SnR4WWNkdE54TlNCZDZ0cTQ0WjhkeU5VZUxUUU5uX0ppQWRmZng2LVc0bUlXRElXTlYyQTlneEtJRlQxQmEtSkpJZmpka19vUEZId9IBb0FVX3lxTE5MWEgtcmRrd0tSUVdIZXN1eVVYZWJkV2M1U1Z3SnR4WWNkdE54TlNCZDZ0cTQ0WjhkeU5VZUxUUU5uX0ppQWRmZng2LVc0bUlXRElXTlYyQTlneEtJRlQxQmEtSkpJZmpka19vUEZIdw?oc=5",
+      "source": "더퍼블릭",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-10-30"
+    },
+    {
+      "title": "한국은행 11월 또 올리나…최종금리 3.5% 관측",
+      "summary": "한국은행 11월 또 올리나…최종금리 3.5% 관측 자본시장뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IRy1mWE80SzF1T2tydndIbGFjbHV2NmZlWFVXT3dXZmhJbWNycUJpU1ZqQ0IwNkJWRHpJVTU3VDcxX0ROakltbjFDUnZQTzZpeF9XNDVyZ3o3enhvTGtoMWJxYWp1cmM?oc=5",
+      "source": "자본시장뉴스",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-10-30"
+    },
+    {
       "title": "11년 전엔 美 따라 8회로…연준은 금리결정 횟수 더 줄인다는데 한은은",
-      "summary": "11년 전엔 美 따라 8회로…연준은 금리결정 횟수 더 줄인다는데 한은은 KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wUTN5bGFGRy01SUR3dzI5Rlc5NlhnMlpDc29TbXRWT1ZPb18wd0NiS3J6LXhURHRmdW9UUWsySGxZU21VSDMwZXdJWjNoMldBQ2xiRzdva0dkcnN5LWhfMVlNcWxSQVFzaHdHR0hjY1dqZw?oc=5",
-      "source": "KB Think",
+      "summary": "11년 전엔 美 따라 8회로…연준은 금리결정 횟수 더 줄인다는데 한은은 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UTGNrTmJYczh6SmRyRFcwWFluNWtfU3B0bHRUTjYwN2JKcjdab0tQTWF6eHBWcnRkRkdHTHQ1bW5ScTFaX0MwbTh5LVdvczNYVlpneWtVMmlyTlFoRENkRzAyaFVHTWp3Yl9Tamt2dGE?oc=5",
+      "source": "연합인포맥스",
       "category": "거시·통화정책",
       "market": "미국",
       "pubDate": "2026-10-30"
@@ -23,19 +194,19 @@
       "pubDate": "2026-10-30"
     },
     {
-      "title": "BofA, 연준 금리 전망 수정…\"12월·내년 3월 추가 인상 예상\"",
-      "summary": "BofA, 연준 금리 전망 수정…\"12월·내년 3월 추가 인상 예상\" 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TQWM2Q0NPQUhDR2szRlhxRTYtSWpFSVBYRDdaTlQ2d3dETFRrNmpmbDFOcFFnM2pnem8tWmpwNnZMRmlxdmZWRnltYnlGampUSW9oajRfOG5VcEprUWRxczhta2ROWWoyTHdYa19FTEPSAXRBVV95cUxNSXc5ODRqbHpFV0phS3VKZzZXWFJEaUpVcGkwYmp1TGo3X2xVZndmQ0RENkl5SHcxWlY0bFlYUm1aU0F1NVUyYTZnUHRwa1FuMmF2TVRFdHZHX0M0UHZDVFZaYjVzazZDTWIyN1UzU3RVNWxSSw?oc=5",
-      "source": "연합인포맥스",
+      "title": "美연준 금리 동결, 회의 횟수 줄여… 시장에선 \"물가 대응 의지 안 보여\"",
+      "summary": "美연준 금리 동결, 회의 횟수 줄여… 시장에선 \"물가 대응 의지 안 보여\" 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3VDclZVWlpTeFNSVFF6Rm45WWkxcHFSUURzcGVId18wSXpYdko5akFadlp1UU1vYkFjUk5VVGNLbWtoNUJQNjB1ZC1DRlRRbDJNdU03TTBaYlc5OENKU2IzdkZEbkhzQzY2c2RKMFQwTFhUZHRsV2wzdVZsM2ZEdkJVbU9HLWRfakF1bElR?oc=5",
+      "source": "조선일보",
       "category": "거시·통화정책",
       "market": "미국",
       "pubDate": "2026-10-30"
     },
     {
-      "title": "美연준 금리 동결, 회의 횟수 줄여… 시장에선 \"물가 대응 의지 안 보여\"",
-      "summary": "美연준 금리 동결, 회의 횟수 줄여… 시장에선 \"물가 대응 의지 안 보여\" 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa3VDclZVWlpTeFNSVFF6Rm45WWkxcHFSUURzcGVId18wSXpYdko5akFadlp1UU1vYkFjUk5VVGNLbWtoNUJQNjB1ZC1DRlRRbDJNdU03TTBaYlc5OENKU2IzdkZEbkhzQzY2c2RKMFQwTFhUZHRsV2wzdVZsM2ZEdkJVbU9HLWRfakF1bElR?oc=5",
-      "source": "조선일보",
+      "title": "\"연준 금리 결정 회의 축소, '선제 침묵' 시대 신호\"",
+      "summary": "\"연준 금리 결정 회의 축소, '선제 침묵' 시대 신호\" KB Think",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vbkdsczlTYkFoeGJnZzVjMS11QW9faHpiaFNDYlBnZG9kUmNfc2JqbDRsRWQyNXBBVzRsRDRId05VVjFQMlRZMWhYeFdRdkt0Nnk2bEUxTFhzRGhCXzFtbTlFVjVWOGNFT1VWWTRfSDdkUQ?oc=5",
+      "source": "KB Think",
       "category": "거시·통화정책",
       "market": "미국",
       "pubDate": "2026-10-30"
@@ -47,6 +218,24 @@
       "source": "시사캐스트",
       "category": "거시·통화정책",
       "market": "미국",
+      "pubDate": "2026-10-30"
+    },
+    {
+      "title": "엔비디아 젠슨 황 '중국 스파이 연루설'에 미국 의회 우려, AI 반도체 규제 강화 목소리",
+      "summary": "엔비디아 젠슨 황 '중국 스파이 연루설'에 미국 의회 우려, AI 반도체 규제 강화 목소리 비즈니스포스트",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjbFVCZVp0R2Nqd1FPT253TzhyaWViRER5cGFSQ3NjX202cEZkR0lKREo4V2NBbmhrWnNRaXNFQXJfT1RMRVpJXzdfcjd1NkgwaWw1NFZMbnJIU1BJOFFYNDdGdzZQbkRzQW95MnJweTBHOFk?oc=5",
+      "source": "비즈니스포스트",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-10-30"
+    },
+    {
+      "title": "이천시 \"반도체 방류수 배출 규제 도입 신중해야\"",
+      "summary": "이천시 \"반도체 방류수 배출 규제 도입 신중해야\" OBS경인TV",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xNkpkTkFUaXJHV0txWEhNd3BpM1kxX3pMWnJqRlhPS3lhWC14Wklvc2dZa0lFb2ctcWJJMXdmTVY2cVdVcWZzTDZhbHVuNUo0Nkp0elFhd2VKM3Q0WXNXbzJjVHE5ZjZwQWJibHJB?oc=5",
+      "source": "OBS경인TV",
+      "category": "산업·섹터",
+      "market": "국내",
       "pubDate": "2026-10-30"
     },
     {
@@ -68,210 +257,21 @@
       "pubDate": "2026-10-30"
     },
     {
-      "title": "[마켓뷰] 알파벳 등 미국발 '삭풍'…코스피 또 출렁이나",
-      "summary": "[마켓뷰] 알파벳 등 미국발 '삭풍'…코스피 또 출렁이나 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9COTRsWWU0LVZoM044VGh2Sk9KN0hvSE1PMnQzYXNjeGw3a3FIZFRkdzdCQjAzSlV2Sm83RXNueGZHbnRiblhkc1B5V2pIclpZNjlEVVp2YlJoNE3SAWBBVV95cUxOdEVBN183N1dFSXJvT0pfRlp4aVg5b0wzaVJnU1ViV3U5dTBWcW50WVF2RU0wV2dsOXE0bWl5dFJ4OGxjdko0dVo4WW04Q2ZZYU11RDkzdU1SUFV2LXIzY3k?oc=5",
-      "source": "연합뉴스",
-      "category": "시장흐름",
+      "title": "[로펌라운지] 태평양, 암참과 개인정보보호법 개정·규제 대응 전략 집중 점검",
+      "summary": "[로펌라운지] 태평양, 암참과 개인정보보호법 개정·규제 대응 전략 집중 점검 아주경제",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxc3pUcUcxOTVtZFVUY3F0T19samk5RE83V3hwWmFQMkRBRHVkMzJXR0EtS2w0bm9FTzZBay1sQzYtaTRmWENpU3ZkYmF1NEd6aDUtVFFfQmzSAVhBVV95cUxQMXN6VHFHMTk1bWRVVGNxdE9fbGppOURPN1d4cFphUDJEQUR1ZDMyV0dBLUtsNG5vRU82QWstbEM2LWk0ZlhDaVN2ZGJhdTRHemg1LVRRX0Js?oc=5",
+      "source": "아주경제",
+      "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-10-30"
     },
     {
-      "title": "[모닝 리포트] \"美 AI 수익성 우려 속 코스피 반도체 수급 주목\"",
-      "summary": "[모닝 리포트] \"美 AI 수익성 우려 속 코스피 반도체 수급 주목\" 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5QV2MwWV9rNjkwSGxxU2wzNGczY3ZkSVd4M2RNY1dIcUduLUV2ZlRnSmVGRE9IbjZPcE55MGFKbTktOE1HTEVpei1WalBEMEpwZVU1OVEtNkppcnd4?oc=5",
-      "source": "뉴스핌",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "[굿모닝 증시]AI주 흔들리자 커지는 변동성…외국인 수급 따라 건설·방산 주목",
-      "summary": "[굿모닝 증시]AI주 흔들리자 커지는 변동성…외국인 수급 따라 건설·방산 주목 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1taGJ3UFNuSXhDWTB0SFpySWkxQ0ZSbGtvRXpHeXhSVE10SDYyUndhU1ZuQkVJaUt2TkFSQUxqVFoxVm91aEhNSlE5WmlEV29uZDZDNUxvdUxTNGx4T3NWd19n?oc=5",
-      "source": "아시아경제",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "\"코스피, 美 빅테크 실적 부담에 하락 출발 전망…삼성전자·외국인 수급 주목\"",
-      "summary": "\"코스피, 美 빅테크 실적 부담에 하락 출발 전망…삼성전자·외국인 수급 주목\" 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5mUzJCYTdQaVhpX2RMSmlUS29nOEdia2VKS09iaE0tTnVEaTdXbEszeGsyX0pXZUs5SzR2bjlxc3Jwb196Zl9FeXhPTC04MUNIdzFNTWtad3dUdWtpVGc?oc=5",
-      "source": "뉴스투데이",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "외국인, 한 달 만에 '팔자'…9월 주식 19조 던졌다",
-      "summary": "외국인, 한 달 만에 '팔자'…9월 주식 19조 던졌다 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RYWJlR1pqWnI0YzQyY0V5MldjdW9QcGpDZ0RNNzFpZjFaYkJuOXV2Mm1Pc0Vra1ZFOHFXWFg2RkV6QUNlZ3Y2djU2eWFUZHZO?oc=5",
-      "source": "블루밍비트",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "알파벳 12% 급락 충격…코스피 하락 출발 전망",
-      "summary": "알파벳 12% 급락 충격…코스피 하락 출발 전망 경북매일",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ISlBCN3JWelRleFdaajdDUUhsUkg1OTJmOHlnZXg5M245emNSNHNyNmNiWTNoM0tHajN6amdUUEMxUWEtRkplN2FQcHh1T29MTHlVQWtUX2Zqdw?oc=5",
-      "source": "경북매일",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "[증시전망대] 알파벳發 AI 투자 우려, 반도체 직격탄…코스피 또 ‘출렁’ 예고",
-      "summary": "[증시전망대] 알파벳發 AI 투자 우려, 반도체 직격탄…코스피 또 ‘출렁’ 예고 뉴스로드",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWc1dhVEZJZzMzbTFjYWx0amZvNTNlb3hNb3R4blpwMUxvTVNGNG5ER3BsT0RZTU96Yy1SLV9ZWV93a2pISHNsOXJWTmc1eXZpdDVRWHZuZ3Y0eFE1d2tDcGtYQ29aNFdzN0UwdGo1VdIBb0FVX3lxTFBWc1dhVEZJZzMzbTFjYWx0amZvNTNlb3hNb3R4blpwMUxvTVNGNG5ER3BsT0RZTU96Yy1SLV9ZWV93a2pISHNsOXJWTmc1eXZpdDVRWHZuZ3Y0eFE1d2tDcGtYQ29aNFdzN0UwdGo1VQ?oc=5",
-      "source": "뉴스로드",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "[장중수급포착] HMM, 외국인 21일 연속 순매수행진... 주가 +2.47%",
-      "summary": "[장중수급포착] HMM, 외국인 21일 연속 순매수행진... 주가 +2.47% 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45Z3I5WGF6c05WOTY4bDFNRmZNWjJhQlZqNXdmSE9laFNHa3ctbE5qMWdaYVhmOVl3TU1VZk9lTXZlZkNsVjlGckNtZldEd1E3N0xiUXpoOUFtOUI5?oc=5",
-      "source": "뉴스핌",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "[3분증시] 뉴욕증시, 알파벳 실적 충격에 동반 하락",
-      "summary": "[3분증시] 뉴욕증시, 알파벳 실적 충격에 동반 하락 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LcFQ2VXNIdTMyeUVJZ0tJX19SYkxOaWNoaUVsS1FybzlZWGxlX2tnVmItM09kQTF6cTlubWpLdThLb3h2UkVRMlhOMTdXYTRSQlVYRXlkSmx2cXJ3Y2RLN1JjSC1vVEU?oc=5",
-      "source": "연합뉴스TV",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "S&P500 선물, 아마존·인텔 등 빅테크 실적 급락에 하락…美 국채금리↓",
-      "summary": "S&P500 선물, 아마존·인텔 등 빅테크 실적 급락에 하락…美 국채금리↓ 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBweDg4dEQ5dXEySmoyXzFyMmV4THpwLUprQUhXd2pHalVOTnFyT2k0cmtKOHdFZ3RXWE1WWkZ4bXRfQ1hBN1J2VUcwOFVTOW56RVJGenNxdHB5elkzQjEzSmQ1R193cFZvUVhDRUdlTkY?oc=5",
+      "title": "[외환] 양방향 수급에 상단 제한…커스터디성 달러 매수 소폭 우세",
+      "summary": "[외환] 양방향 수급에 상단 제한…커스터디성 달러 매수 소폭 우세 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpQ2tsR0Y0MUFfeU1jR1djNlRYdUJLa2lMT2toTFMxRnJzTFNqUmpNekF4bjdMWnBOdHVxaEV5ekJSUUF1WWhqRXd4cGpGc0pJQ1NORFotV3FUMnpXR1BLZDYxWFBlMWdleDVUUDhyQXJRcW5C0gF0QVVfeXFMUGlDa2xHRjQxQV95TWNHV2M2VFh1QktraUxPa2hMUzFGcnNMU2pSak16QXhuN0xacE50dXFoRXl6QlJRQXVZaGpFd3hwakZzSklDU05EWi1XcVQyeldHUEtkNjFYUGUxZ2V4NVRQOHJBclFxbkI?oc=5",
       "source": "연합인포맥스",
       "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "AI 투자 우려 재점화…뉴욕증시 일제히 하락, 알파벳 12.6%↓",
-      "summary": "AI 투자 우려 재점화…뉴욕증시 일제히 하락, 알파벳 12.6%↓ 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QOV9BaTQtT0U3cFRRUWlJOEpRUXNIWmpUaEtHTE1UNlN2eTFLdmgyNGV1V29iV0liVFhueUpGaU5mLUdQREdFdUxVekhWaDBheFIyQ0QwRmR5MVHSAWBBVV95cUxNbTZZaUZzdmh6M0NiUU1GZVdhajctUXZFeS1uck42TWpPWWNISlEtNXNnb0dIUmxpWmJtdnZPS2ppWEZVWjI4TDY1UjViQTQ1UnltNTI0V1ZvVHZVMHAyQnI?oc=5",
-      "source": "연합뉴스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "AI 투자 우려 재점화‥뉴욕증시 일제히 하락",
-      "summary": "AI 투자 우려 재점화‥뉴욕증시 일제히 하락 MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sWUV0el9pMlhEQmVuXzMyMVBDRWRGekNlblJQVHN3WlNXdHd5bWlyVE9XaTlDa3htY1cyb3JLY0NUempqRXNYd2s5U3lRb1BiUTVHYmYtbnBPNEZqeFJTN3VMVnJoRUtlZUhIeW5OYzBncUU1TTJ0ajhB0gF6QVVfeXFMT0lqc3RRQVBIVFBOcXVzclQ0M3Rlam5JOW9GbjdrcHdtaVZrSVlRVW1UNGEyZ09Scmk5eHhSazZFbFpud0ZaVUxtNTZCaXJoSGJCVWxCeW5HZ1BxTzktM1JZcUJnaHI4empVdFM0bFcxX3ZDUnZxeVQwcmc?oc=5",
-      "source": "MBC 뉴스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "Bambusa Therapeutics, 나스닥 IPO 주당 $16에 가격 책정",
-      "summary": "Bambusa Therapeutics, 나스닥 IPO 주당 $16에 가격 책정 Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9COEFZM2F6amZKZW1UYnBVdlp4djQwckpzcy1WX3Q0anJITFV5NkRRQi1nN1FWcU9QMHZJenhBbXF4czlxRmJBNHJERDFhSTc3WGtFMklTOEUyYkw0ZmVSQnRkRDQwcWIzU0RxbGFqSFQwcWR6ZHNQTg?oc=5",
-      "source": "Investing.com 한국어",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "알파벳 12% 폭락에 AI株 흔들…나스닥 1.38%↓ [뉴욕증시 브리핑]",
-      "summary": "알파벳 12% 폭락에 AI株 흔들…나스닥 1.38%↓ [뉴욕증시 브리핑] 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83UFV5c09ZTDM0bE9BVzRJU1ZNTmtBZ2FqaW1iMHRTdzlQNmZRTmZGd1VZbWxxV1Q3dGNtSUQ1RWtPMkxidjlJT3U0MnVMQWg3RW1ISFpwZHFNUQ?oc=5",
-      "source": "한국경제",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "[속보]알파벳 12.6%↓폭락에 뉴욕증시 일제히 하락",
-      "summary": "[속보]알파벳 12.6%↓폭락에 뉴욕증시 일제히 하락 문화일보",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9MR1pDVmJlYVVtQmNrSXRtRS1aUFZHekZoZGpLX1puMUw4SlVuV3hiM0xaUGd6REpmYkxhYmxScThPZklqd1Z0d0Z6UnpLYkVz?oc=5",
-      "source": "문화일보",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "AI 투자 우려에 뉴욕증시 하락…알파벳 시총 5000억달러 증발",
-      "summary": "AI 투자 우려에 뉴욕증시 하락…알파벳 시총 5000억달러 증발 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdlNRYU13d3VURmpyam02T1BLYUhJWC12WllfbWxUaTZxOHF6dXI4NmhFc2hSbUlYMnBPQktxNmVQNnk3ZmEyUjJ5SUI5THpnaHNzRjFHTTBjM1o0MTJVX0dtMnduRXZqeUluWFNQb3k5ektCU1BqdDk2N1V5OElKaGVEZk1NTXJR?oc=5",
-      "source": "조선일보",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "[3분기 실적분석] 금리 또 오른다는데…자본비율 관리 '시험대'",
-      "summary": "[3분기 실적분석] 금리 또 오른다는데…자본비율 관리 '시험대' 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mcGs0OVA4NFhSbzkyVzR2ZGhaNk9jN2VCWFVUcDBXZ0htUGJNUU9TUUFDczdHaEF5dUZZQUhMVWkzVlRtZ1lPR1RYUGMzN2RmNEhWTnNDQjVieXU3Skd1dnhERnREUmNmTm93R2hjSnPSAXRBVV95cUxQdmV0emlHbnloSXlOWW9wdWFQNkpNb1hyX3ZjN0JYWUlVR2tVdUtOQmVZTmJkbzd4TFdWMnctOUV3UjlmYUFyOHdKcHhOdHFQeWVPenItZDluNk80TWlDR00zN2N5U3VUWDliakxhSVMwUDBGRw?oc=5",
-      "source": "연합인포맥스",
-      "category": "실적·공시",
-      "market": "글로벌",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "3분기 실적 절반가량 기대 못미쳐…영업익 반도체 '투톱'이 끌었다",
-      "summary": "3분기 실적 절반가량 기대 못미쳐…영업익 반도체 '투톱'이 끌었다 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTSXg4OFZXQUZveTlMSlhXTVM5MGxhTFVtUkJDMGUtQTFRMjQ4OXZ5Q3ptUFF6NGFlNkJQLWpneHNaVnNKNkg5ZlZPNml0S3dBamhmZjZSbk9oQjdaeVZhZg?oc=5",
-      "source": "아시아경제",
-      "category": "실적·공시",
-      "market": "글로벌",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "증권가, '3분기 어닝쇼크' 한화에어로에 \"4분기 수출 회복\"",
-      "summary": "증권가, '3분기 어닝쇼크' 한화에어로에 \"4분기 수출 회복\" 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84OVNPT3RLMzFLX3k2c2ZXcXNKYUFXWW5ZbTZPN3Z4VzBZVkxwNXVfTFNIamZMak9maVZhVW5JR2I4OGQ2ck1MMzMtVmVSZFV6V3c4NWNOZkZycFlkYVh2StIBYEFVX3lxTE84OVNPT3RLMzFLX3k2c2ZXcXNKYUFXWW5ZbTZPN3Z4VzBZVkxwNXVfTFNIamZMak9maVZhVW5JR2I4OGQ2ck1MMzMtVmVSZFV6V3c4NWNOZkZycFlkYVh2Sg?oc=5",
-      "source": "연합뉴스",
-      "category": "실적·공시",
-      "market": "글로벌",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "GS건설, 3분기 실적 감소했지만 수주 선방 外",
-      "summary": "GS건설, 3분기 실적 감소했지만 수주 선방 外 톱데일리",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lMFVteDQtclYyOWItd3YtWXRVY1BCTnY0VE1XUUJYYUVfNmFrMF9waE5YbDY3dko3NUk3aUo5NVJtaE5kZU8tZ1JYWFpXa2s?oc=5",
-      "source": "톱데일리",
-      "category": "실적·공시",
-      "market": "글로벌",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "증권사 3분기 실적 줄하락…키움證, 전분기보다 영업익 48.5%↓(종합)",
-      "summary": "증권사 3분기 실적 줄하락…키움證, 전분기보다 영업익 48.5%↓(종합) 매일경제 마켓",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Sb0RKZXJuUkpmY3QwTG9MVElmbmZIdDhrY2w2OHdMdm5NZFN4NzNzUXJiWXhtbkNpR210SHlNQkxYZlFCNE5UU2ZFTzRJdDdwT0E?oc=5",
-      "source": "매일경제 마켓",
-      "category": "실적·공시",
-      "market": "글로벌",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "키움증권, 3분기 실적 발표 이후 9%대 급락",
-      "summary": "키움증권, 3분기 실적 발표 이후 9%대 급락 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SeDVyOGtnRDRqREE5SDl5RldJUnhpOExXSTMtOWo3SEZDYkx4WGZzVG8yVGtkTFRQdWx3aC1JRy1abXhwMU52Sm9oWjg0cUFRUm9pVWhaMTRwQQ?oc=5",
-      "source": "한국경제",
-      "category": "실적·공시",
-      "market": "글로벌",
-      "pubDate": "2026-10-30"
-    },
-    {
-      "title": "인텔, 4분기 실적 가이던스 '실망'…시간외 주가 15% 급락 - 머니투데이",
-      "summary": "인텔, 4분기 실적 가이던스 '실망'…시간외 주가 15% 급락 - 머니투데이 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZUVlsM1hVcXZVYlh5MjI0QjNyZE1hUThPWnhOc2otVU0wOTU1QjlLQ0thdTNlaWF5Sjc2bi1Qdlc1Qkp1SVQ0VWZScG9Cd1VYcnlURk5IMUI3M2JjcWpobXVtaFF3bDVO0gFuQVVfeXFMT19QaU4wQXJ4S25ZVVpKRFlFV0JvLV9XMEM1dGxnc1p5a2VjbVNfbThOMWl6bU9ndGt0alpicFdyYVRRVnlmMVY2SGMyMktETVE5aU04S2pCaGdoeVNPcDFtWmZXRU8zd3FHcndIWXc?oc=5",
-      "source": "머니투데이",
-      "category": "실적·공시",
-      "market": "글로벌",
+      "market": "국내",
       "pubDate": "2026-10-30"
     }
   ]
