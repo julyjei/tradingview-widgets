@@ -1,14 +1,131 @@
 {
-  "lastUpdated": "2026-11-13 05:31 KST",
+  "lastUpdated": "2026-11-13 11:20 KST",
   "itemCount": 30,
   "feedOk": 20,
   "feedFail": 0,
   "items": [
     {
-      "title": "연준, 내년 '금리 결정' FOMC 7차례 개최…10월엔 통화정책 전략만",
-      "summary": "연준, 내년 '금리 결정' FOMC 7차례 개최…10월엔 통화정책 전략만 KB Think",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Qc3FjX0V5d19qbG81UFVjeEZvc1FnWDVJaVpmZzNodzlmU2c1NTZlZnRWU19mMXNvSS04eXZ5SDZMTEZLa2pVR1NCTTZyMHcyRHlLV0d5UnhEZnRGTUdEc2tFRFRHTWRQbVJWWUU0SzF3QQ?oc=5",
-      "source": "KB Think",
+      "title": "환율·유가 떨어지니 10월 수입물가 1.8%↓…한 달 만에 하락 전환",
+      "summary": "환율·유가 떨어지니 10월 수입물가 1.8%↓…한 달 만에 하락 전환 ER 이코노믹리뷰",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoZXVXeG5jRFhaV0I2eDZsdlRTUUpqekNwbUlPdU1yS1NBd3VyM0RudzBkanM0N3AyOTFuMF9SMEVoME9uLVBIUmg0MERRR1JKYy04M3JWeC1DR1FZdmdpTlJ0bi0zeUUyRGRqYg?oc=5",
+      "source": "ER 이코노믹리뷰",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "유가·환율 내려 전월比 수입 물가 하락…전년보다는 13.5% 상승",
+      "summary": "유가·환율 내려 전월比 수입 물가 하락…전년보다는 13.5% 상승 조선일보",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRzFxX2ctMlZ6cXpMb1JSbUJjblNPY1BzSWpNODJVdHNpV3FVMEwxQlhNdmxTWjJtcGFsZVhoYkhJUk1sNi1icHJTdTBfWFJ4SHB3dVgtUWZyZHFlOFU5V1JrTnRTQWR5VnFadU1pWmVfaXRhTGtqZHJFVGZROTRjY0JVMHBSN3F3T0tYSVR3?oc=5",
+      "source": "조선일보",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "환율·유가 동반 하락에 10월 수입물가 1.8%↓",
+      "summary": "환율·유가 동반 하락에 10월 수입물가 1.8%↓ 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NcWJ3QkFaQndJdnNWbmdLQ1o3R0plUVRFU0FaRWFNS0FBQWI0UXkyNHhBbEduVmw4UEtUeWduUnlGTlJwMU5Wb3R1SnJ3TzR1eVhCYW94bEpRSWJCZ2VYUNIBYEFVX3lxTE1NcWJ3QkFaQndJdnNWbmdLQ1o3R0plUVRFU0FaRWFNS0FBQWI0UXkyNHhBbEduVmw4UEtUeWduUnlGTlJwMU5Wb3R1SnJ3TzR1eVhCYW94bEpRSWJCZ2VYUA?oc=5",
+      "source": "연합뉴스",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "반도체·AI 인프라 수출 호황…수출물량 증가율 43.9% '역대 최대' - 머니투데이",
+      "summary": "반도체·AI 인프라 수출 호황…수출물량 증가율 43.9% '역대 최대' - 머니투데이 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VDNOVVdJZFhzT3p3YkJmSjNXTGtVdm9jR2piMVNiSlUxc0FuLVBJTzRxeU5YMW1PNVZmR2JueGY5LUVaS3FBZ2RSMlZYNXJTSFdEWklGN2FTTTBacXJKWl9XT3JSekZ3Tzh1MHdLNjLSAXBBVV95cUxPeVQzTlVXSWRYc096d2JCZkozV0xrVXZvY0dqYjFTYkpVMXNBbi1QSU80cXlOWDFtTzVWZkdibnhmOS1FWktxQWdkUjJWWDVyU0hXRFpJRjdhU00wWnFySlpfV09yUnpGd084dTB3SzYy?oc=5",
+      "source": "머니투데이",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "환율·유가 하락에 10월 수입물가 1.8% 내림세… 수출물량·교역조건은 역대 최고",
+      "summary": "환율·유가 하락에 10월 수입물가 1.8% 내림세… 수출물량·교역조건은 역대 최고 서울뉴스통신",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ackluMlYtRWwwdVBDek53T0Uwcl9WV0tXeG5yOFRYQnRVSk5TbzhSOURya1dYUVpqOUNSTUtHNUpjbGxKSTRPeHN3M3lSRkwyM2Z3NGcxRENPY1hUdzdGRjZjcVFJQmNUNnow?oc=5",
+      "source": "서울뉴스통신",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "환율·유가 동반 하락에 수입물가 1.8% 내려",
+      "summary": "환율·유가 동반 하락에 수입물가 1.8% 내려 스페셜경제",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5iOExPU0tzY3Q4a3QwMGFqZ2N4WGFzQ2VxbDIwc2NsQXhMUVd0bDlyanpMYWhibWhMQU1VdEhhdGp3VTZMMFpERFlFNk1iMVJadlBqQ1FSdmxpUG9kVEdBSTZRekthdnFFUDJZbA?oc=5",
+      "source": "스페셜경제",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "환율·유가 하락에 수입물가 1.8%↓…수출물량은 역대 최대폭 증가",
+      "summary": "환율·유가 하락에 수입물가 1.8%↓…수출물량은 역대 최대폭 증가 부산일보",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBDWHV5VjM2SE5UQXprTlFMTXpjZGFwWHhpY0NWaEZYaXQ4cEpXZ1ZIVm9kNVZaM3Fhb0NXX21NQTMybWRXOW42TUR0dXBUOUdGR05zRmhjQTh5NHB4VGFiRUZLOUMwcXlqV20zeE1ScDE5aTMx?oc=5",
+      "source": "부산일보",
+      "category": "거시·통화정책",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "연준, 내년 '금리 결정' FOMC 7차례 개최…10월엔 통화정책 전략만 |",
+      "summary": "연준, 내년 '금리 결정' FOMC 7차례 개최…10월엔 통화정책 전략만 | 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLb2hCUXZERFJUOGdTYkN6a1BycF8xVmxaS3VKVk9OTHBhNDVXdTF6QXlDaWdDdjhpX2dwMzVWV3Y5NWlDVHF6a1dmc3g5RkpLYV9KNER5YTA3Mmd4bHFYOVFIMFN2UUd4WnFoOEd4WXlhWXBw?oc=5",
+      "source": "연합인포맥스",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중",
+      "summary": "美연준, 내년 '금리 결정' FOMC는 7번만…10월엔 전략 논의 집중 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VSEFvcTlyZHlUeGZiQUR6SmdlTk1JZFpxSE1tdWsyY2kweldQM181WkZoWWN5NlpzYTlJZkJ6aWRNVEpJN2lkT09lSTAxNFlncE1STHNZd0duZ3fSAWBBVV95cUxQUGhyTWtLMVM5Z2p5TS1RaWdMRVF6UXR4NVpsbk5EakxiRU9zNkFqcGhuaDhQZGN0UUw2WDhxVDNLWHA1Tlh1Sl8tUkM3MWk3UFF0NEdhNjFvWTVkRDZ2MEc?oc=5",
+      "source": "연합뉴스",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표",
+      "summary": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표 Chosunbiz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
+      "source": "Chosunbiz",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "美연준, 2027년 FOMC 일정 공개…기준금리 결정 8번→7번",
+      "summary": "美연준, 2027년 FOMC 일정 공개…기준금리 결정 8번→7번 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83TGhZSDQ3UXJZeGlDZkN6UTdxaG1fVlRkemtyMllLSGVRTlR2S2d5MDBjVl9GSEd4c2xMWDk5Q3VyR2pCSWs2NkV6VFN1cXoyanA4aWY2UXRQN1dSM3RBZg?oc=5",
+      "source": "뉴시스",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "美 연준, 2027년 기준금리 결정 FOMC 7번으로 축소…10월은 통화정책 전략 논의 집중",
+      "summary": "美 연준, 2027년 기준금리 결정 FOMC 7번으로 축소…10월은 통화정책 전략 논의 집중 파이낸스스코프",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQVFc3WDA3RzBYNzh2YjhGQjZRLUFfV3lodTZETDdaLVZEMjJWb2pMMEZlUExYQjllR2h5OHc3NlhYVXFvNHhrbm1MUjA5X3k0U09GRDlvMjlhckcwbG10OFhVVHZLN0pxZGc?oc=5",
+      "source": "파이낸스스코프",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "美 국채 10년물 금리 5.109% 급등…유가 상승·연준 추가 인상 전망",
+      "summary": "美 국채 10년물 금리 5.109% 급등…유가 상승·연준 추가 인상 전망 뉴스1",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5xb2dScXVCS09nMjNpM1NjdTZKemZlRlJ5eThQejFzV000OEpYUXRTb25Ed1NDeU54aV9pOUluSXBhbDY5dnM3cDFVWWFCaG9XWnFkMEdxTGdfYVVjLWZZSUh5VFcxYVU?oc=5",
+      "source": "뉴스1",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "美연준 내년 10월엔 금리결정 없이 전략 논의만…연 8회→7회로 축소 - 머니투데이",
+      "summary": "美연준 내년 10월엔 금리결정 없이 전략 논의만…연 8회→7회로 축소 - 머니투데이 머니투데이",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93TzBPWWNDMDFUdG1RaUZzRk80UFhrUmVjbi1rcnFUZmotaHhkaU9jemlJVVNncGFpWUlfY2Z6a3FROWxJeTV6RmE1Q1poQTdqWWRpRkV6TFVCMFBPakR1NHl0MGlUblE0Y0s1VnhR0gFuQVVfeXFMT3dPME9ZY0MwMVR0bVFpRnNGTzRQWGtSZWNuLWtycVRmai1oeGRpT2N6aUlVU2dwYWlZSV9jZnprcVE5bEl5NXpGYTVDWmhBN2pZZGlGRXpMVUIwUE9qRHU0eXQwaVRuUTRjSzVWeFE?oc=5",
+      "source": "머니투데이",
       "category": "거시·통화정책",
       "market": "미국",
       "pubDate": "2026-11-13"
@@ -23,12 +140,39 @@
       "pubDate": "2026-11-13"
     },
     {
-      "title": "美 연준, 2027년 금리 결정 7차례로…10월 표결 생략",
-      "summary": "美 연준, 2027년 금리 결정 7차례로…10월 표결 생략 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yNms5SUI4bE5fLVpBcGZrcy16R2NZYUN5NGVDYnVjc3h3RXU0Y1lNRzBlMmdXclVDZkRLdHd6SDdpNkJmT1RDc0FOY1dqVjJjNXpWRmdCZzRpZw?oc=5",
-      "source": "파이낸셜뉴스",
-      "category": "거시·통화정책",
-      "market": "미국",
+      "title": "[젠슨황 퇴진] 美의 中 AI 반도체 규제 강화 촉매될 수도",
+      "summary": "[젠슨황 퇴진] 美의 中 AI 반도체 규제 강화 촉매될 수도 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84eURIa3NCMC1YUFlmeDZHel92RjZZdkdjS2QwbUE3WjNHNFMwMkZ4VENTWTZrZUh6QWtGeFJtVjNoSzVJV09VOUlGanVUdnFhZXNreUhPSnAtQXJDZWdEY1ZTY1VCZDJQSWVoRy1XWWM?oc=5",
+      "source": "연합인포맥스",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "젠슨 황 사임에 '깐부 동맹' 흔들?… 미국 대중 반도체 규제 변수",
+      "summary": "젠슨 황 사임에 '깐부 동맹' 흔들?… 미국 대중 반도체 규제 변수 한국일보",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Xc2VzUEl1d2NhTVlhQThlWDdwV2o1YVd1OWl2RDBoUzBjcUtfSDVSdlRaXzJyWGlZRWJxNDd5NEU1NlZIOEt6aTRJRXNRT0U1aVdjZDRxWmdVZzZTaGh4YXdxY3RTMWFfVkJLV01B0gFzQVVfeXFMTXQzWTMwZ0MwM2NValJWUGl2LWFBSWVienA0VGdXbnZsYVV5aldNaklXZmNRTnFITFFlVUxpaExuVkVVVUlhTTBfX0czOFNfdFZsc3FjUmpTWWgxRzlUZUpCWm9zVUJTZWx1SEZGYjNvVXRuRQ?oc=5",
+      "source": "한국일보",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "[AI는 지금] 젠슨 황 퇴진에 中 반도체 규제 탄력…오픈AI도 가세",
+      "summary": "[AI는 지금] 젠슨 황 퇴진에 中 반도체 규제 탄력…오픈AI도 가세 지디넷코리아",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xRXpST1pDdlMxYzlTNmh1enRnWVhpNVl3amZDYjM0bWUxQzcwdWRhUTh5YmNmeThhcHo3US1RVnpoRV82UjBtSzVOdXJ6Z3RwQzVjSl9n?oc=5",
+      "source": "지디넷코리아",
+      "category": "산업·섹터",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "中 AI기업들 '美 규제 확대될라' 엔비디아칩 확보 총력전",
+      "summary": "中 AI기업들 '美 규제 확대될라' 엔비디아칩 확보 총력전 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04b2EtNlM2Wkl2SnlvQ21BclFmVnU1NTh1QnBSVkR2bXFzdkhLSXFaTml6NFFWQzBrRmR6SEc0WUdpNmR3MGFMSTNHNXdqcGxONnF2VUVKc1BVTjhqeUJpRdIBYEFVX3lxTE04b2EtNlM2Wkl2SnlvQ21BclFmVnU1NTh1QnBSVkR2bXFzdkhLSXFaTml6NFFWQzBrRmR6SEc0WUdpNmR3MGFMSTNHNXdqcGxONnF2VUVKc1BVTjhqeUJpRQ?oc=5",
+      "source": "연합뉴스",
+      "category": "산업·섹터",
+      "market": "국내",
       "pubDate": "2026-11-13"
     },
     {
@@ -41,237 +185,93 @@
       "pubDate": "2026-11-13"
     },
     {
-      "title": "[N2 포커스] 美 중간선거발 AI 규제 공포 진정…코스피, 반도체 앞세워 급락분 만회",
-      "summary": "[N2 포커스] 美 중간선거발 AI 규제 공포 진정…코스피, 반도체 앞세워 급락분 만회 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0a3FsOXc1bUJHQndXQXJ3MmV5LUltdElOZ0RMeVg5OThzbXRNa25mTS1FZWVmend0OFJYVTJVa2VfZWN2WlZkczBndUZKTWFNQmhRRWhQM05DYWk0aUE?oc=5",
-      "source": "뉴스투데이",
+      "title": "미국의 대 중국 칩 규제와 반도체 독주 시대의 균열 예고",
+      "summary": "미국의 대 중국 칩 규제와 반도체 독주 시대의 균열 예고 금융소비자뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BelAwWHNWbVNSYU81TV9IdHpFeVotcFBlSjc0YzZReUdSaVhtV2swOHBCY0pwbDc0ajBiclBabmp6ZFVRZktSa0pNOERjeTFIVFMyb1J0TGktSE55SDV3ZVRaY2NRd1paSFE?oc=5",
+      "source": "금융소비자뉴스",
       "category": "산업·섹터",
       "market": "국내",
       "pubDate": "2026-11-13"
     },
     {
-      "title": "[금융 직썰] 700선 탈환한 코스닥, 반등 동력은 ‘수급·거래대금’에 달렸다",
-      "summary": "[금융 직썰] 700선 탈환한 코스닥, 반등 동력은 ‘수급·거래대금’에 달렸다 직썰",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RSXVlelMySWVCMWlwb3N1UjBxZmVMbDhoVVM1Q1lLaGRVaV9ScjEwNXB3bFo4T2ZTZDFqWDdsUVhyNGM5Sl94Z2RyaGVKUXExd2hxSko5REs1U19DU2xmajNScUNMcXFJ?oc=5",
-      "source": "직썰",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "'젠슨 황' 악재에도 반도체 수급 견조…\"5500선 돌파 시도 이어질 것\"",
-      "summary": "'젠슨 황' 악재에도 반도체 수급 견조…\"5500선 돌파 시도 이어질 것\" 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5reTBHWWNteXFLSHhzTWl2SG12WElLOW96bXlZVTJyeTZJUUY0bHZ2N2xsLVlKR1dUMnVqdFBVb0x2WWtNZldmQXNmUDBSaGZYemZhNExXTHNiY0MtNFRCZDB3SG9wZzhvWGc3U3RUREM4Q19BeExLVdIBeEFVX3lxTE5reTBHWWNteXFLSHhzTWl2SG12WElLOW96bXlZVTJyeTZJUUY0bHZ2N2xsLVlKR1dUMnVqdFBVb0x2WWtNZldmQXNmUDBSaGZYemZhNExXTHNiY0MtNFRCZDB3SG9wZzhvWGc3U3RUREM4Q19BeExLVQ?oc=5",
-      "source": "뉴시스",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조세 출발",
-      "summary": "뉴욕증시, 젠슨 황 엔비디아 CEO 사임 속 혼조세 출발 KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hVFZEcTdVUzFQZ3lKTmktRWdmaW83VVd6UFJQY2NYU2tYMjVDVUN1aWZ2NExVcnpLSUU2M2ZzV1FuYnA2LU9wYjhuR0p4WkZjVE1DaW1nY2IzTk0?oc=5",
-      "source": "KBS 뉴스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "엔비디아, 뉴욕 증시서 13% 급락 출발",
-      "summary": "엔비디아, 뉴욕 증시서 13% 급락 출발 연합뉴스TV",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiZUE2N3Q2THpPcC15amEyc2diRWlJUHdGbC0zcjBhdm9OeHZqVUZuSkF6M19ybHp6T05XaTlaWE1DeklsMkk3SlgyMHRQRGVzcGg3Z3M4azhudVZRaV9SQ1dEU19fZWs?oc=5",
-      "source": "연합뉴스TV",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "[월가 레이더] 엔비디아 황 CEO 전격 사임에 5.5% 급락…나스닥 0.5%↓",
-      "summary": "[월가 레이더] 엔비디아 황 CEO 전격 사임에 5.5% 급락…나스닥 0.5%↓ 포커스온경제",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xOGxDYlUyMzV1VEwyWDVHcVR6UUxrU182VmVHOUpIOEZhQ0JjeHpkSkNRS0hXM3A2VkVyVUt1SmxUY2xySHZHdnlTbjhBaklXRUs5dkZodTV3WjJoUHc?oc=5",
-      "source": "포커스온경제",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "뉴욕증시, 상승세로 전환…나스닥 0.46%↑",
-      "summary": "뉴욕증시, 상승세로 전환…나스닥 0.46%↑ 블루밍비트",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qb3hLUTVQalRlSnZXRW1LRXRCZjZxRTVkc2NZNDhzc2FCY2FpNFdDSmRMZ3BDN3ktRl90aEQyUEF6OWNZc3hoUEhQVWdDUmxt?oc=5",
-      "source": "블루밍비트",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "증권사 빅5, 올 누적순익 8.5조 육박 - 머니투데이",
-      "summary": "증권사 빅5, 올 누적순익 8.5조 육박 - 머니투데이 머니투데이",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZekpWa2p5ak55VVdaOXZ5dThkLWhkandaOW5oQ0dTTzAwUUdQNnh6YUVXVENtb0xGUmVzWGNmdHA3eV8ybHpoeF9GM0xrb0NZVjAwYXl4S3E2WUNSc1lNWnl5SS10R3k40gFuQVVfeXFMT0hZSlRaeFlOUm5uS21jcWZ6aFJSRl9iZDE3ZDJGT2FiNy1uOFkzR18wOVZEaWpGN2o3ZWVMcDFYVWpCRzBvbUxvNEg0NGZCOGdULTdUS3lQYmhzbkhscmlmLXItbDB0eDlnNTZ5RGc?oc=5",
-      "source": "머니투데이",
-      "category": "실적·공시",
+      "title": "지정학 전략가 \"비트코인, 달러와 위안화 사이 제3의 길\"",
+      "summary": "지정학 전략가 \"비트코인, 달러와 위안화 사이 제3의 길\" 디지털투데이",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KdlNnYXhYdnVGczVnOWhkZ212TVh6Ql9aXzRnM2N6VXEta0lZWDU4bE44RXBfbTRGMWkxcmwzT2FLS3Z1bDh4bXlZanRaM0dFM1dKbkdNSzU4ZWFmcGJyd0lCeTdkMW12NHF5SlZNbUxRbmM?oc=5",
+      "source": "디지털투데이",
+      "category": "정세·지정학",
       "market": "글로벌",
       "pubDate": "2026-11-13"
     },
     {
-      "title": "[사설] \"왜 차값이 비싸냐\"는 현대차 노조, 정말 회사 걱정 안되나",
-      "summary": "[사설] \"왜 차값이 비싸냐\"는 현대차 노조, 정말 회사 걱정 안되나 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZTBwYjJyYjNUUUs4YzdQS2QyZXpjZVFzZzZxczFBOGVSYjNWVG1jQ3lVaThJa01SREV0bk5pRlBUaUFXdUNfZVl2TzdOaU9PRndjeEE3cGMxd2E2dlJhclhMelBXMGFvblZ1aEFsTWhtbFhoeXJsb3d4cFRndEJ0M1g2anhCUQ?oc=5",
-      "source": "조선일보",
-      "category": "개별기업",
+      "title": "[증시 포인트] 제한적 흐름 예상...외국인 수급이 관건",
+      "summary": "[증시 포인트] 제한적 흐름 예상...외국인 수급이 관건 오피니언뉴스",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sZUpYTlk3YWhqRU1CTzZ3UE9GWGxVSUYxMVJkVllkeGNQT0ZlM05PX1RYeDAzNWgyYkhEellDOS1sUzFuejZ5dUNUV0lTOVBOVkpDaE0xZHk4b3V5eVZRb3dfOUhwVXZQUGg4SVh3OUhWUQ?oc=5",
+      "source": "오피니언뉴스",
+      "category": "시장흐름",
       "market": "국내",
       "pubDate": "2026-11-13"
     },
     {
-      "title": "中, 로봇개 물량 공세… 현대차·삼성은 기술 차별화로 틈새 공략",
-      "summary": "中, 로봇개 물량 공세… 현대차·삼성은 기술 차별화로 틈새 공략 서울신문",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrZkFqWGszY2ZsTzlvZF83ZzZYTmpORVNGeDNlN3phVkQzLTB4MUpsXzNKR2JnRmtfWDZxS29INHctNEdnLTh3WU11b3g0UmxXcDNPS1NaaURXN1dZbEN4R0N5Qlc1a1V5emRMdVhiaHc0MXdFMnlNQTMwOA?oc=5",
-      "source": "서울신문",
-      "category": "개별기업",
+      "title": "코스피, ‘젠슨 황 사태’·유가 상승 속 방향 탐색…외국인 수급 주목",
+      "summary": "코스피, ‘젠슨 황 사태’·유가 상승 속 방향 탐색…외국인 수급 주목 강원도민일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KQ292aDNlWnplcTJBUTVZS05MZ3hWLVlKRnR3TEd1Skd1MkhYNmdjNkhzb3NEc29BMlZvY3dSb3RSdmpDV0JPOXJaaHdwMmdNY1hEZzVtQmJDaWNyXzFBZzFFMGVlOTg?oc=5",
+      "source": "강원도민일보",
+      "category": "시장흐름",
       "market": "국내",
       "pubDate": "2026-11-13"
     },
     {
-      "title": "현대차, 소아암 환아 후원금 전달… 전-현직 카마스터 91명 동참",
-      "summary": "현대차, 소아암 환아 후원금 전달… 전-현직 카마스터 91명 동참 동아일보",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1ZM3VwUXdvU05PTHlZaVowdmdaV01iamRSMXpaZjQ5VTZKeXRBTktLX2JWc2J2akpVZERuekRoSHVLeWVZQnRWTU1BNmsxaTlGTUdjZlFZTU1YaHQ0Zm1ZQnJQNEJvd9IBZkFVX3lxTE1ZM3VwUXdvU05PTHlZaVowdmdaV01iamRSMXpaZjQ5VTZKeXRBTktLX2JWc2J2akpVZERuekRoSHVLeWVZQnRWTU1BNmsxaTlGTUdjZlFZTU1YaHQ0Zm1ZQnJQNEJvdw?oc=5",
-      "source": "동아일보",
-      "category": "개별기업",
+      "title": "'젠슨 황 사임'에도 선방...코스피, 2%대 상승 개장",
+      "summary": "'젠슨 황 사임'에도 선방...코스피, 2%대 상승 개장 YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nVFAybjJ5eGRpcU9IQmYxZkRzSlpMRlFvZGhpODZaam9lRHRlTDJJLUhHOTF4TXhkelU3VnF5bmRlUFFqUlRiM0VibEFROFo1MHdVaVBfRTI1dFN6T2c?oc=5",
+      "source": "YTN",
+      "category": "시장흐름",
       "market": "국내",
       "pubDate": "2026-11-13"
     },
     {
-      "title": "[IT는 지금] 카카오, 홍콩·싱가포르서 해외 IR…글로벌 투자자와 인적분할 공감대 넓힌다 外 : 네이버 블로그",
-      "summary": "[IT는 지금] 카카오, 홍콩·싱가포르서 해외 IR…글로벌 투자자와 인적분할 공감대 넓힌다 外 : 네이버 블로그 Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTWMyT0RhdHoxNlY2eE5RRm42V20yTDlMNzVMcDR6X0NUMG9vMkJlM2NpbTlBSkZ5NElXZVREZWY1OHJaYng2QVE2RjVlWUI1RS1FTzhFU0RvNlotbk15TVB1Y3JKaTNfVUZLalRzeEpwY1FFN3lURGlrMmVXUk10ZkowaG9qSFFlRmRxelRISQ?oc=5",
-      "source": "Naver Blog",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "카카오 버터 시장 2035년 전망: 프리미엄 초콜릿과 클린 라벨 화장품이 성장 견인 - 뉴스 및 통계",
-      "summary": "카카오 버터 시장 2035년 전망: 프리미엄 초콜릿과 클린 라벨 화장품이 성장 견인 - 뉴스 및 통계 IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaERFQnZ3aUxETjl4a2NSOUhzNWFiVEhQdjdiUk5udnI3OUp4Z0RiQW1nbUNIT3FZbDZIQTFDcTdSWGNXenB6a3gycXBSdDhWZmVUMFhKNlVqcEo1OFhscFhfUkt1UVA3czhJbTcxZ2dUSl9ERjdBR1ZBMmJXNDA5WEhUQnIxMTNoN1N5emprQ3QwUmM2a0lucXpQLUdnSVdVOGRoSmVUckFwMjFTY0tEMWE5ckRzcW1WWWJHT2ZEQUEtLVJNWXppWF9sbWlNNVhDdDZ3?oc=5",
-      "source": "IndexBox",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "현대자동차, 전·현직 카마스터와 함께 소아암 환아에 후원금 전달 - '현대 호드 온 휠스 매칭그랜트 기부금 전달식' 진행, 초록우산에 총 6,212만 원 전달",
-      "summary": "현대자동차, 전·현직 카마스터와 함께 소아암 환아에 후원금 전달 - '현대 호드 온 휠스 매칭그랜트 기부금 전달식' 진행, 초록우산에 총 6,212만 원 전달 Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNEZEZ1htOFE1cXI0eU5aUjRKbHkxQXhGOExOVmNOOERiTlpCeFJuaWpNRDk4b1RaWEpXWTBGWmhsWXpWOUJqMHl5NDdVX0V5S0x0WFJld05CS01wTnkyWUwyZHo4QmZiVlBoME9sYnhYUUNuUHFhbjI3MzJ3RVFxQTBMYXMyOFUxYmI0c1Zaaw?oc=5",
-      "source": "Naver Blog",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "제네시스 GV60 마그마, 독일 '2026 골든 스티어링 휠 어워드' 수상 - '어퍼 미드사이즈 클래스' 부문 수상",
-      "summary": "제네시스 GV60 마그마, 독일 '2026 골든 스티어링 휠 어워드' 수상 - '어퍼 미드사이즈 클래스' 부문 수상 Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMlVIaExkcEdiSEx1d3d0MzRGNkQ2LWc3NktqRy11TC1kZXFqMzc4MzdQaTYzNno4cWZPYmVCQkdWRHI0MEdtQkhhNmVvYjluVTV3RGdMREg1S2RvNVM0VzlMQnpkTnI1RU9rX25Rbno2RWRiRzR0MVpyQXR0Y2hyZExJOUxyd3lHZDg5d0Vvcw?oc=5",
-      "source": "Naver Blog",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "가상 캐릭터에 지갑 여는 이용자들…AI 친구로 커지는 엔터 시장 : 네이버 블로그",
-      "summary": "가상 캐릭터에 지갑 여는 이용자들…AI 친구로 커지는 엔터 시장 : 네이버 블로그 Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnN2Wl9GUzRraEVCa1JIY3E4dGR0RHhyQnJISU01Y2o4SXhPNlF3R3c2MnNsYU9FZlBwOHA3bEhVdjd4NmptWkgzWFM1Mm9oenc5S2ItdEY0WWRtWFV6RmdaUm9LLUtJRWU1SVVENnZrTUV3VzRwSl9YTUQzeW8tZW1PZHZBZGEyV3RlUkJEbw?oc=5",
-      "source": "Naver Blog",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "앤트로픽 IPO에 K반도체 촉각…AI 투자 여력 시험대 : 네이버 블로그",
-      "summary": "앤트로픽 IPO에 K반도체 촉각…AI 투자 여력 시험대 : 네이버 블로그 Naver Blog",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc1NLdWlZNnBLU0cyN2hXbE5BMDFrN0ZrWXhaOC1DSGxfYmRib2xNdmFwVnIzZElYQUFpTk1pRHczeG9VdU5MNnRlLXNyaWs2VFZVYVBUZmxlWTNXRjl3NUlEcXgyaXBFSDlaYUZubFBrcGJPWkdqNGtfblJqak9VcTIzMG1rMGNpeXlGMDJmcw?oc=5",
-      "source": "Naver Blog",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "삼성전자 갤럭시 무선충전 특허 분쟁, 4년 공방 끝 법정 밖에서 종결",
-      "summary": "삼성전자 갤럭시 무선충전 특허 분쟁, 4년 공방 끝 법정 밖에서 종결 글로벌이코노믹",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXlCVkF1U1Y5bDdfZUZlVTN5ZFBpb3UxMGRsZ1N3VkdSaUR1bVdwTXZvNDU2c3BJdUlpOGRZNVB6OGlUNndDdE53T2dobVZNcEpDb0dKcFFqRzVuVUhLdjBQb2ZSREZlenJxdXBzMldYOERSa29yaDk3djlTT29GdVB3S0pXcUU?oc=5",
-      "source": "글로벌이코노믹",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "혼수 가전·결혼 준비 혜택 한곳에… 삼성전자 ‘맞춤형 웨딩 솔루션’",
-      "summary": "혼수 가전·결혼 준비 혜택 한곳에… 삼성전자 ‘맞춤형 웨딩 솔루션’ 조선일보",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbUp4dV9zbUktWndJVHhJOElnV24wMlVTN2tLOTJadWNMVnJPX0FOWmdDQTNQMFZjV0Fqc3d4Q2RQZFpHeTg3MlQxTGdENzdqdlRwdlQyYWZIVzd6eWhGNDNiS3dEQXhQZ0libkMyNXZSYkRWU0xMcy1ybF9hUk9hRUNKbmZJUjBKRngzVVZR?oc=5",
-      "source": "조선일보",
-      "category": "개별기업",
-      "market": "국내",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "인컴 오퍼튜니티 리얼티 인베스터스, 3분기 순이익 87만 8000달러…전년比 14.8% 감소",
-      "summary": "인컴 오퍼튜니티 리얼티 인베스터스, 3분기 순이익 87만 8000달러…전년比 14.8% 감소 데이터투자",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1TOXNZc0pnWnZIcXcxRXhFM2h0WHgxbWxMZ3c4czRUSDNoVVdmRjBvNHhqbUtncVIzUlpuS0pyS2ZHVVk3cE9PRmtrN010ZnY2RFNEVzJFS1UyLW0yRjBkUll0SlNOWGZhcXZVNTNtLU1WLTA?oc=5",
-      "source": "데이터투자",
-      "category": "개별기업",
-      "market": "미국",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "A $1,500,000 Portfolio in Clorox, Kimberly-Clark and PepsiCo Pays $67,627 a Year in Dividends. Here’s What Happens if One Cuts",
-      "summary": "A $1,500,000 Portfolio in Clorox, Kimberly-Clark and PepsiCo Pays $67,627 a Year in Dividends. Here’s What Happens if One Cuts TIKR.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVTl4VnpDeTF4QkVmclVRV1lMLTVMbkVGUDlhdUhmZkF4elZnZVpQcXFaQWhnZ0RWYm5YVU9RX3JLOGlFeFpfRS1jTUtJaEQ1dGpJY0c5MGEzWHk3dVNVZkJocGlRZ29zbUZkZTc5SHU3T2JuM0FNbXpOTWdCbmFQNXNoNGxiQk1SbHdjX2h3X2JLSFZqX3BiRkdWOWJOOVAyZXdsZlY3YTBTbFdOZkh4d0czX1g2NHl3VHNzUE1zbjJrWTBUcmdXaGVhY0ZTeEMyTGFPcnhwVnpTTDM3TlphUjdR?oc=5",
-      "source": "TIKR.com",
-      "category": "개별기업",
-      "market": "미국",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "알파벳 A 주가, 오늘 왜 급등하나? By Investing.com",
-      "summary": "알파벳 A 주가, 오늘 왜 급등하나? By Investing.com Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBvWlh2Z0FFZkRsMlBTcVRHTlRVSlAwOUNTbURXclU3bFJpLWQxZlpkWm9jNS1qd1JTdm9RS3dSQlNWLWZNUktucjB5RmpxTlYyQlBmc1lxdFdMRDJZWlpHdEdZaFFKYjc1ZkM1V3A3SVNtRHFZNlFR?oc=5",
-      "source": "Investing.com 한국어",
-      "category": "개별기업",
-      "market": "미국",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "트럼프 “젠슨 황 자리 이을 사람은 한 명뿐, 애플의 팀 쿡”",
-      "summary": "트럼프 “젠슨 황 자리 이을 사람은 한 명뿐, 애플의 팀 쿡” Chosunbiz",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSmlQcklzN3VRTEdMcEsyMzBZMGs3YXJvNVRrVnRCYnp0UkgwaVlSMkhzS3RYRTJRajVNRVdqYnpMYVMxTjB1Y2RHYTZqLVVfS29lcTdHam5nQnI2Z0QtUm9Qa0tHSUNtQkgxQzE3QWdlNlhXbGlvZ3Bic01DbmxYOW9HWW5MTUlDejl2aGg5RHZxMWN4dW5tQmdLVjFqZ9IBsgFBVV95cUxQS2xXY1V1eThiUkF0Tm4tc25LZkgzWWdtVEh5YkhmTTRZTExxTVNjdFdZSnQzWDFOeWlBaU9NX192T2FfcEN3VzhqUUI3M05ObTd2UlBpWW02ZzBUUHhYdzFFVDJNYjVXc2p5enE4c2ZpZ3UtVm5ZWmVNekRUYzdydE1nUlQ4N3YwVGFNZ3JMcXpqVUN5ZXRGenpIcTY2S2htZlVidXd1SW5HemJpQVd0V2Fn?oc=5",
-      "source": "Chosunbiz",
-      "category": "개별기업",
-      "market": "미국",
-      "pubDate": "2026-11-13"
-    },
-    {
-      "title": "트럼프, 젠슨황 퇴진에 \"그 자리 이어받을 사람은 애플 팀 쿡\"",
-      "summary": "트럼프, 젠슨황 퇴진에 \"그 자리 이어받을 사람은 애플 팀 쿡\" 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8wMVBXN2lmcElINmZJOWlJaDJ5am5LMjMzeW92Y2R4YXN6bVhPaXpLMkRsQ1ltTkFxd01fOVJfSTNEZHhuX2VHUE4tN1RwREdOOEh4YjNkZDN1cTDSAWBBVV95cUxPUWdUS2ZqeVBaY1cwR2JTNWdaU05nblNrYmR4SGdsdUhpcmtuLXVfMGM5YmpwRlBabjBvOVBEbGY1dUF4cmotYTlWWHZJVnJBY0dsRXAzSWZzaV9RZENGMnk?oc=5",
+      "title": "[마켓뷰] '젠슨 황 퇴진' 파장 어디까지? 코스피 영향 주시",
+      "summary": "[마켓뷰] '젠슨 황 퇴진' 파장 어디까지? 코스피 영향 주시 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SU1ZWVkxNWkJfQVFiZDRwMVJST2FRSWQ5NHhJVWJDMHpmMjNkQmZuQ01JNXZKUXlMbDgxZHdkLU50MnRMM2ZmWWpTYnN0TGdFQnd1bUFxZWZTVmxBWTYzX9IBYEFVX3lxTE9SU1ZWVkxNWkJfQVFiZDRwMVJST2FRSWQ5NHhJVWJDMHpmMjNkQmZuQ01JNXZKUXlMbDgxZHdkLU50MnRMM2ZmWWpTYnN0TGdFQnd1bUFxZWZTVmxBWTYzXw?oc=5",
       "source": "연합뉴스",
-      "category": "개별기업",
-      "market": "미국",
+      "category": "시장흐름",
+      "market": "국내",
       "pubDate": "2026-11-13"
     },
     {
-      "title": "트럼프 “젠슨 황 자리 이을 단 한 사람, 애플 ‘팀 쿡’뿐”",
-      "summary": "트럼프 “젠슨 황 자리 이을 단 한 사람, 애플 ‘팀 쿡’뿐” KBS 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1XcVR1RWJnVkRzRlF2RFd1NTYyZUdhYWI1OW5kLUxYbXhJcXJ1aGZBREtFZjhKTmR0R243UFU4NFM1Z21ZLUlPb2FRMzNUbmZjRXpPbG9ydGNhMlU?oc=5",
-      "source": "KBS 뉴스",
-      "category": "개별기업",
-      "market": "미국",
+      "title": "[장중수급포착] 아남전자, 외국인 8일 연속 순매수행진... 주가 +2.88%",
+      "summary": "[장중수급포착] 아남전자, 외국인 8일 연속 순매수행진... 주가 +2.88% 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zejgySUNGUk9fQzdhNVEyMTYxLXJFOXgwTmxkS2NjejJRajR5TmFmVUpjR3FvQUNDaDAwX2JEcmNBOC1kVW5lMk9VR0Fja2dfM3IyMnpheGxDYkha?oc=5",
+      "source": "뉴스핌",
+      "category": "시장흐름",
+      "market": "국내",
       "pubDate": "2026-11-13"
     },
     {
-      "title": "트럼프 “젠슨황 자리, 애플 팀쿡이 이어받아야”…엔비디아 새CEO 추천",
-      "summary": "트럼프 “젠슨황 자리, 애플 팀쿡이 이어받아야”…엔비디아 새CEO 추천 서울신문",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RUktweVpkY2JlWkk0czNpVEVQTXl3dUNndkVLYnA3OHV4Y05ra3BEZGpZVndZOVJZaE9PSkR0ZUh3dnFabklzdkVGQzA3eWZuXzVYdFY5aENuU2NQQ1pxWHlQd054cWRWM0xQc3lVS0Q1a01UVzVn?oc=5",
-      "source": "서울신문",
-      "category": "개별기업",
-      "market": "미국",
+      "title": "코스피 5,300선 과매도에도 매수 신중론…美 국채금리 급등·엔비디아 CEO 교체 변수",
+      "summary": "코스피 5,300선 과매도에도 매수 신중론…美 국채금리 급등·엔비디아 CEO 교체 변수 시사프리즘",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wOTlDNkh5Tnh0bzIxVGRuM0NSZS1YV3UzbGRUeDB3NU5aYVpLM1paNVMwYUxWZ1ROM1pjbDdhZXAteWJMeHM4UUM5cDFXWWNXeG80WDlCU2xaeXdOc3VrRjF1RDd4a0JK?oc=5",
+      "source": "시사프리즘",
+      "category": "시장흐름",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "젠슨 황 퇴진·유가 급등…코스피, 외국인 수급 주목",
+      "summary": "젠슨 황 퇴진·유가 급등…코스피, 외국인 수급 주목 경북매일",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QeHBKZV82amt5aHBMdldFZHE5aEJldGJjdEFVMnQ0QU5HbUhlUzQwSGgtaFk3VnJDMlJITldaYzRIcGw0aFVmbE1sNVdFdkY1ZnVMMWRLUWU1Zw?oc=5",
+      "source": "경북매일",
+      "category": "시장흐름",
+      "market": "국내",
+      "pubDate": "2026-11-13"
+    },
+    {
+      "title": "젠슨 황 사임 여파 속에...코스피, 삼전닉스와 외국인 수급 '변수'",
+      "summary": "젠슨 황 사임 여파 속에...코스피, 삼전닉스와 외국인 수급 '변수' 청년일보",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sUy1pSjRrZWdFajQ3OXZqZXpJM1RITl9tZlVXbGtzdTctT1dEb01JLUxjMnlZM3oxWGZyVlpSa3lBMWJxOXFhbmxZanlqaWZ0cWxxN0R2MVlzUTFQRW5UcVFNaTVna1E?oc=5",
+      "source": "청년일보",
+      "category": "시장흐름",
+      "market": "국내",
       "pubDate": "2026-11-13"
     }
   ]
