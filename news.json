@@ -1,14 +1,257 @@
 {
-  "lastUpdated": "2026-11-20 11:48 KST",
+  "lastUpdated": "2026-11-21 05:49 KST",
   "itemCount": 30,
   "feedOk": 20,
   "feedFail": 0,
   "items": [
     {
-      "title": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\"",
-      "summary": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\" 뉴스투데이",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gcmg3enlocGJOX0JGeUJUaklxb09mZEtRemRaOXRrV3VDRTVMeTFlRmFGangzVXMwS0dXaEdTNzdYRHlwaUNobkplNlZBLUFVMmdYYlg2RUJyakpCZHc?oc=5",
-      "source": "뉴스투데이",
+      "title": "美연준 이사, 금리 추가 인상 필요성 강조…트럼프는 \"금리 너무 높아\"",
+      "summary": "美연준 이사, 금리 추가 인상 필요성 강조…트럼프는 \"금리 너무 높아\" 연합뉴스TV",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xNUtpQmJIeG11UkRUWDh1bHA2aDhYRkxFUlNqby1VOXNsS3ZsZEpKRzAxbTJKNEN4TzBpbF9GYWdDTXFuMGlZZ0F5MTlxSXh1NXdjTW9pOU1wcXpTN3dzUFAyOXJlZ3c?oc=5",
+      "source": "연합뉴스TV",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "트럼프 \"금리가 너무 높은 건 정치적인 연준 탓\"",
+      "summary": "트럼프 \"금리가 너무 높은 건 정치적인 연준 탓\" YTN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qSmttUF9XZmM1Y21lWC1NWTZsVjJ0NVNPbTdUTHRxRVlTd1lyVnBqeV8zalE3TVNBSGRVX0gzNmdlQThtQ2JjNU8zQlFrNzFJSm8wSWtEVml2czBaRlE?oc=5",
+      "source": "YTN",
+      "category": "거시·통화정책",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "반등장에도 ‘하락 베팅’…외국인 공매도 16조원, SK하이닉스 잔고 42배",
+      "summary": "반등장에도 ‘하락 베팅’…외국인 공매도 16조원, SK하이닉스 잔고 42배 데일리25",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XdEs4Tko5VUFSdUxvdHcxX2FpZE02ZmpFY0ZadU1ieXNhOVAxVU11ejEyZ3F0c3EzLXphOE40eGZGcHM2bW1MMnowOHBCSDRLUWFqMHY0dzRHMHhBZnRxcWNkNndvd1NhV1QycQ?oc=5",
+      "source": "데일리25",
+      "category": "시장흐름",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "뉴욕증시, 기술주 투심 위축 속 혼조 출발 |",
+      "summary": "뉴욕증시, 기술주 투심 위축 속 혼조 출발 | 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jNGI5XzJLdkdnbDJzR1NBSXJGLTRvbXlkQTV6YWRQdHdvbkR6TklNWnJGMkxEaElMbXpUTlhxOTVJbjRWT2hoZURhOXVsWk5ib2ljeWItOGZWWVlCN1ZLejVZbTE0OWp3SEp4VjVER0l5c0Jy?oc=5",
+      "source": "연합인포맥스",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "나스닥종합지수 급락에 투자자들, 기술주 대신 채권으로 이동",
+      "summary": "나스닥종합지수 급락에 투자자들, 기술주 대신 채권으로 이동 Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA2a0p6cENWaGZuVjlyZnlubUVySGIxa21oSlFLWVR2ZXRtUkJTcGl1M2hTN1E5Zjd1bklfN29RMWpyOWZsSVE5a2p1S2hJUFBienRYQVVNdGRidjlNUjRRLXIxLXR5RkYtTWhYelN1UFExUF9tOUE4?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "[속보] 나스닥지수, 장중 낙폭 3%대로 확대",
+      "summary": "[속보] 나스닥지수, 장중 낙폭 3%대로 확대 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tRGVvclQwTjZWSjU2dTRQd19NbC1sMDIyWlh3Q2E0dW8wd1h0Sm5vUkhaSkhjWDhrVkJTcEdUV0s0R3VSR1FVN0M1XzZLeWE1NjY1Y3J1NnpvcHlK?oc=5",
+      "source": "뉴스핌",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "'AI주 투매 지속' 뉴욕증시 혼조…다우 0.9%↑·나스닥 0.8%↓",
+      "summary": "'AI주 투매 지속' 뉴욕증시 혼조…다우 0.9%↑·나스닥 0.8%↓ 뉴시안",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sdTBKc0h0dmE4M1ZfdUJ4c0lod0MwZXFFSHpnU1l6amJjdTA5WHRER0V4Y3BYZFo1UGRiaDdvU0pTRnNwSWxUNVdrQzhsUUk5Wnh1bjdqSDg3TlBIWVExZG5WZzBoVGZZMjRsTA?oc=5",
+      "source": "뉴시안",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조",
+      "summary": "뉴욕증시, 엔트로픽 9%·마이크론 6% 급락 출발… 기술주 투심 위축 속 혼조 www.dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WR2dPdmJ4dzJOSEItNXdYNTh0WnBqUUNES1Y4WFUyTHVEdElPaGUzZ1c3Z2JGeU1hTGZTM0xNanlLSEZhMDk1WGhnTzR2dw?oc=5",
+      "source": "www.dt.co.kr",
+      "category": "시장흐름",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "비상 걸린 현대차… 혁신 대신 ‘차 가격 인상’ 대응에 비판 거세",
+      "summary": "비상 걸린 현대차… 혁신 대신 ‘차 가격 인상’ 대응에 비판 거세 www.dt.co.kr",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zNndGT05TNndzbXlSdUdTNU9zcUxEVGtQaDV5bVJhel9HS2RjcHMyNW5fUXZMRXF5QWstZHpvS0hEVjZ5Qk1NeWpyU2Jxdw?oc=5",
+      "source": "www.dt.co.kr",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "현대차, LA오토쇼서 ‘디 올 뉴 아반떼’ 공개..플레오스 커넥트 탑재",
+      "summary": "현대차, LA오토쇼서 ‘디 올 뉴 아반떼’ 공개..플레오스 커넥트 탑재 데일리카",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53TVlOVEJ4MVJ3SWNIUzNmQVN5eEtBcXNGQ2tqUlY3d1M5XzRPX18zZ0preHAxakJkNnFFbGtHVy1uR1pBU05hNXV0Q2x1QXRDenhtUVV0dnhFN3MyVlU5SkZJTnVxcC04Y1Z4al9GaGN0UlE3Smc?oc=5",
+      "source": "데일리카",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "현대차 보스턴다이내믹스 활약에…DHL, 로봇 9000대 시대 'AI 통합관제' 본격화",
+      "summary": "현대차 보스턴다이내믹스 활약에…DHL, 로봇 9000대 시대 'AI 통합관제' 본격화 더구루",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE92c3B0YkpBbWNkN28zckRucmt4TWxmMjhPS3pCZmRmeWp1UVlabHpIVk1iNUlMSzByVVNVYWVRMndSZ2lPSFgydWhoQllEWlVkQmZCbjZRNWRrbGhIakVEVm1qTQ?oc=5",
+      "source": "더구루",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "현대차 ‘2026 LA 오토쇼’ G80 하이브리드 세계 최초 공개",
+      "summary": "현대차 ‘2026 LA 오토쇼’ G80 하이브리드 세계 최초 공개 교통뉴스",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DRXJnbFQtd01FSTZVOVQyT3hBVFFwS2EybUF5TFRlWHJ3UEJBUVkxMGI5WmxRWk13RFlObURyOXN5Zk1BUHVtQUw0NVRkcGxJY0pVWklCMU51bnl0UFJxQURCVXRPdldxWlpjbg?oc=5",
+      "source": "교통뉴스",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "SM 시세 조종 혐의 김범수 2심도 무죄…“카카오 성장 힘 보탤 것”",
+      "summary": "SM 시세 조종 혐의 김범수 2심도 무죄…“카카오 성장 힘 보탤 것” 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCR1JzY0dFd1B5VWxxMzlfcHNtU1JUcEhUaU1iVUpsX0tjM2hkaUhmOEpKbFdZOVpqdDRQMGlYbHk2Y2xBV3dRSDRNUnFDUkx6eVB4YXFR?oc=5",
+      "source": "중앙일보",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "'더 뉴 BMW X5' 의 사전 예약을 진행한다.",
+      "summary": "'더 뉴 BMW X5' 의 사전 예약을 진행한다. Naver Blog",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3Q1paQkV2bEZjTllKWEwySHJPU2JfZllXYWpaenhxR2NyamM3ZDBNbWRTWU9zTWROWTVEbjdNb01KdzVZMmlPNjdZQjlzRjNsNmFUR3hGNVhITGVyMUVBWGJSanpYWGZUSmtpZW4xTDlkVEJpU2E2cHlGNG4?oc=5",
+      "source": "Naver Blog",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "삼성전자, ‘70년대생 반도체 인재’ 전면배치… 사장 승진 3명 전원 DS 부문",
+      "summary": "삼성전자, ‘70년대생 반도체 인재’ 전면배치… 사장 승진 3명 전원 DS 부문 동아일보",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82emVCUkJ2Y0Y2YTl1aUc1LWxUUUJ6WGx5TmIwal9LdEF0VkdhY29QeGJjTS02a20zSlp2bnY0aFZCQ0ZiVTFfeDJFajlJQll0cTBKdlJWMW52Y1pROVZnMnlRYm1iUzd1V0wtVk9CX3pOZ2twU3fSAWZBVV95cUxPSEx4SWpSYnVSTGpqcnBhMGxTdG00WE5hcHM0RkxWa3FLTGYzejhkRWpEYnF1M2ZKdFd1S2NkZ19nSmQ2bi1aUXc0NlJzMkFXNGRwaV9hSmRTT0syOVNLMldVQk1qTnc?oc=5",
+      "source": "동아일보",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "“반도체 실적 주역 사장 승진·전면 배치”..삼성전자, 2027년 정기 사장단 인사 단행",
+      "summary": "“반도체 실적 주역 사장 승진·전면 배치”..삼성전자, 2027년 정기 사장단 인사 단행 데일리카",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yQXRVZzUyTE5wTENVOEIwNU5XR3l0Sk5BaFJ3TlBMTjhrUkFYMGxieHg4d0dsVWlraDBhMzd0UDA5dDNTOE1WWWRRbXE2LW1oeVhFTDNEY0JwZG5LNzlRNGxjRmJrZGd5cU0zWE9INmxlRW01MWc?oc=5",
+      "source": "데일리카",
+      "category": "개별기업",
+      "market": "국내",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "리얼티 인컴(O) 주가가 할인된 가격에 거래되고 있을 수 있다",
+      "summary": "리얼티 인컴(O) 주가가 할인된 가격에 거래되고 있을 수 있다 Simply Wall St",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV0ZNbGVkeTZDdTNKOGRtRER2S2Q1bkZNWWMyT0w2bEdUdHQ1WENsVzRWWTFSX3lqZTJ4ZGxhVVRGOXNkSF80QkFCQ2kyaHNoZEFOWUp6cG1pNTBUdEpkX3Y3dU1OVFhkYXZjMFZDZHBzQ3Vtd2ZYUWxzdGdFWEZVdk54SDVVZ093ejNGOUpTMmVwdmvSAZgBQVVfeXFMTmlEUlRZa0hzdzBOSHFGdU1BN0hmRWhha25hb3JlR3Exc1hSVmNObDlBX0d1dmpXNjlZaVdrenBjcEMyeXBrbUZ2UXRhMmpmbjVrOG5LVk1QMWNRRlFrOThqb2RiSjdzbERuem1qRnNFZWFlVWp6SDRuNk1qWTB1bzUxd3ZhdTJTdTNkOV9jeldSQ3RrVE4wV0U?oc=5",
+      "source": "Simply Wall St",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "엔비디아, AI 테마 투매에 '와르르'…알파벳에 밀려 시총 4위로",
+      "summary": "엔비디아, AI 테마 투매에 '와르르'…알파벳에 밀려 시총 4위로 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNZWVzWTZpYXRxWElLX2dqR3lGSXlWaGJzRnZzeEcwRkFIdXJZeWFsWkxSUlpKaWxYcmQ5b09vTTFnaTBFcHRveUFjby1DZkpwcGhOMWpwVkNSY3NHcEVlM3F1dGZmdWpmWndGazNtbTE?oc=5",
+      "source": "연합인포맥스",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "알파벳 A·알파벳 C 주가, 오늘 상승하는 이유는?",
+      "summary": "알파벳 A·알파벳 C 주가, 오늘 상승하는 이유는? Investing.com 한국어",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VdkFDajJxUUU2OS0yeFFDMl9LVXlFM1pIUXcteUd1b0MzeWZWZTU0S3h0cmdiSW0zaUxuV1BfSmwzQnNSeGY3NjZjSGIyZGNTeklZeWt4dHVsYVJFMGkwS3ZrMFVGNHhETThHcFhOc3FWVXk2U1pB?oc=5",
+      "source": "Investing.com 한국어",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "기술주 매도세, 회사채 시장도 덮쳤다…알파벳 부도 대비 비용 ‘사상 최고’｜Global Money Club",
+      "summary": "기술주 매도세, 회사채 시장도 덮쳤다…알파벳 부도 대비 비용 ‘사상 최고’｜Global Money Club 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VTVdVbDdZak9EaENLVjFLQkNqdk9MbjFWS1FGQ3V3TUpIVFlEU2owVVp6bHcyTTNpMkd2RWJSTFVFd01HbVNhNWQ2Z2prdW1uNmh6WXNXYWdnckU?oc=5",
+      "source": "중앙일보",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "앤트로픽도 쓸어간 AI 퍼펙트 스톰…애플 참전에 AI 경쟁 격화[박신영의 개장전 요것만]",
+      "summary": "앤트로픽도 쓸어간 AI 퍼펙트 스톰…애플 참전에 AI 경쟁 격화[박신영의 개장전 요것만] 한국경제",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1NOUFQaUthQ2dHdmNpWUZyVkN1NGJDdURFR056N2NZRnR2QUkwOV9VQmVoV0pFQkZUeG5WY0RPVG5vc1FKOVpnc2ZLcTM1ZVpJZDlxRjl2YzhiQQ?oc=5",
+      "source": "한국경제",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "에픽 팀 스위니 \"애플이 잡스를 해고한 수준\"... 젠슨 황 돌아올까",
+      "summary": "에픽 팀 스위니 \"애플이 잡스를 해고한 수준\"... 젠슨 황 돌아올까 게임와이",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0tZm1qd09STzRHeDhpUG0ydy13QWVUTWdQTFpwMDNMT0tfZGs3RjhhMGVWR0Z4a1gySVVJakdsMm5XNVg2SVFnUEo2eExlUzEyemNzaGNmNWtKSG9tY0VGZTdsUmpndw?oc=5",
+      "source": "게임와이",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "트럼프 \"젠슨 황, 사과하고 엔비디아에 복귀하길…두 번째 기회 줘야\"",
+      "summary": "트럼프 \"젠슨 황, 사과하고 엔비디아에 복귀하길…두 번째 기회 줘야\" 연합인포맥스",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGSzZ0OFpmQ0hpSUxnZkpKSWhwZUt4T3lCaW5sU3pWNUxsa2FxNXN6MmVDXzBfUkJfMTlZV1VRY2V5SXlTU2NQMGxmOEc4eTBBMUlxekV2YXZ0aC0yNDhzYVlVQ3J0MVZFNXZRYW4zYU0?oc=5",
+      "source": "연합인포맥스",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "美재무 \"'엔비디아 H200 中 판매 허용' 정책 변화 없어\"",
+      "summary": "美재무 \"'엔비디아 H200 中 판매 허용' 정책 변화 없어\" 연합뉴스",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MZFduemJabTNKX1hrdXZLbnRYTnZHNjhxcU10VXRfZVRqSDViT3N5LXZfR0M0TjFHNURKT0xHeWlCa1RRUEJ3dnh5empoZTVqWVVRZFBIYnh0dXfSAWBBVV95cUxPWFliTllWbUpiczdBZnE5a0JHRjF5dnAzcUhOTzBreHBiLVBjdzlaZi0wa2pMT3o4RHBIN1V6VzBUMzFpVmFESmlYeG1ERXBfRG5wbWlTZ1diRlo0eGZzVzM?oc=5",
+      "source": "연합뉴스",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "삼전 7만, 하닉 20만원 전망한 전문가…\"엔비디아, 장기적으로 경쟁력 없어\"",
+      "summary": "삼전 7만, 하닉 20만원 전망한 전문가…\"엔비디아, 장기적으로 경쟁력 없어\" 뉴시스",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3SXdZd0VoalFzbFNDaTY0enNNTnpPNzhxRHA4amUwNi1NQWFYWDJNVEU4alRVcFJraHg5Y2lpOERIOWN4RFRvQVMxbVQ0OGNaVnlYR0FGbWFnai1obDlvZNIBeEFVX3lxTE9qUEg2dFJEb2pTN1B2Qi13RTk3ajdFVW05RzN2VDM2SDBhT3hPOTUtdzlhZDlZVGt5bjdtNXo5ZXFoTGFkeUlYcm1jRk5MN2RVeUFNeWJvSXVfRllvbFl0d2wtMWpwVDNhQVlTRW5EcTBFTWlKYWVYMw?oc=5",
+      "source": "뉴시스",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "트럼프 \"젠슨 황, 사과하고 엔비디아로 돌아갔으면\"",
+      "summary": "트럼프 \"젠슨 황, 사과하고 엔비디아로 돌아갔으면\" 뉴스핌",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkNzdNaGpubDBrOTI4VGc5Mmp5U0hDcE5ySlN3cUhuNVlCVTM3OGpVQ3B0X25GNWFhd0FQQ2hVRHZEa3NLS0R6b3ZRdnRIVHQxcV9ETkR6RjBHVkdS?oc=5",
+      "source": "뉴스핌",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "엔비디아 13% 폭락…7주 연속 하락, 금융위기 이후 최장",
+      "summary": "엔비디아 13% 폭락…7주 연속 하락, 금융위기 이후 최장 이데일리",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY2ZrTmVFMUJ1THBMRDNkLTBDckFqTHhPVV90bFhvdFo2TVpBY3dzclRCbE9UVlpCZVZuQkJxYXA3b1Vvcm9ObU5Kb1N6aVpJUnY4eWdGd3hZZ2Vfc29RNkRWMkNzXzVGekJXcXV5b2w3WTZaal9RT0t0dXNuMC1CbQ?oc=5",
+      "source": "이데일리",
+      "category": "개별기업",
+      "market": "미국",
+      "pubDate": "2026-11-21"
+    },
+    {
+      "title": "11월 한은 금통위 이목…기준금리 인상에 '무게추'",
+      "summary": "11월 한은 금통위 이목…기준금리 인상에 '무게추' 뉴스드림",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMajNsVmcwSEkzRU1ZeWZ6OU9RMzRSOEpfempDbTZiUHFncHhIQmhkQkNCN3JlLUUtMVdVeVpaY0hnV3Zyb2pXV3ZsQUZOdDF2aWlyTUVSYU1ESUlvYWFkaVpSV09PU3d0S3c40gFuQVVfeXFMTUp2dkw4blNJR0k4cnBaQ0xncWV3Vk1sWl9JOHNJbm1MSFl2ZGlQc004N0xsMThmVFpubjI0WDYtVWZKdEIzSXBUQzNic2FHQTV3YzEtYWh4U1NrZ3NlN2luY0RsRkZCUW5DSnRYenc?oc=5",
+      "source": "뉴스드림",
       "category": "거시·통화정책",
       "market": "국내",
       "pubDate": "2026-11-20"
@@ -23,255 +266,12 @@
       "pubDate": "2026-11-20"
     },
     {
-      "title": "10월 생산자물가 0.1% 하락…사과 29.2%·돼지고기 12.8%↓",
-      "summary": "10월 생산자물가 0.1% 하락…사과 29.2%·돼지고기 12.8%↓ 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MSXlPTVNmelRFYVlqeDZDbGxwcVlLeWMzVy1FalNtem1WZmtyR1Q3MEdudWFfTThMOUtGdkVDWjROV1hoSmFqMktKY2l0RDdwUzNzakYxWjJjeFXSAWBBVV95cUxOQWYtVThabzhHaUU1S09jX0FnZW1lMXdjQWw3ZHVXcG9lWFhQeUM5cDNTVEhQSzRMbF8ybHZwajk5aVVTUUNVRkUtWmVqbHNzRUxRdURyWnUwRFJBTjlKVmc?oc=5",
-      "source": "연합뉴스",
+      "title": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\"",
+      "summary": "\"한은 기준금리, 내년 2월 3.5% 도달할 듯\" 뉴스투데이",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Gcmg3enlocGJOX0JGeUJUaklxb09mZEtRemRaOXRrV3VDRTVMeTFlRmFGangzVXMwS0dXaEdTNzdYRHlwaUNobkplNlZBLUFVMmdYYlg2RUJyakpCZHc?oc=5",
+      "source": "뉴스투데이",
       "category": "거시·통화정책",
       "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "한은 \"환율 10% 하락 시 가구당 생활비 연 16만 5천 원 절감\"",
-      "summary": "한은 \"환율 10% 하락 시 가구당 생활비 연 16만 5천 원 절감\" m.news.sbs.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1RVEVnSlJiOHV0ejhWYmFFRHQ2aHdEWEp0T0tHampFcC05VTZHeVcyODRqT1JfNHY4NDhVejh5MFI1MHFXU0NYMjR2VnM0eGt2dVIwNVd4NjV1VS04UGc3bEJ3RUJGRkdZNHJj?oc=5",
-      "source": "m.news.sbs.co.kr",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "10월 생산자물가 0.1% 하락…사과·돼지고기 가격 급락 영향",
-      "summary": "10월 생산자물가 0.1% 하락…사과·돼지고기 가격 급락 영향 서울경제TV",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kN0NlUldqTlVGa2F0RUpvRExWTHRJRlRwT045MnhEc1R1OVVTUC1RT2FjcnQwWGlDNDVjWDZ4RE1HcF9MeUZNQ1lRbFFXV0xnNERKR0VCUWZYNFdaVG5xT29ORmc?oc=5",
-      "source": "서울경제TV",
-      "category": "거시·통화정책",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "JP모건 \"美연준, 내년 3월까지 3연속 금리인상할 것\"",
-      "summary": "JP모건 \"美연준, 내년 3월까지 3연속 금리인상할 것\" 연합뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43OTdkc2F0ZGNHM2JjZlhQS0FQYUdIN0xXSi1BRThOQjF4a2pIR1lZY2w2LUUwRnBaQjNPQ3YwbFNYUFlaTjdKc2J3UjZlejNDSW8tT2JqSGd2c2_SAWBBVV95cUxQYVUyU3p0alN6MDVpRWpYaVBHYW9TZWRCbzVwSHFuZmVLTzlhTlNTNUp6UHlzNlM5WWZvUUFUa29sSDZqTDFUQ3BLVVFkRmk2Sl9yUDZKVTN0elZrVDdzbFU?oc=5",
-      "source": "연합뉴스",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\" |",
-      "summary": "JP모건 \"연준, 향후 3회 연속 25bp 금리인상 전망\" | 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zeWlmVTFERHZoUkpvN3RtUmFsckdJb3BScEg0ZlBrcENTcjR3S2xzXzF1ZnM0V0NiVXhEX2RMeXQtZ2hVLVBmUWJmRjNmUDNOWW1NVGZoZG10VjVuRW80YVpUSnFBdHNoUUxIMVpVWGUxdnZH?oc=5",
-      "source": "연합인포맥스",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "JP모건, 美 연준 내년까지 금리 3회 인상 전망",
-      "summary": "JP모건, 美 연준 내년까지 금리 3회 인상 전망 파이낸셜뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40ZlpQWHB6RUNmWlNmZVVXajl5QzhTVE9tbnk5QW1xajMyWXpqY3AzN3dKWGJrdDJCN01QRVkwME1vVVRPaXlaYnZTMElaVy1FR1Fpczl3ZjRUUQ?oc=5",
-      "source": "파이낸셜뉴스",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "연준 12월 금리인상 후 금값 오를까",
-      "summary": "연준 12월 금리인상 후 금값 오를까 BeInCrypto",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBFTjF1WlZMOFl1T3JVX0ROYVVKdVhQaThUbXB2S19FbThPS1NYUTd6UjRkQkgzZVdxNU5ycmt6QmVGUFBrdENvUENiOEx5V3hmcVNPQnNHZ1QzY0lFcWh1bFZlbm5mRU9BSm5FUTFEeXpiY00yaVNN?oc=5",
-      "source": "BeInCrypto",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "금값, 기록적인 수준에서 급락…미국 달러와 연준이 원인",
-      "summary": "금값, 기록적인 수준에서 급락…미국 달러와 연준이 원인 IDNFinancials",
-      "link": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxObzVPX1NLY1RjeWdfalZVR3d5bG1TZ0M3bERERVBSN3dsVzlYd1NVOHdjZXJHWG51VDRnWjgzOFBZN0ZpVWJOYjVZN2VPZjBpY29NUlFQaFB2b25WVk5QVnlXcHBFLUpreV9kMWI0M1BzTDF6X0ltT3VtdU9nQzNYOWY3VmVfeDQwODFDN1dhNGpVZFFnYkRtcXgwM2M4aU5qY0hMZ3U2eEhqTTcwOWxMUUR5UXlkUnpDaTVSX2RhdC0yR2JHWmpSOEZhNlBPMllqQUdyX3dyS3E1aTBIeXZqbFBrb2o3NURZZGNLdFotZ1g2SVJKaDJfT1VIU3Z5akxhWjYxT1dMUUh5TW9ZQlNMYzZxTDZQX2RSWEw2MFY5R1hjRlZZTG45Q1g4Q0lING9UZ1dOTG9WUlhwY1FtZ2tibjV5RkxoWnlTQU9peHRfTWM1dkF4Q1VPQk92VTJKazhFVndJWHJLdw?oc=5",
-      "source": "IDNFinancials",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "꺾이지 않는 고물가에…JP모건 \"연준, 3연속 금리 인상 전망\"",
-      "summary": "꺾이지 않는 고물가에…JP모건 \"연준, 3연속 금리 인상 전망\" www.ebn.co.kr",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvYklyMmJJZTIyd0IxbVNYemhBM0dfUGZ4U0RaTG4tTGlHb2Y3aE05cHQ3Zm1wU2lkT0gzU19Hd1JnQTl5cDlBVWlRdGxoMWFpYS1zaUI3czhIMDFsYS1jV3FfdFE0d3A0?oc=5",
-      "source": "www.ebn.co.kr",
-      "category": "거시·통화정책",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "[장중시황] 코스피, 美 반도체 규제 우려에 4%대 하락",
-      "summary": "[장중시황] 코스피, 美 반도체 규제 우려에 4%대 하락 브릿지경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhX1J3cGRLTGxsejJRMnBoVEVYZUhHdTdlbjJLX2g4Nml6S1BpeEEwd09tWVFyZTNyYk9yN3VuOGQ2c2NBN2pmMklOeDBVaVFQbzRqNTd6R0JzQQ?oc=5",
-      "source": "브릿지경제",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "삼성전자·TSMC, 중국에 일부 반도체 출하 중단…미국 규제 여파",
-      "summary": "삼성전자·TSMC, 중국에 일부 반도체 출하 중단…미국 규제 여파 한국NGO신문",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uUWV3N2l4QlZhR3RwQkdpRTNDU1pYMDBUVFR0aWs1b0RRd1hUcDE5SFA4UHNWZDlaMWlVV3JfYTNuNEUyR1ctX0wxcE8ySkRSOEEtTXlNaWtMTXFncnotdnRJYXJXR3dL?oc=5",
-      "source": "한국NGO신문",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "미국 AI 데이터센터 규제에도 반도체 호황 당분간 지속 전망, 삼성전자 SK하이닉스 주가는 시험대",
-      "summary": "미국 AI 데이터센터 규제에도 반도체 호황 당분간 지속 전망, 삼성전자 SK하이닉스 주가는 시험대 비즈니스포스트",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yWG04YVh3U2M0NUI1ZHFOdmlPVzlGU2FOaFJWenNoVjVIcGY4YWJaMU1YaW16V3MxR0lHd1lzRlU0ZjFXS29XNlltSU1tOFUzdHRueHFNMml5QmRIelZDZUxvRVc3NGtTVjdFVkNjZVZiem8?oc=5",
-      "source": "비즈니스포스트",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "AMD도 중국 수출 규제 의혹…주가 7.7% 급락",
-      "summary": "AMD도 중국 수출 규제 의혹…주가 7.7% 급락 스페셜경제",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BeHoxd201V1FKN01ad3FSUWpqQi1JWWE3TzVLWGNTMGRWNEplUGdZdmlxN19YQVpWckg4Nk10RzY4c1loV3RNeXd2bkR2b1hhb1VaZ1NxN1Atczd2amVvcGNrVTJsS0JWYjl5Wg?oc=5",
-      "source": "스페셜경제",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "美 AI 반도체 수출규제 강화…삼성전자·TSMC, 中 고객사 칩 공급 중단",
-      "summary": "美 AI 반도체 수출규제 강화…삼성전자·TSMC, 中 고객사 칩 공급 중단 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43TEZxYTUzUGs2cFJUdi1sdHRWM0x5bXI4Z2oySlJubmJfQkctbEtVVFIyUTdrR2FHZ0lNWWN1blA2S0dDeVFRdWZXZmJUZmp0QjJ6VEZiRUZPQUtWeEhSRA?oc=5",
-      "source": "아시아경제",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "美, 중국 반도체 숨통 더 조인다…삼성·TSMC도 출하 중단",
-      "summary": "美, 중국 반도체 숨통 더 조인다…삼성·TSMC도 출하 중단 한국경제",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ocTRubF95TUZOcFlDZThPOE5VZkMtSGNlUTlBc1BQVVFYb0Ztb3Rnei1oQkpCVjM2cWtrUzRMZEVRcW5JQWtKUXBsVU9LMTZ6YzlmVTAtNzhrQQ?oc=5",
-      "source": "한국경제",
-      "category": "산업·섹터",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "앤트로픽 상장에도 미 증시↓...코스피도 약세 개장",
-      "summary": "앤트로픽 상장에도 미 증시↓...코스피도 약세 개장 YTN",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jTWhwSWYzMkpPSFhMaURuT25KTElXZlJWVUJaM2RoRXRPb0laT2oyTVdZaVNCeVlrWENabHF2bk9YdUl5ZDlycFhLUGtibFhsbnRxaDdfRXd6NFRPTnc?oc=5",
-      "source": "YTN",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "[마켓 프리뷰] 코스피 등락 끝 상승…앤트로픽 상장 이후 수급 촉각",
-      "summary": "[마켓 프리뷰] 코스피 등락 끝 상승…앤트로픽 상장 이후 수급 촉각 SBS Biz",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JTDdKcnpKTldsd1NlMVpSRnhHWElDYWFkc3NLUnI3ejVPTW1KMXhsdHU1MXpYODF4aG9Db2otRUtDbW53akluYm9Ia2l2NEZPb3lZ0gFYQVVfeXFMTVdFbDA1c3gxOTBDb0YxTjFrRi0zRHRPeUtTZ29CTDRpVlA0bHZDODZGZjZCVVBKWE1lalVUMWZQUGx5UTVsN2lDQ3JDTjFqRHZJSXQ1Q0IyZA?oc=5",
-      "source": "SBS Biz",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "[장중수급포착] 에스와이, 외국인/기관 동시 순매수… 주가 +4.38%",
-      "summary": "[장중수급포착] 에스와이, 외국인/기관 동시 순매수… 주가 +4.38% 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9LNmh6MThycnphd3JIVkJhcGFuaEVYeHJoYXBzc0dDNnpJUk5WY3daZWRnTHdueGIxR0VRQmFWMjc4LXZ4OG1TVjFVM0EtZFExMFpHUUtQelljMjBH?oc=5",
-      "source": "뉴스핌",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "[오늘 증시 전망] 코스피 5,100선 회복했지만 뉴욕증시 급락…20일 외국인 수급이 관건",
-      "summary": "[오늘 증시 전망] 코스피 5,100선 회복했지만 뉴욕증시 급락…20일 외국인 수급이 관건 업코리아",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VTmVVYWxLVkxmSVlWa3NydEVRMkVSNmdBUGowTXBOV3FtTmZEdEZTWXpMWU9OVGNKRGt6QndkR2std2FOWi11T21VOTNkYy03V1k0bHBSeUZzOVp2WFVWc3M4T3lJVVR3TWZBQmZ3?oc=5",
-      "source": "업코리아",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "[오늘의 증시]앤트로픽 상장에 美 AI주 약세…코스피 위기감 고조",
-      "summary": "[오늘의 증시]앤트로픽 상장에 美 AI주 약세…코스피 위기감 고조 뉴시스",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10NzB5QmJ3Rzd3dV8xT3BjT1U2TWpyQl9nOWtpOE0xNmdaOFNjLVV6U1Zmc1hfS1g2d0VWNGpiVFR6UFliTHhpMVRpRDM3NmIxektQalE4a0VHYklYTUZwOUFiUmp6QXRFWVhjbmVUVVRlRUhJbllUQdIBeEFVX3lxTE10NzB5QmJ3Rzd3dV8xT3BjT1U2TWpyQl9nOWtpOE0xNmdaOFNjLVV6U1Zmc1hfS1g2d0VWNGpiVFR6UFliTHhpMVRpRDM3NmIxektQalE4a0VHYklYTUZwOUFiUmp6QXRFWVhjbmVUVVRlRUhJbllUQQ?oc=5",
-      "source": "뉴시스",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "활력 떨어진 코스피…거래량 12년만 최저 [이슈&뷰]",
-      "summary": "활력 떨어진 코스피…거래량 12년만 최저 [이슈&뷰] 헤럴드경제",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xQ0pCZVdVbUx4cHBaMGlTMzdOVlU2MnFzU1h4ZEowZEFrSUxraVp2WkswOFhaTmJYNDRZQ0dtaVNwUXhwSC0xZ0lNQXhTWXBhbFpvS3lB?oc=5",
-      "source": "헤럴드경제",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "코스피 5,000선 등락 속 테마주강세…이동우 대표가 주목한 핵심 수급주는?",
-      "summary": "코스피 5,000선 등락 속 테마주강세…이동우 대표가 주목한 핵심 수급주는? 아시아경제",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15VWlhSjd4SkdZcW9uN3V4dW1Rd2JNM3k4MmczbzRmNlNNNUVJNXpnMkVNalY4STY2dUdweEN3LWZkNFNDWlU5VVAtWmI2TVZaeGg3RmZKSHFnaDI1UmxUZg?oc=5",
-      "source": "아시아경제",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "[장중수급포착] 한진칼, 외국인/기관 동시 순매수… 주가 +11.57%",
-      "summary": "[장중수급포착] 한진칼, 외국인/기관 동시 순매수… 주가 +11.57% 뉴스핌",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1OYzFYSWhVNU9kMzdtWVhRYnRWc1RVTndiSlFRZ1ROZV9CbThDOVdnMFd6Q1Q4WWszdk5ZajZ5RmRIb0M0ODM4d2RDNTBWemVYLXhUeFRCVkhBa2tT?oc=5",
-      "source": "뉴스핌",
-      "category": "시장흐름",
-      "market": "국내",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "나스닥 사장, 12월 앤트로픽 나스닥 100 편입 유력",
-      "summary": "나스닥 사장, 12월 앤트로픽 나스닥 100 편입 유력 연합인포맥스",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JNFZTSVhWQ0pTNDBONWh1bnZ6UzhPTk9NQTZKbHQ5Mi1yMmlSWU5ZTlpuZlBMSy1ya2gxN0ZaTktnRThuZE5rbkx2amNLeVdzMmlwYVhoTWhjWk1kZWFFZjlhUWJPNmlTek5CQW1aYXo?oc=5",
-      "source": "연합인포맥스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "앤트로픽 상장에도 뉴욕증시 2% 넘게 급락",
-      "summary": "앤트로픽 상장에도 뉴욕증시 2% 넘게 급락 연합뉴스 한민족센터",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OMnFDQTRqNXFpLTBxeTdySnE4TXg1bzNSMm9JMHExRGIzc2RzMTN3emJTc2c1cE1nMXB3QktDTmc3ZXFoMU5PS1IxYjJCT29MMHdtdHE0ZlVENS1lWHdlU2NnSmpZTll5MW44SE9uMkw5SXpu?oc=5",
-      "source": "연합뉴스 한민족센터",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "[뉴욕 인사이트] 앤트로픽 IPO 흥행에도 AI 투자심리 위축…뉴욕증시 2%대 급락, 다우 5만 선 붕괴 (영상)",
-      "summary": "[뉴욕 인사이트] 앤트로픽 IPO 흥행에도 AI 투자심리 위축…뉴욕증시 2%대 급락, 다우 5만 선 붕괴 (영상) Investing.com 한국어",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1ek53TkRFZ0d0dG13cThwcVJJTGRsM25RYVdnaTV4c0p1UnRMc0hGYVFvVnBJa0hRcFc3cWlUTkJfR2tVM3RmbVF4ZEM2NzV1U1hNNkEzWFpSTGxFV1JKZg?oc=5",
-      "source": "Investing.com 한국어",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "XM, 앤트로픽 나스닥 상장 맞춰 거래 지원 준비",
-      "summary": "XM, 앤트로픽 나스닥 상장 맞춰 거래 지원 준비 AI타임스",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQd0s5eFpEbXAxUl9fd2dpWHZBR1ktWC1xRXFPejQ5NUNaOTVnZmwwRTJweldCemh3bXlsTjZucHZmQzc0ZkRaMnRnVlRJb1M1cGNkNlE0TmxWVklDOGFQbENMZlhtZ0JPLWc?oc=5",
-      "source": "AI타임스",
-      "category": "시장흐름",
-      "market": "미국",
-      "pubDate": "2026-11-20"
-    },
-    {
-      "title": "앤트로픽 나스닥 상장‥기술주 엇갈려",
-      "summary": "앤트로픽 나스닥 상장‥기술주 엇갈려 MBC 뉴스",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uVXFIeUgtbWw3SUFVM1JBdVQ2b2lCUzdjZ1R1X1FkakRIVHJwVE1DX0JoYWIzZVp1MGhNNkdOdk9SdnR3YlBGZUtzNjBZc3N0Q3d5cmhnUmVSMV95dE5JZkdvZjQ3SmtrTnNsYVFaSDU2YjNIZU04eFZn0gF6QVVfeXFMTjNuTGUtT2kzLTNzT1ZUalZibjd2TWI4OFdxaEpaVTZ4XzBLSHNqdjlQc2laUUhKdThtOXRsNEpDbFlldjM3Ti1wZDFnemNOUmpDWVloQ3piTldMSllITnNxMUFxazRpNEhNOHdkaUFkMGN2MGNiTlRiU2c?oc=5",
-      "source": "MBC 뉴스",
-      "category": "시장흐름",
-      "market": "미국",
       "pubDate": "2026-11-20"
     }
   ]
